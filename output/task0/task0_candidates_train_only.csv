@@ -1,0 +1,551 @@
+phrase,frequency,words
+"người phụ_nữ",1806,2
+"sự xuất_hiện của",1776,3
+"cô gái",1502,2
+"người đàn_ông",1280,2
+"đứng",1144,1
+"nhiều người",1135,2
+"xuất_hiện của",1121,2
+"đường",1102,1
+"người",1048,1
+"xuất_hiện",836,1
+"di_chuyển",735,1
+"ngồi",555,1
+"bức ảnh",547,2
+"một_vài người",528,2
+"khu chợ",496,2
+"quầy hàng",470,2
+"xe_máy",465,1
+"xuất_hiện của nhiều",464,3
+"nhóm người",434,2
+"kệ hàng",431,2
+"cầm",414,1
+"cửa_hàng",413,1
+"ngôi nhà",411,2
+"siêu_thị",402,1
+"bày_bán",382,1
+"tay",362,1
+"trước",347,1
+"trưng_bày",336,1
+"màu trắng",329,2
+"màu đỏ",321,2
+"rau củ quả",303,3
+"nhau",299,1
+"vỉa_hè",299,1
+"toà nhà",292,2
+"đặt",271,1
+"củ quả",259,2
+"màu vàng",253,2
+"bàn",252,1
+"căn nhà",245,2
+"người xuất_hiện",233,2
+"treo",228,1
+"chàng trai",228,2
+"con phố",223,2
+"con đường",219,2
+"cặp đôi",212,2
+"nhiều",210,1
+"chụp ảnh",209,2
+"xe đẩy siêu_thị",205,3
+"áo trắng",196,2
+"màu đen",196,2
+"nón lá",195,2
+"một_vài",186,1
+"áo đen",184,2
+"bức tranh",182,2
+"của",180,1
+"đi bộ",179,2
+"nam thanh_niên",178,2
+"trái",177,1
+"trước của",172,2
+"phải",170,1
+"đẩy siêu_thị",169,2
+"căn phòng",166,2
+"quán ăn",163,2
+"đội nón lá",162,3
+"mặt_nước",158,1
+"của cô gái",154,3
+"lề_đường",152,1
+"áo đỏ",147,2
+"màu xanh",143,2
+"xanh lá cây",143,3
+"con thuyền",142,2
+"màu xanh lá",139,3
+"của nhiều người",138,3
+"tường",137,1
+"nhìn",135,1
+"trước cửa_hàng",133,2
+"lối đi",131,2
+"xanh dương",130,2
+"con sông",129,2
+"đèn_lồng",129,1
+"nhiều mặt_hàng",129,2
+"thuyền",127,1
+"khu di_tích",127,2
+"mua hàng",127,2
+"dựng",124,1
+"lá cây",124,2
+"đi",122,1
+"sông",122,1
+"xuất_hiện của một_vài",120,3
+"của người phụ_nữ",117,3
+"bức tường",116,2
+"biển",113,1
+"nhiều người xuất_hiện",113,3
+"phương_tiện giao_thông",111,2
+"người phụ_nữ đội",111,3
+"hàng rau củ",106,3
+"xe_đạp",106,1
+"phố",102,1
+"quầy hàng rau",98,3
+"đám đông",96,2
+"áo_dài",95,1
+"cây cầu",94,2
+"bày",92,1
+"màu xanh dương",92,3
+"tạo_dáng chụp ảnh",91,3
+"đứng trước",90,2
+"áo xanh",90,2
+"bạn nữ",90,2
+"sau lưng của",90,3
+"đứa trẻ",89,2
+"trang_trí giáng_sinh",89,2
+"giữa",87,1
+"của toà nhà",87,3
+"đỗ",87,1
+"trước toà nhà",86,3
+"gian_hàng",86,1
+"đeo kính",86,2
+"nhà cao_tầng",85,2
+"bức tượng",85,2
+"đồ trang_trí giáng_sinh",85,3
+"áo vàng",84,2
+"phụ_nữ đội nón",83,3
+"trước ngôi nhà",82,3
+"người phụ_nữ đeo",82,3
+"tủ kính",81,2
+"của siêu_thị",81,2
+"con hẻm",81,2
+"trước mặt người",79,3
+"màu cam",79,2
+"cô gái đeo",79,3
+"ô_tô",79,1
+"quầy hàng bán",79,3
+"đồ trang_trí",79,2
+"tạo_dáng",77,1
+"món ăn",77,2
+"trang_trí",77,1
+"bạn trẻ",77,2
+"các kệ hàng",77,3
+"của cửa_hàng",76,2
+"của ngôi nhà",76,3
+"em học_sinh",76,2
+"sạp hàng",75,2
+"bức ảnh chụp",75,3
+"phòng trưng_bày",74,2
+"mỉm cười",74,2
+"khu_vực",72,1
+"xe_máy xuất_hiện",72,2
+"nhiều phương_tiện giao_thông",71,3
+"nhìn về",70,2
+"di_tích lịch_sử",70,2
+"gần",70,1
+"đẩy",69,1
+"cửa tiệm",69,2
+"khu di_tích lịch_sử",68,3
+"cây thông noel",68,3
+"trước mặt của",68,3
+"bãi biển",67,2
+"khu_phố",67,1
+"trước quầy hàng",67,3
+"tay của người",67,3
+"sân",67,1
+"của căn nhà",66,3
+"món đồ trang_trí",66,3
+"nắm tay nhau",66,3
+"dòng chữ màu",65,3
+"trước căn nhà",64,3
+"quán cà_phê",64,2
+"nhà cổ",63,2
+"chợ",63,1
+"tay nhau",63,2
+"cậu bé",62,2
+"đứa bé",61,2
+"con tàu",61,2
+"ngôi nhà cao_tầng",60,3
+"màu hồng",60,2
+"căn phòng trưng_bày",60,3
+"vàng xuất_hiện",60,2
+"đông người",59,2
+"mặt trước của",59,3
+"người đàn_ông đeo",59,3
+"đỏ xuất_hiện",59,2
+"ngôi đền",58,2
+"xe",58,1
+"kệ",58,1
+"các quầy hàng",58,3
+"nhiều món đồ",58,3
+"ảnh chụp",58,2
+"của khu chợ",57,3
+"xe đẩy",57,2
+"hàng xuất_hiện",57,2
+"xe ô_tô",57,2
+"trạng_thái đóng_cửa",56,2
+"cửa_hàng quần_áo",56,2
+"của người đàn_ông",56,3
+"áo hồng",56,2
+"áo màu xanh",55,3
+"đeo khẩu_trang màu",55,3
+"bức tường tranh",55,3
+"bé gái",54,2
+"nhiều mặt_hàng rau",54,3
+"trước mặt",53,2
+"quả xuất_hiện",53,2
+"lá cờ",53,2
+"mặt_hàng rau củ",53,3
+"thông noel",53,2
+"loại rau củ",53,3
+"nhiều mặt_hàng đồ",53,3
+"cả",52,1
+"nhiều con thuyền",52,3
+"áo sơ_mi trắng",52,3
+"của một_vài người",52,3
+"bậc thang",52,2
+"màu nâu",51,2
+"hoa xuất_hiện",51,2
+"một_số người",51,2
+"gian",51,1
+"đậu",50,1
+"sau",50,1
+"tham_quan",50,1
+"trước của toà",50,3
+"của con đường",50,3
+"người phụ_nữ áo",50,3
+"ngôi nhà cổ",50,3
+"trắng xuất_hiện",50,2
+"cửa_hàng tạp_hoá",49,2
+"nhóm bạn trẻ",49,3
+"cô gái đội",48,3
+"nhiều loại rau",48,3
+"toà thành cổ",48,3
+"mặt người phụ_nữ",47,3
+"bức tranh vẽ",47,3
+"điện_thoại",47,1
+"áo cam",47,2
+"chụp ảnh tập_thể",47,3
+"bộ bàn_ghế",47,2
+"nhiều mặt_hàng quần_áo",46,3
+"sơ_mi trắng",46,2
+"gian trại",46,2
+"một_vài người xuất_hiện",46,3
+"bán hàng",45,2
+"nhiều bộ bàn_ghế",45,3
+"tay người phụ_nữ",45,3
+"nhiều xe_cộ",45,2
+"tường màu vàng",44,3
+"buổi",44,1
+"mặt_hàng quần_áo",44,2
+"bán đồ trang_trí",44,3
+"lưu_thông",44,1
+"phát_biểu",44,1
+"lưng của cô",44,3
+"ngôi chùa",44,2
+"nhiều loại hàng_hoá",44,3
+"xích_lô",43,1
+"đeo",43,1
+"bán rau củ",43,3
+"nhà cũ",43,2
+"cây xuất_hiện",43,2
+"tay của cô",43,3
+"gái xuất_hiện",43,2
+"tụ_tập",43,1
+"của quán ăn",42,3
+"bờ sông",42,2
+"nhiều xe_máy",42,2
+"nhiều ngôi nhà",42,3
+"màu xám",42,2
+"quầy rau củ",42,3
+"đứng gần",42,2
+"màu đỏ xuất_hiện",42,3
+"tấm biển quảng_cáo",42,3
+"túi",41,1
+"nhiều bức ảnh",41,3
+"áo màu trắng",41,3
+"trần nhà",41,2
+"ngôi nhà cũ",41,3
+"lối",41,1
+"cô gái xuất_hiện",41,3
+"chụp ảnh trước",40,3
+"uống nước",40,2
+"hồ nước",40,2
+"sân_khấu",40,1
+"đường_ray tàu_hoả",40,2
+"tường tranh",40,2
+"biển quảng_cáo",40,2
+"gần nhau",39,2
+"xanh lá",39,2
+"buổi đêm",39,2
+"các em học_sinh",39,3
+"cây",39,1
+"loại hàng_hoá",39,2
+"khu_phố cổ",39,2
+"màu vàng xuất_hiện",39,3
+"người phụ_nữ xuất_hiện",38,3
+"rau củ",38,2
+"đứng trước quầy",38,3
+"người đàn_bà",38,2
+"cô bé",38,2
+"đeo khẩu_trang",38,2
+"bãi cỏ",38,2
+"ghế",38,1
+"bảng thông_báo",38,2
+"của nhiều loại",38,3
+"nhiều món ăn",38,3
+"phụ_nữ xuất_hiện",37,2
+"hàng",37,1
+"áo xanh lá",37,3
+"mọi người",37,2
+"ảnh tập_thể",37,2
+"nhiều sạp hàng",37,3
+"bó hoa",36,2
+"nằm",36,1
+"ghế nhựa",36,2
+"bán quần_áo",36,2
+"ảnh",36,1
+"người đàn_ông xuất_hiện",36,3
+"màu trắng xuất_hiện",36,3
+"ghế nhựa màu",35,3
+"đóng_cửa",35,1
+"cuốn sách",35,2
+"khẩu_trang màu trắng",35,3
+"củ quả xuất_hiện",35,3
+"chạy",35,1
+"cây_xanh xuất_hiện",35,2
+"áo xanh dương",35,3
+"bông hoa",35,2
+"sản_phẩm",35,1
+"bảo_tàng",35,1
+"micro",35,1
+"nhiều bức tranh",35,3
+"thành cổ",35,2
+"đạp xe",34,2
+"cây_cổ_thụ",34,1
+"toà nhà cao_tầng",34,3
+"hàng_hoá xuất_hiện",34,2
+"người đội nón",34,3
+"cầu",34,1
+"các gian_hàng",34,2
+"mặt_hàng đồ trang_trí",34,3
+"đàn_ông xuất_hiện",34,2
+"toà nhà_lớn",34,2
+"nhiều hiện_vật",34,2
+"chậu cây",34,2
+"chạy xe_máy",34,2
+"sơn màu vàng",33,3
+"trước cửa của",33,3
+"nhiều sản_phẩm",32,2
+"xuồng",32,1
+"tầng",32,1
+"xếp_hàng",32,1
+"cao_tầng xuất_hiện",32,2
+"tấm bảng thông_báo",32,3
+"dắt",32,1
+"lan_can",32,1
+"xung_quanh",32,1
+"của một_vài",32,2
+"tay của",32,2
+"nhiều quầy hàng",32,3
+"sản_phẩm xuất_hiện",31,2
+"nhiều loại sản_phẩm",31,3
+"nhà cao_tầng xuất_hiện",31,3
+"chụp",31,1
+"quyển sách",31,2
+"cổ xuất_hiện",31,2
+"của nhiều mặt_hàng",31,3
+"cao của",30,2
+"màu tím",30,2
+"người phụ_nữ đứng",30,3
+"cỏ xanh",30,2
+"áo màu đen",30,3
+"bạn nam",30,2
+"nói_chuyện",30,1
+"đen xuất_hiện",30,2
+"hàng quần_áo",29,2
+"gái đội nón",29,3
+"trước khu chợ",29,3
+"quán",29,1
+"quầy",29,1
+"bát phở",29,2
+"tranh xuất_hiện",29,2
+"cửa_hàng bán đồ",29,3
+"trước của cửa_hàng",29,3
+"ảnh trước",29,2
+"thùng hàng",29,2
+"hàng trái_cây",29,2
+"của quầy hàng",28,3
+"tiệm tạp_hoá",28,2
+"cửa",28,1
+"sau lưng người",28,3
+"bãi cỏ xanh",28,3
+"nhà gỗ",28,2
+"sau lưng cô",28,3
+"lưng cô gái",28,3
+"nhà xuất_hiện",28,2
+"cổng",28,1
+"xe_hơi",28,1
+"mặt của người",28,3
+"con ngõ",28,2
+"xuất_hiện trước mặt",28,3
+"trước cổng của",28,3
+"ngồi uống nước",28,3
+"chợ đêm",27,2
+"cây thông",27,2
+"tham_gia giao_thông",27,2
+"toà tháp",27,2
+"nhà_thờ",27,1
+"áo_dài trắng",27,2
+"người ngồi",27,2
+"áo_dài đỏ",27,2
+"áo xám",27,2
+"nhà_hàng",27,1
+"quầy thanh_toán",27,2
+"mặt người đàn_ông",27,3
+"quầy hàng trái_cây",27,3
+"của nhiều",27,2
+"cờ xuất_hiện",27,2
+"trước bức tường",26,3
+"ông_già noel",26,2
+"bộ xương",26,2
+"xung_quanh quầy hàng",26,3
+"em bé",26,2
+"của khu di_tích",26,3
+"trước của ngôi",26,3
+"khu rừng",26,2
+"chạm tay",26,2
+"bục",26,1
+"của quán",26,2
+"quần_áo xuất_hiện",26,2
+"nhiều cây_xanh",26,2
+"bức tường màu",26,3
+"áo tím",26,2
+"váy trắng",26,2
+"tính tiền",26,2
+"trao_đổi",26,1
+"quanh",26,1
+"bờ hồ",26,2
+"đeo kính_râm",26,2
+"thuyền xuất_hiện",26,2
+"cánh đồng",26,2
+"trang_trí xuất_hiện",26,2
+"của nhóm người",26,3
+"hàng hoa_quả",26,2
+"kiến_trúc cổ",26,2
+"ghe",26,1
+"rất nhiều người",25,3
+"bờ biển",25,2
+"vẽ",25,1
+"nhiều cuốn sách",25,3
+"bảng_hiệu",25,1
+"màu chủ_đạo",25,2
+"đeo túi_xách",25,2
+"người phụ_nữ cầm",25,3
+"dòng chữ",25,2
+"giỏ hàng màu",25,3
+"đồ bảo_hộ",25,2
+"hộp quà",25,2
+"của con phố",25,3
+"quầy hàng hoa_quả",25,3
+"màu đen xuất_hiện",25,3
+"quầy hàng quần_áo",24,3
+"trước của căn",24,3
+"bắc ngang",24,2
+"một_vài người phụ_nữ",24,3
+"đầu",24,1
+"ô_tô xuất_hiện",24,2
+"vệ đường",24,2
+"nhân_viên",24,1
+"rộng vành",24,2
+"của nam thanh_niên",24,3
+"chữ màu vàng",24,3
+"của bức ảnh",24,3
+"nước xuất_hiện",24,2
+"bó rau",24,2
+"ban_công của",24,2
+"các sạp hàng",24,3
+"tấm biển tên",24,3
+"nắm tay",23,2
+"khu chợ đêm",23,3
+"phòng",23,1
+"xe xích_lô",23,2
+"dãy phố",23,2
+"mũ rộng vành",23,3
+"trời",23,1
+"các cửa_hàng",23,2
+"tấm biển màu",23,3
+"người đàn_ông đứng",23,3
+"căn nhà gỗ",23,3
+"trung_tâm thương_mại",23,2
+"hàng rong",23,2
+"hồ",23,1
+"đàn_ông đeo kính",23,3
+"vườn hoa",23,2
+"gánh hàng rong",23,3
+"đồ trang_trí xuất_hiện",23,3
+"nhiều hàng_hoá",23,2
+"nhiều thùng hàng",23,3
+"hộp",23,1
+"dắt xe_đạp",23,2
+"của nhiều món",23,3
+"bán rau",22,2
+"người đàn_ông_đội mũ",22,3
+"đồ đen",22,2
+"tay người đàn_ông",22,3
+"trạng_thái di_chuyển",22,2
+"quầy thu_ngân",22,2
+"ngồi ăn",22,2
+"chỉ",22,1
+"đội",22,1
+"công_viên",22,1
+"giỏ hàng",22,2
+"chèo thuyền",22,2
+"đền thờ",22,2
+"hội_chợ",22,1
+"quầy tính tiền",22,3
+"chữ màu trắng",22,3
+"hiện_vật",22,1
+"ngồi ăn_ở",22,2
+"khu xưởng",22,2
+"đèn_lồng xuất_hiện",22,2
+"nhau chụp ảnh",22,3
+"bộ bàn_ghế xuất_hiện",22,3
+"bàn_ghế xuất_hiện",22,2
+"lá cờ xuất_hiện",22,3
+"loại sản_phẩm",21,2
+"dãy nhà",21,2
+"cây_cổ_thụ xuất_hiện",21,2
+"cây cầu bắc",21,3
+"tranh vẽ về",21,3
+"xanh da_trời",21,2
+"thúng",21,1
+"cô gái đứng",21,3
+"tấm bảng_hiệu",21,2
+"gỗ xuất_hiện",21,2
+"nhiều cây_xanh xuất_hiện",21,3
+"cửa_hàng đồ trang_trí",21,3
+"chở người",21,2
+"xe_buýt",21,1
+"đèn",21,1
+"xa_xa",21,1
+"tranh vẽ",21,2
+"tấm biển",21,2
+"hàng bán rau",21,3
+"quầy bán hàng",21,3
+"nhiều em học_sinh",21,3
+"đồng_chí công_an",21,2
+"túi đồ",21,2
+"của căn phòng",21,3
+"khu hội_chợ",21,2
+"thức_ăn xuất_hiện",21,2
+"nhựa màu xanh",20,3
+"biển_hiệu",20,1
+"hiệu sách",20,2

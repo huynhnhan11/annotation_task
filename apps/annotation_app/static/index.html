@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>ViG Raw Annotation</title>
+    <link rel="stylesheet" href="/static/styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar">
+        <header class="sidebar-header">
+          <div>
+            <h1>ViG Raw</h1>
+            <p id="progressText">Loading</p>
+          </div>
+          <button id="refreshBtn" class="icon-button" title="Refresh">↻</button>
+        </header>
+
+        <div class="filters">
+          <input id="searchInput" type="search" placeholder="Image id, term, text" />
+          <select id="statusFilter" title="Status filter">
+            <option value="all">All</option>
+            <option value="unreviewed">Unreviewed</option>
+            <option value="reviewed">Reviewed</option>
+            <option value="needs_review">Review</option>
+            <option value="cultural">Cultural ref</option>
+          </select>
+        </div>
+
+        <div id="itemList" class="item-list" aria-label="Images"></div>
+      </aside>
+
+      <main class="workspace">
+        <section class="media-pane">
+          <div class="media-toolbar">
+            <button id="prevBtn" class="nav-button" title="Previous">‹</button>
+            <div class="image-title">
+              <span id="imageId">Image</span>
+              <span id="imageMeta"></span>
+            </div>
+            <button id="nextBtn" class="nav-button" title="Next">›</button>
+          </div>
+          <div class="image-stage">
+            <img id="mainImage" alt="Selected test image" />
+          </div>
+        </section>
+
+        <section class="caption-pane">
+          <div class="text-block prediction-block">
+            <div class="block-label">ViG prediction</div>
+            <p id="predictionText"></p>
+          </div>
+
+          <div class="term-row">
+            <div>
+              <div class="block-label">Reference cultural terms</div>
+              <div id="referenceTerms" class="chips"></div>
+            </div>
+            <div>
+              <div class="block-label">Prediction cultural terms</div>
+              <div id="predictionTerms" class="chips"></div>
+            </div>
+          </div>
+
+          <div class="ai-draft">
+            <div class="draft-header">
+              <div>
+                <div class="block-label">AI draft · review required</div>
+                <div id="draftMetrics" class="draft-metrics"></div>
+              </div>
+              <button id="applyDraftBtn" type="button" class="secondary-button">Apply draft</button>
+            </div>
+            <div id="draftLabels" class="draft-labels"></div>
+            <p id="draftExplanation"></p>
+          </div>
+
+          <div class="references">
+            <div class="block-label">References</div>
+            <ol id="referenceList"></ol>
+          </div>
+        </section>
+      </main>
+
+      <aside class="annotation-pane">
+        <div class="annotation-header">
+          <div>
+            <h2>Annotation</h2>
+            <p id="saveState">Not saved</p>
+          </div>
+          <label class="annotator">
+            <span>Annotator</span>
+            <input id="annotatorInput" type="text" placeholder="name" />
+          </label>
+        </div>
+
+        <form id="annotationForm">
+          <div class="switch-row">
+            <label><input id="reviewedInput" type="checkbox" /> Reviewed</label>
+            <label><input id="needsReviewInput" type="checkbox" /> REVIEW</label>
+          </div>
+
+          <fieldset>
+            <legend>Caption quality</legend>
+            <div class="segmented" data-field="caption_quality">
+              <button type="button" data-value="correct">Correct</button>
+              <button type="button" data-value="partial">Partial</button>
+              <button type="button" data-value="missing">Missing</button>
+              <button type="button" data-value="wrong">Wrong</button>
+              <button type="button" data-value="unsure">Unsure</button>
+            </div>
+          </fieldset>
+
+          <fieldset>
+            <legend>Specificity</legend>
+            <div class="segmented" data-field="specificity">
+              <button type="button" data-value="specific">Specific</button>
+              <button type="button" data-value="generic">Generic</button>
+              <button type="button" data-value="too_specific">Too specific</button>
+              <button type="button" data-value="unsure">Unsure</button>
+            </div>
+          </fieldset>
+
+          <fieldset>
+            <legend>Error tags</legend>
+            <div class="check-grid">
+              <label><input id="culturalMissedInput" type="checkbox" /> cultural_entity_missed</label>
+              <label><input id="templateBiasInput" type="checkbox" /> template_bias</label>
+              <label><input id="hallucinationInput" type="checkbox" /> object_hallucination</label>
+              <label><input id="wrongObjectInput" type="checkbox" /> wrong_object_or_action</label>
+              <label><input id="languageIssueInput" type="checkbox" /> language_issue</label>
+            </div>
+          </fieldset>
+
+          <label class="field-label">
+            <span>Expected cultural terms</span>
+            <input id="expectedTermsInput" type="text" />
+          </label>
+
+          <label class="field-label">
+            <span>Predicted cultural terms</span>
+            <input id="predictedTermsInput" type="text" />
+          </label>
+
+          <label class="field-label">
+            <span>Explanation</span>
+            <textarea id="explanationInput" rows="7"></textarea>
+          </label>
+
+          <div class="actions">
+            <button id="saveBtn" type="submit" class="primary-button">Save</button>
+            <a id="jsonLink" class="secondary-link" href="/api/export.json">JSON</a>
+            <a id="csvLink" class="secondary-link" href="/api/export.csv">CSV</a>
+          </div>
+        </form>
+      </aside>
+    </div>
+
+    <script src="/static/app.js"></script>
+  </body>
+</html>

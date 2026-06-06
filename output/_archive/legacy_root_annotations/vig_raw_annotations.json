@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "schema_version": 1,
+    "task": "vig_raw_manual_annotation",
+    "source_predictions": "task/prediction_details_test_epoch10.json",
+    "vocab": "task/output/V_cultural_train_only.json",
+    "created_at": "2026-06-06T22:05:20+00:00",
+    "updated_at": "2026-06-06T22:05:20+00:00"
+  },
+  "annotations": []
+}

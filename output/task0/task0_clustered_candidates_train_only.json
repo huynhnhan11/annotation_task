@@ -1,0 +1,4594 @@
+{
+  "cluster_0": {
+    "cluster_id": 0,
+    "size": 20,
+    "phrases": [
+      {
+        "phrase": "nhiều mặt_hàng",
+        "frequency": 129,
+        "words": 2
+      },
+      {
+        "phrase": "nhiều món đồ",
+        "frequency": 58,
+        "words": 3
+      },
+      {
+        "phrase": "nhiều mặt_hàng rau",
+        "frequency": 54,
+        "words": 3
+      },
+      {
+        "phrase": "nhiều mặt_hàng đồ",
+        "frequency": 53,
+        "words": 3
+      },
+      {
+        "phrase": "nhiều con thuyền",
+        "frequency": 52,
+        "words": 3
+      },
+      {
+        "phrase": "nhiều loại rau",
+        "frequency": 48,
+        "words": 3
+      },
+      {
+        "phrase": "nhiều mặt_hàng quần_áo",
+        "frequency": 46,
+        "words": 3
+      },
+      {
+        "phrase": "nhiều loại hàng_hoá",
+        "frequency": 44,
+        "words": 3
+      },
+      {
+        "phrase": "nhiều ngôi nhà",
+        "frequency": 42,
+        "words": 3
+      },
+      {
+        "phrase": "nhiều bức ảnh",
+        "frequency": 41,
+        "words": 3
+      },
+      {
+        "phrase": "nhiều món ăn",
+        "frequency": 38,
+        "words": 3
+      },
+      {
+        "phrase": "nhiều sạp hàng",
+        "frequency": 37,
+        "words": 3
+      },
+      {
+        "phrase": "nhiều bức tranh",
+        "frequency": 35,
+        "words": 3
+      },
+      {
+        "phrase": "nhiều hiện_vật",
+        "frequency": 34,
+        "words": 2
+      },
+      {
+        "phrase": "nhiều sản_phẩm",
+        "frequency": 32,
+        "words": 2
+      },
+      {
+        "phrase": "nhiều quầy hàng",
+        "frequency": 32,
+        "words": 3
+      },
+      {
+        "phrase": "nhiều loại sản_phẩm",
+        "frequency": 31,
+        "words": 3
+      },
+      {
+        "phrase": "nhiều cuốn sách",
+        "frequency": 25,
+        "words": 3
+      },
+      {
+        "phrase": "nhiều hàng_hoá",
+        "frequency": 23,
+        "words": 2
+      },
+      {
+        "phrase": "nhiều thùng hàng",
+        "frequency": 23,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_1": {
+    "cluster_id": 1,
+    "size": 13,
+    "phrases": [
+      {
+        "phrase": "bức tranh",
+        "frequency": 182,
+        "words": 2
+      },
+      {
+        "phrase": "khu di_tích",
+        "frequency": 127,
+        "words": 2
+      },
+      {
+        "phrase": "bức tượng",
+        "frequency": 85,
+        "words": 2
+      },
+      {
+        "phrase": "khu di_tích lịch_sử",
+        "frequency": 68,
+        "words": 3
+      },
+      {
+        "phrase": "bức tường tranh",
+        "frequency": 55,
+        "words": 3
+      },
+      {
+        "phrase": "ngôi nhà cổ",
+        "frequency": 50,
+        "words": 3
+      },
+      {
+        "phrase": "bức tranh vẽ",
+        "frequency": 47,
+        "words": 3
+      },
+      {
+        "phrase": "buổi đêm",
+        "frequency": 39,
+        "words": 2
+      },
+      {
+        "phrase": "cỏ xanh",
+        "frequency": 30,
+        "words": 2
+      },
+      {
+        "phrase": "kiến_trúc cổ",
+        "frequency": 26,
+        "words": 2
+      },
+      {
+        "phrase": "quầy hàng quần_áo",
+        "frequency": 24,
+        "words": 3
+      },
+      {
+        "phrase": "chèo thuyền",
+        "frequency": 22,
+        "words": 2
+      },
+      {
+        "phrase": "đền thờ",
+        "frequency": 22,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_2": {
+    "cluster_id": 2,
+    "size": 11,
+    "phrases": [
+      {
+        "phrase": "áo đen",
+        "frequency": 184,
+        "words": 2
+      },
+      {
+        "phrase": "áo xanh",
+        "frequency": 90,
+        "words": 2
+      },
+      {
+        "phrase": "áo vàng",
+        "frequency": 84,
+        "words": 2
+      },
+      {
+        "phrase": "áo hồng",
+        "frequency": 56,
+        "words": 2
+      },
+      {
+        "phrase": "áo màu xanh",
+        "frequency": 55,
+        "words": 3
+      },
+      {
+        "phrase": "áo sơ_mi trắng",
+        "frequency": 52,
+        "words": 3
+      },
+      {
+        "phrase": "áo cam",
+        "frequency": 47,
+        "words": 2
+      },
+      {
+        "phrase": "áo xanh lá",
+        "frequency": 37,
+        "words": 3
+      },
+      {
+        "phrase": "áo màu đen",
+        "frequency": 30,
+        "words": 3
+      },
+      {
+        "phrase": "áo tím",
+        "frequency": 26,
+        "words": 2
+      },
+      {
+        "phrase": "váy trắng",
+        "frequency": 26,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_3": {
+    "cluster_id": 3,
+    "size": 9,
+    "phrases": [
+      {
+        "phrase": "cô gái",
+        "frequency": 1502,
+        "words": 2
+      },
+      {
+        "phrase": "của cô gái",
+        "frequency": 154,
+        "words": 3
+      },
+      {
+        "phrase": "xanh lá cây",
+        "frequency": 143,
+        "words": 3
+      },
+      {
+        "phrase": "của toà nhà",
+        "frequency": 87,
+        "words": 3
+      },
+      {
+        "phrase": "người phụ_nữ đeo",
+        "frequency": 82,
+        "words": 3
+      },
+      {
+        "phrase": "cô gái đeo",
+        "frequency": 79,
+        "words": 3
+      },
+      {
+        "phrase": "của căn nhà",
+        "frequency": 66,
+        "words": 3
+      },
+      {
+        "phrase": "người đàn_ông đeo",
+        "frequency": 59,
+        "words": 3
+      },
+      {
+        "phrase": "người phụ_nữ áo",
+        "frequency": 50,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_4": {
+    "cluster_id": 4,
+    "size": 9,
+    "phrases": [
+      {
+        "phrase": "xe đẩy siêu_thị",
+        "frequency": 205,
+        "words": 3
+      },
+      {
+        "phrase": "tay của người",
+        "frequency": 67,
+        "words": 3
+      },
+      {
+        "phrase": "đường_ray tàu_hoả",
+        "frequency": 40,
+        "words": 2
+      },
+      {
+        "phrase": "bảng thông_báo",
+        "frequency": 38,
+        "words": 2
+      },
+      {
+        "phrase": "mặt của người",
+        "frequency": 28,
+        "words": 3
+      },
+      {
+        "phrase": "người đàn_ông_đội mũ",
+        "frequency": 22,
+        "words": 3
+      },
+      {
+        "phrase": "quầy thu_ngân",
+        "frequency": 22,
+        "words": 2
+      },
+      {
+        "phrase": "quầy tính tiền",
+        "frequency": 22,
+        "words": 3
+      },
+      {
+        "phrase": "dãy nhà",
+        "frequency": 21,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_5": {
+    "cluster_id": 5,
+    "size": 8,
+    "phrases": [
+      {
+        "phrase": "xuất_hiện",
+        "frequency": 836,
+        "words": 1
+      },
+      {
+        "phrase": "điện_thoại",
+        "frequency": 47,
+        "words": 1
+      },
+      {
+        "phrase": "ảnh",
+        "frequency": 36,
+        "words": 1
+      },
+      {
+        "phrase": "đóng_cửa",
+        "frequency": 35,
+        "words": 1
+      },
+      {
+        "phrase": "micro",
+        "frequency": 35,
+        "words": 1
+      },
+      {
+        "phrase": "xuồng",
+        "frequency": 32,
+        "words": 1
+      },
+      {
+        "phrase": "xung_quanh",
+        "frequency": 32,
+        "words": 1
+      },
+      {
+        "phrase": "chụp",
+        "frequency": 31,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_6": {
+    "cluster_id": 6,
+    "size": 7,
+    "phrases": [
+      {
+        "phrase": "quầy hàng",
+        "frequency": 470,
+        "words": 2
+      },
+      {
+        "phrase": "mua hàng",
+        "frequency": 127,
+        "words": 2
+      },
+      {
+        "phrase": "sạp hàng",
+        "frequency": 75,
+        "words": 2
+      },
+      {
+        "phrase": "bán hàng",
+        "frequency": 45,
+        "words": 2
+      },
+      {
+        "phrase": "thùng hàng",
+        "frequency": 29,
+        "words": 2
+      },
+      {
+        "phrase": "bán rau",
+        "frequency": 22,
+        "words": 2
+      },
+      {
+        "phrase": "quầy bán hàng",
+        "frequency": 21,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_7": {
+    "cluster_id": 7,
+    "size": 7,
+    "phrases": [
+      {
+        "phrase": "đẩy siêu_thị",
+        "frequency": 169,
+        "words": 2
+      },
+      {
+        "phrase": "các kệ hàng",
+        "frequency": 77,
+        "words": 3
+      },
+      {
+        "phrase": "các quầy hàng",
+        "frequency": 58,
+        "words": 3
+      },
+      {
+        "phrase": "các gian_hàng",
+        "frequency": 34,
+        "words": 2
+      },
+      {
+        "phrase": "toà nhà_lớn",
+        "frequency": 34,
+        "words": 2
+      },
+      {
+        "phrase": "các sạp hàng",
+        "frequency": 24,
+        "words": 3
+      },
+      {
+        "phrase": "các cửa_hàng",
+        "frequency": 23,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_8": {
+    "cluster_id": 8,
+    "size": 7,
+    "phrases": [
+      {
+        "phrase": "đèn_lồng",
+        "frequency": 129,
+        "words": 1
+      },
+      {
+        "phrase": "xe_đạp",
+        "frequency": 106,
+        "words": 1
+      },
+      {
+        "phrase": "áo_dài",
+        "frequency": 95,
+        "words": 1
+      },
+      {
+        "phrase": "chợ",
+        "frequency": 63,
+        "words": 1
+      },
+      {
+        "phrase": "hồ",
+        "frequency": 23,
+        "words": 1
+      },
+      {
+        "phrase": "công_viên",
+        "frequency": 22,
+        "words": 1
+      },
+      {
+        "phrase": "đèn",
+        "frequency": 21,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_9": {
+    "cluster_id": 9,
+    "size": 6,
+    "phrases": [
+      {
+        "phrase": "người phụ_nữ",
+        "frequency": 1806,
+        "words": 2
+      },
+      {
+        "phrase": "mặt người phụ_nữ",
+        "frequency": 47,
+        "words": 3
+      },
+      {
+        "phrase": "tay người phụ_nữ",
+        "frequency": 45,
+        "words": 3
+      },
+      {
+        "phrase": "cô gái xuất_hiện",
+        "frequency": 41,
+        "words": 3
+      },
+      {
+        "phrase": "mặt người đàn_ông",
+        "frequency": 27,
+        "words": 3
+      },
+      {
+        "phrase": "người phụ_nữ cầm",
+        "frequency": 25,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_10": {
+    "cluster_id": 10,
+    "size": 6,
+    "phrases": [
+      {
+        "phrase": "trưng_bày",
+        "frequency": 336,
+        "words": 1
+      },
+      {
+        "phrase": "phố",
+        "frequency": 102,
+        "words": 1
+      },
+      {
+        "phrase": "xe",
+        "frequency": 58,
+        "words": 1
+      },
+      {
+        "phrase": "sân_khấu",
+        "frequency": 40,
+        "words": 1
+      },
+      {
+        "phrase": "xe_hơi",
+        "frequency": 28,
+        "words": 1
+      },
+      {
+        "phrase": "hội_chợ",
+        "frequency": 22,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_11": {
+    "cluster_id": 11,
+    "size": 6,
+    "phrases": [
+      {
+        "phrase": "chàng trai",
+        "frequency": 228,
+        "words": 2
+      },
+      {
+        "phrase": "đứa trẻ",
+        "frequency": 89,
+        "words": 2
+      },
+      {
+        "phrase": "bãi biển",
+        "frequency": 67,
+        "words": 2
+      },
+      {
+        "phrase": "đứa bé",
+        "frequency": 61,
+        "words": 2
+      },
+      {
+        "phrase": "cô bé",
+        "frequency": 38,
+        "words": 2
+      },
+      {
+        "phrase": "em bé",
+        "frequency": 26,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_12": {
+    "cluster_id": 12,
+    "size": 6,
+    "phrases": [
+      {
+        "phrase": "con phố",
+        "frequency": 223,
+        "words": 2
+      },
+      {
+        "phrase": "con sông",
+        "frequency": 129,
+        "words": 2
+      },
+      {
+        "phrase": "cửa_hàng tạp_hoá",
+        "frequency": 49,
+        "words": 2
+      },
+      {
+        "phrase": "biển quảng_cáo",
+        "frequency": 40,
+        "words": 2
+      },
+      {
+        "phrase": "tiệm tạp_hoá",
+        "frequency": 28,
+        "words": 2
+      },
+      {
+        "phrase": "hàng hoa_quả",
+        "frequency": 26,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_13": {
+    "cluster_id": 13,
+    "size": 6,
+    "phrases": [
+      {
+        "phrase": "đám đông",
+        "frequency": 96,
+        "words": 2
+      },
+      {
+        "phrase": "đồ trang_trí",
+        "frequency": 79,
+        "words": 2
+      },
+      {
+        "phrase": "quầy hàng trái_cây",
+        "frequency": 27,
+        "words": 3
+      },
+      {
+        "phrase": "quầy hàng hoa_quả",
+        "frequency": 25,
+        "words": 3
+      },
+      {
+        "phrase": "khu chợ đêm",
+        "frequency": 23,
+        "words": 3
+      },
+      {
+        "phrase": "gánh hàng rong",
+        "frequency": 23,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_14": {
+    "cluster_id": 14,
+    "size": 6,
+    "phrases": [
+      {
+        "phrase": "xe_máy xuất_hiện",
+        "frequency": 72,
+        "words": 2
+      },
+      {
+        "phrase": "vàng xuất_hiện",
+        "frequency": 60,
+        "words": 2
+      },
+      {
+        "phrase": "cao_tầng xuất_hiện",
+        "frequency": 32,
+        "words": 2
+      },
+      {
+        "phrase": "thuyền xuất_hiện",
+        "frequency": 26,
+        "words": 2
+      },
+      {
+        "phrase": "ô_tô xuất_hiện",
+        "frequency": 24,
+        "words": 2
+      },
+      {
+        "phrase": "bàn_ghế xuất_hiện",
+        "frequency": 22,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_15": {
+    "cluster_id": 15,
+    "size": 5,
+    "phrases": [
+      {
+        "phrase": "một_vài người",
+        "frequency": 528,
+        "words": 2
+      },
+      {
+        "phrase": "nhóm người",
+        "frequency": 434,
+        "words": 2
+      },
+      {
+        "phrase": "của nhiều người",
+        "frequency": 138,
+        "words": 3
+      },
+      {
+        "phrase": "của một_vài người",
+        "frequency": 52,
+        "words": 3
+      },
+      {
+        "phrase": "một_số người",
+        "frequency": 51,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_16": {
+    "cluster_id": 16,
+    "size": 5,
+    "phrases": [
+      {
+        "phrase": "xe_máy",
+        "frequency": 465,
+        "words": 1
+      },
+      {
+        "phrase": "trái",
+        "frequency": 177,
+        "words": 1
+      },
+      {
+        "phrase": "ô_tô",
+        "frequency": 79,
+        "words": 1
+      },
+      {
+        "phrase": "chạy",
+        "frequency": 35,
+        "words": 1
+      },
+      {
+        "phrase": "đội",
+        "frequency": 22,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_17": {
+    "cluster_id": 17,
+    "size": 4,
+    "phrases": [
+      {
+        "phrase": "người",
+        "frequency": 1048,
+        "words": 1
+      },
+      {
+        "phrase": "phải",
+        "frequency": 170,
+        "words": 1
+      },
+      {
+        "phrase": "đầu",
+        "frequency": 24,
+        "words": 1
+      },
+      {
+        "phrase": "chỉ",
+        "frequency": 22,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_18": {
+    "cluster_id": 18,
+    "size": 4,
+    "phrases": [
+      {
+        "phrase": "bức ảnh",
+        "frequency": 547,
+        "words": 2
+      },
+      {
+        "phrase": "phòng trưng_bày",
+        "frequency": 74,
+        "words": 2
+      },
+      {
+        "phrase": "cuốn sách",
+        "frequency": 35,
+        "words": 2
+      },
+      {
+        "phrase": "hiệu sách",
+        "frequency": 20,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_19": {
+    "cluster_id": 19,
+    "size": 4,
+    "phrases": [
+      {
+        "phrase": "khu chợ",
+        "frequency": 496,
+        "words": 2
+      },
+      {
+        "phrase": "của khu chợ",
+        "frequency": 57,
+        "words": 3
+      },
+      {
+        "phrase": "xung_quanh quầy hàng",
+        "frequency": 26,
+        "words": 3
+      },
+      {
+        "phrase": "của căn phòng",
+        "frequency": 21,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_20": {
+    "cluster_id": 20,
+    "size": 4,
+    "phrases": [
+      {
+        "phrase": "nón lá",
+        "frequency": 195,
+        "words": 2
+      },
+      {
+        "phrase": "đội nón lá",
+        "frequency": 162,
+        "words": 3
+      },
+      {
+        "phrase": "lá cờ",
+        "frequency": 53,
+        "words": 2
+      },
+      {
+        "phrase": "người đội nón",
+        "frequency": 34,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_21": {
+    "cluster_id": 21,
+    "size": 4,
+    "phrases": [
+      {
+        "phrase": "của người phụ_nữ",
+        "frequency": 117,
+        "words": 3
+      },
+      {
+        "phrase": "của người đàn_ông",
+        "frequency": 56,
+        "words": 3
+      },
+      {
+        "phrase": "của nam thanh_niên",
+        "frequency": 24,
+        "words": 3
+      },
+      {
+        "phrase": "chữ màu vàng",
+        "frequency": 24,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_22": {
+    "cluster_id": 22,
+    "size": 4,
+    "phrases": [
+      {
+        "phrase": "cây cầu",
+        "frequency": 94,
+        "words": 2
+      },
+      {
+        "phrase": "hàng",
+        "frequency": 37,
+        "words": 1
+      },
+      {
+        "phrase": "vệ đường",
+        "frequency": 24,
+        "words": 2
+      },
+      {
+        "phrase": "cây cầu bắc",
+        "frequency": 21,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_23": {
+    "cluster_id": 23,
+    "size": 4,
+    "phrases": [
+      {
+        "phrase": "xe ô_tô",
+        "frequency": 57,
+        "words": 2
+      },
+      {
+        "phrase": "gian trại",
+        "frequency": 46,
+        "words": 2
+      },
+      {
+        "phrase": "hàng quần_áo",
+        "frequency": 29,
+        "words": 2
+      },
+      {
+        "phrase": "khu xưởng",
+        "frequency": 22,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_24": {
+    "cluster_id": 24,
+    "size": 4,
+    "phrases": [
+      {
+        "phrase": "cây",
+        "frequency": 39,
+        "words": 1
+      },
+      {
+        "phrase": "tấm biển màu",
+        "frequency": 23,
+        "words": 3
+      },
+      {
+        "phrase": "loại sản_phẩm",
+        "frequency": 21,
+        "words": 2
+      },
+      {
+        "phrase": "tấm biển",
+        "frequency": 21,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_25": {
+    "cluster_id": 25,
+    "size": 3,
+    "phrases": [
+      {
+        "phrase": "người đàn_ông",
+        "frequency": 1280,
+        "words": 2
+      },
+      {
+        "phrase": "người phụ_nữ đội",
+        "frequency": 111,
+        "words": 3
+      },
+      {
+        "phrase": "cô gái đội",
+        "frequency": 48,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_26": {
+    "cluster_id": 26,
+    "size": 3,
+    "phrases": [
+      {
+        "phrase": "kệ hàng",
+        "frequency": 431,
+        "words": 2
+      },
+      {
+        "phrase": "gian",
+        "frequency": 51,
+        "words": 1
+      },
+      {
+        "phrase": "xa_xa",
+        "frequency": 21,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_27": {
+    "cluster_id": 27,
+    "size": 3,
+    "phrases": [
+      {
+        "phrase": "màu trắng",
+        "frequency": 329,
+        "words": 2
+      },
+      {
+        "phrase": "áo trắng",
+        "frequency": 196,
+        "words": 2
+      },
+      {
+        "phrase": "màu cam",
+        "frequency": 79,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_28": {
+    "cluster_id": 28,
+    "size": 3,
+    "phrases": [
+      {
+        "phrase": "màu đỏ",
+        "frequency": 321,
+        "words": 2
+      },
+      {
+        "phrase": "áo đỏ",
+        "frequency": 147,
+        "words": 2
+      },
+      {
+        "phrase": "đồ đen",
+        "frequency": 22,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_29": {
+    "cluster_id": 29,
+    "size": 3,
+    "phrases": [
+      {
+        "phrase": "màu vàng",
+        "frequency": 253,
+        "words": 2
+      },
+      {
+        "phrase": "căn nhà",
+        "frequency": 245,
+        "words": 2
+      },
+      {
+        "phrase": "nhà gỗ",
+        "frequency": 28,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_30": {
+    "cluster_id": 30,
+    "size": 3,
+    "phrases": [
+      {
+        "phrase": "màu đen",
+        "frequency": 196,
+        "words": 2
+      },
+      {
+        "phrase": "khẩu_trang màu trắng",
+        "frequency": 35,
+        "words": 3
+      },
+      {
+        "phrase": "chữ màu trắng",
+        "frequency": 22,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_31": {
+    "cluster_id": 31,
+    "size": 3,
+    "phrases": [
+      {
+        "phrase": "quán ăn",
+        "frequency": 163,
+        "words": 2
+      },
+      {
+        "phrase": "món ăn",
+        "frequency": 77,
+        "words": 2
+      },
+      {
+        "phrase": "của quán ăn",
+        "frequency": 42,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_32": {
+    "cluster_id": 32,
+    "size": 3,
+    "phrases": [
+      {
+        "phrase": "màu xanh",
+        "frequency": 143,
+        "words": 2
+      },
+      {
+        "phrase": "màu xanh dương",
+        "frequency": 92,
+        "words": 3
+      },
+      {
+        "phrase": "màu tím",
+        "frequency": 30,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_33": {
+    "cluster_id": 33,
+    "size": 3,
+    "phrases": [
+      {
+        "phrase": "xanh dương",
+        "frequency": 130,
+        "words": 2
+      },
+      {
+        "phrase": "màu xám",
+        "frequency": 42,
+        "words": 2
+      },
+      {
+        "phrase": "xanh da_trời",
+        "frequency": 21,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_34": {
+    "cluster_id": 34,
+    "size": 3,
+    "phrases": [
+      {
+        "phrase": "bức tường",
+        "frequency": 116,
+        "words": 2
+      },
+      {
+        "phrase": "tường tranh",
+        "frequency": 40,
+        "words": 2
+      },
+      {
+        "phrase": "bức tường màu",
+        "frequency": 26,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_35": {
+    "cluster_id": 35,
+    "size": 3,
+    "phrases": [
+      {
+        "phrase": "đồ trang_trí giáng_sinh",
+        "frequency": 85,
+        "words": 3
+      },
+      {
+        "phrase": "bãi cỏ",
+        "frequency": 38,
+        "words": 2
+      },
+      {
+        "phrase": "chợ đêm",
+        "frequency": 27,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_36": {
+    "cluster_id": 36,
+    "size": 3,
+    "phrases": [
+      {
+        "phrase": "tủ kính",
+        "frequency": 81,
+        "words": 2
+      },
+      {
+        "phrase": "giỏ hàng",
+        "frequency": 22,
+        "words": 2
+      },
+      {
+        "phrase": "túi đồ",
+        "frequency": 21,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_37": {
+    "cluster_id": 37,
+    "size": 3,
+    "phrases": [
+      {
+        "phrase": "của siêu_thị",
+        "frequency": 81,
+        "words": 2
+      },
+      {
+        "phrase": "của cửa_hàng",
+        "frequency": 76,
+        "words": 2
+      },
+      {
+        "phrase": "của quán",
+        "frequency": 26,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_38": {
+    "cluster_id": 38,
+    "size": 3,
+    "phrases": [
+      {
+        "phrase": "em học_sinh",
+        "frequency": 76,
+        "words": 2
+      },
+      {
+        "phrase": "đeo khẩu_trang màu",
+        "frequency": 55,
+        "words": 3
+      },
+      {
+        "phrase": "đeo khẩu_trang",
+        "frequency": 38,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_39": {
+    "cluster_id": 39,
+    "size": 3,
+    "phrases": [
+      {
+        "phrase": "cửa tiệm",
+        "frequency": 69,
+        "words": 2
+      },
+      {
+        "phrase": "trạng_thái di_chuyển",
+        "frequency": 22,
+        "words": 2
+      },
+      {
+        "phrase": "thúng",
+        "frequency": 21,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_40": {
+    "cluster_id": 40,
+    "size": 3,
+    "phrases": [
+      {
+        "phrase": "đỏ xuất_hiện",
+        "frequency": 59,
+        "words": 2
+      },
+      {
+        "phrase": "trắng xuất_hiện",
+        "frequency": 50,
+        "words": 2
+      },
+      {
+        "phrase": "đen xuất_hiện",
+        "frequency": 30,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_41": {
+    "cluster_id": 41,
+    "size": 3,
+    "phrases": [
+      {
+        "phrase": "mặt_hàng rau củ",
+        "frequency": 53,
+        "words": 3
+      },
+      {
+        "phrase": "loại rau củ",
+        "frequency": 53,
+        "words": 3
+      },
+      {
+        "phrase": "quầy rau củ",
+        "frequency": 42,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_42": {
+    "cluster_id": 42,
+    "size": 3,
+    "phrases": [
+      {
+        "phrase": "sơ_mi trắng",
+        "frequency": 46,
+        "words": 2
+      },
+      {
+        "phrase": "áo xanh dương",
+        "frequency": 35,
+        "words": 3
+      },
+      {
+        "phrase": "áo xám",
+        "frequency": 27,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_43": {
+    "cluster_id": 43,
+    "size": 3,
+    "phrases": [
+      {
+        "phrase": "tường màu vàng",
+        "frequency": 44,
+        "words": 3
+      },
+      {
+        "phrase": "sơn màu vàng",
+        "frequency": 33,
+        "words": 3
+      },
+      {
+        "phrase": "nhựa màu xanh",
+        "frequency": 20,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_44": {
+    "cluster_id": 44,
+    "size": 3,
+    "phrases": [
+      {
+        "phrase": "bán đồ trang_trí",
+        "frequency": 44,
+        "words": 3
+      },
+      {
+        "phrase": "cửa_hàng bán đồ",
+        "frequency": 29,
+        "words": 3
+      },
+      {
+        "phrase": "cửa_hàng đồ trang_trí",
+        "frequency": 21,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_45": {
+    "cluster_id": 45,
+    "size": 3,
+    "phrases": [
+      {
+        "phrase": "cây xuất_hiện",
+        "frequency": 43,
+        "words": 2
+      },
+      {
+        "phrase": "cây_xanh xuất_hiện",
+        "frequency": 35,
+        "words": 2
+      },
+      {
+        "phrase": "cây_cổ_thụ xuất_hiện",
+        "frequency": 21,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_46": {
+    "cluster_id": 46,
+    "size": 3,
+    "phrases": [
+      {
+        "phrase": "gái xuất_hiện",
+        "frequency": 43,
+        "words": 2
+      },
+      {
+        "phrase": "phụ_nữ xuất_hiện",
+        "frequency": 37,
+        "words": 2
+      },
+      {
+        "phrase": "đàn_ông xuất_hiện",
+        "frequency": 34,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_47": {
+    "cluster_id": 47,
+    "size": 3,
+    "phrases": [
+      {
+        "phrase": "màu vàng xuất_hiện",
+        "frequency": 39,
+        "words": 3
+      },
+      {
+        "phrase": "màu trắng xuất_hiện",
+        "frequency": 36,
+        "words": 3
+      },
+      {
+        "phrase": "màu đen xuất_hiện",
+        "frequency": 25,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_48": {
+    "cluster_id": 48,
+    "size": 3,
+    "phrases": [
+      {
+        "phrase": "người phụ_nữ đứng",
+        "frequency": 30,
+        "words": 3
+      },
+      {
+        "phrase": "người đàn_ông đứng",
+        "frequency": 23,
+        "words": 3
+      },
+      {
+        "phrase": "cô gái đứng",
+        "frequency": 21,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_49": {
+    "cluster_id": 49,
+    "size": 3,
+    "phrases": [
+      {
+        "phrase": "của quầy hàng",
+        "frequency": 28,
+        "words": 3
+      },
+      {
+        "phrase": "của nhóm người",
+        "frequency": 26,
+        "words": 3
+      },
+      {
+        "phrase": "của bức ảnh",
+        "frequency": 24,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_50": {
+    "cluster_id": 50,
+    "size": 2,
+    "phrases": [
+      {
+        "phrase": "sự xuất_hiện của",
+        "frequency": 1776,
+        "words": 3
+      },
+      {
+        "phrase": "xuất_hiện của",
+        "frequency": 1121,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_51": {
+    "cluster_id": 51,
+    "size": 2,
+    "phrases": [
+      {
+        "phrase": "ngôi nhà",
+        "frequency": 411,
+        "words": 2
+      },
+      {
+        "phrase": "người ngồi",
+        "frequency": 27,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_52": {
+    "cluster_id": 52,
+    "size": 2,
+    "phrases": [
+      {
+        "phrase": "rau củ quả",
+        "frequency": 303,
+        "words": 3
+      },
+      {
+        "phrase": "củ quả",
+        "frequency": 259,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_53": {
+    "cluster_id": 53,
+    "size": 2,
+    "phrases": [
+      {
+        "phrase": "người xuất_hiện",
+        "frequency": 233,
+        "words": 2
+      },
+      {
+        "phrase": "nhà xuất_hiện",
+        "frequency": 28,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_54": {
+    "cluster_id": 54,
+    "size": 2,
+    "phrases": [
+      {
+        "phrase": "con đường",
+        "frequency": 219,
+        "words": 2
+      },
+      {
+        "phrase": "con hẻm",
+        "frequency": 81,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_55": {
+    "cluster_id": 55,
+    "size": 2,
+    "phrases": [
+      {
+        "phrase": "cặp đôi",
+        "frequency": 212,
+        "words": 2
+      },
+      {
+        "phrase": "đeo",
+        "frequency": 43,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_56": {
+    "cluster_id": 56,
+    "size": 2,
+    "phrases": [
+      {
+        "phrase": "chụp ảnh",
+        "frequency": 209,
+        "words": 2
+      },
+      {
+        "phrase": "bức ảnh chụp",
+        "frequency": 75,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_57": {
+    "cluster_id": 57,
+    "size": 2,
+    "phrases": [
+      {
+        "phrase": "một_vài",
+        "frequency": 186,
+        "words": 1
+      },
+      {
+        "phrase": "của một_vài",
+        "frequency": 32,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_58": {
+    "cluster_id": 58,
+    "size": 2,
+    "phrases": [
+      {
+        "phrase": "nhiều người xuất_hiện",
+        "frequency": 113,
+        "words": 3
+      },
+      {
+        "phrase": "nhiều cây_xanh xuất_hiện",
+        "frequency": 21,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_59": {
+    "cluster_id": 59,
+    "size": 2,
+    "phrases": [
+      {
+        "phrase": "phương_tiện giao_thông",
+        "frequency": 111,
+        "words": 2
+      },
+      {
+        "phrase": "nhà_thờ",
+        "frequency": 27,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_60": {
+    "cluster_id": 60,
+    "size": 2,
+    "phrases": [
+      {
+        "phrase": "hàng rau củ",
+        "frequency": 106,
+        "words": 3
+      },
+      {
+        "phrase": "củ quả xuất_hiện",
+        "frequency": 35,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_61": {
+    "cluster_id": 61,
+    "size": 2,
+    "phrases": [
+      {
+        "phrase": "quầy hàng rau",
+        "frequency": 98,
+        "words": 3
+      },
+      {
+        "phrase": "hàng bán rau",
+        "frequency": 21,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_62": {
+    "cluster_id": 62,
+    "size": 2,
+    "phrases": [
+      {
+        "phrase": "trước toà nhà",
+        "frequency": 86,
+        "words": 3
+      },
+      {
+        "phrase": "trước căn nhà",
+        "frequency": 64,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_63": {
+    "cluster_id": 63,
+    "size": 2,
+    "phrases": [
+      {
+        "phrase": "đeo kính",
+        "frequency": 86,
+        "words": 2
+      },
+      {
+        "phrase": "đàn_ông đeo kính",
+        "frequency": 23,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_64": {
+    "cluster_id": 64,
+    "size": 2,
+    "phrases": [
+      {
+        "phrase": "cây thông noel",
+        "frequency": 68,
+        "words": 3
+      },
+      {
+        "phrase": "thông noel",
+        "frequency": 53,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_65": {
+    "cluster_id": 65,
+    "size": 2,
+    "phrases": [
+      {
+        "phrase": "trước mặt của",
+        "frequency": 68,
+        "words": 3
+      },
+      {
+        "phrase": "mặt trước của",
+        "frequency": 59,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_66": {
+    "cluster_id": 66,
+    "size": 2,
+    "phrases": [
+      {
+        "phrase": "món đồ trang_trí",
+        "frequency": 66,
+        "words": 3
+      },
+      {
+        "phrase": "mặt_hàng đồ trang_trí",
+        "frequency": 34,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_67": {
+    "cluster_id": 67,
+    "size": 2,
+    "phrases": [
+      {
+        "phrase": "quán cà_phê",
+        "frequency": 64,
+        "words": 2
+      },
+      {
+        "phrase": "hồ nước",
+        "frequency": 40,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_68": {
+    "cluster_id": 68,
+    "size": 2,
+    "phrases": [
+      {
+        "phrase": "nhà cổ",
+        "frequency": 63,
+        "words": 2
+      },
+      {
+        "phrase": "ngôi nhà cao_tầng",
+        "frequency": 60,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_69": {
+    "cluster_id": 69,
+    "size": 2,
+    "phrases": [
+      {
+        "phrase": "cậu bé",
+        "frequency": 62,
+        "words": 2
+      },
+      {
+        "phrase": "bé gái",
+        "frequency": 54,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_70": {
+    "cluster_id": 70,
+    "size": 2,
+    "phrases": [
+      {
+        "phrase": "màu hồng",
+        "frequency": 60,
+        "words": 2
+      },
+      {
+        "phrase": "hàng trái_cây",
+        "frequency": 29,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_71": {
+    "cluster_id": 71,
+    "size": 2,
+    "phrases": [
+      {
+        "phrase": "căn phòng trưng_bày",
+        "frequency": 60,
+        "words": 3
+      },
+      {
+        "phrase": "căn nhà gỗ",
+        "frequency": 23,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_72": {
+    "cluster_id": 72,
+    "size": 2,
+    "phrases": [
+      {
+        "phrase": "ngôi đền",
+        "frequency": 58,
+        "words": 2
+      },
+      {
+        "phrase": "ngôi chùa",
+        "frequency": 44,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_73": {
+    "cluster_id": 73,
+    "size": 2,
+    "phrases": [
+      {
+        "phrase": "cửa_hàng quần_áo",
+        "frequency": 56,
+        "words": 2
+      },
+      {
+        "phrase": "mặt_hàng quần_áo",
+        "frequency": 44,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_74": {
+    "cluster_id": 74,
+    "size": 2,
+    "phrases": [
+      {
+        "phrase": "hoa xuất_hiện",
+        "frequency": 51,
+        "words": 2
+      },
+      {
+        "phrase": "cổ xuất_hiện",
+        "frequency": 31,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_75": {
+    "cluster_id": 75,
+    "size": 2,
+    "phrases": [
+      {
+        "phrase": "một_vài người xuất_hiện",
+        "frequency": 46,
+        "words": 3
+      },
+      {
+        "phrase": "một_vài người phụ_nữ",
+        "frequency": 24,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_76": {
+    "cluster_id": 76,
+    "size": 2,
+    "phrases": [
+      {
+        "phrase": "lưu_thông",
+        "frequency": 44,
+        "words": 1
+      },
+      {
+        "phrase": "tụ_tập",
+        "frequency": 43,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_77": {
+    "cluster_id": 77,
+    "size": 2,
+    "phrases": [
+      {
+        "phrase": "lưng của cô",
+        "frequency": 44,
+        "words": 3
+      },
+      {
+        "phrase": "tay của cô",
+        "frequency": 43,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_78": {
+    "cluster_id": 78,
+    "size": 2,
+    "phrases": [
+      {
+        "phrase": "nhà cũ",
+        "frequency": 43,
+        "words": 2
+      },
+      {
+        "phrase": "ngôi nhà cũ",
+        "frequency": 41,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_79": {
+    "cluster_id": 79,
+    "size": 2,
+    "phrases": [
+      {
+        "phrase": "nhiều xe_máy",
+        "frequency": 42,
+        "words": 2
+      },
+      {
+        "phrase": "nhiều cây_xanh",
+        "frequency": 26,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_80": {
+    "cluster_id": 80,
+    "size": 2,
+    "phrases": [
+      {
+        "phrase": "đứng gần",
+        "frequency": 42,
+        "words": 2
+      },
+      {
+        "phrase": "đứng trước quầy",
+        "frequency": 38,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_81": {
+    "cluster_id": 81,
+    "size": 2,
+    "phrases": [
+      {
+        "phrase": "tấm biển quảng_cáo",
+        "frequency": 42,
+        "words": 3
+      },
+      {
+        "phrase": "chạm tay",
+        "frequency": 26,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_82": {
+    "cluster_id": 82,
+    "size": 2,
+    "phrases": [
+      {
+        "phrase": "uống nước",
+        "frequency": 40,
+        "words": 2
+      },
+      {
+        "phrase": "ngồi uống nước",
+        "frequency": 28,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_83": {
+    "cluster_id": 83,
+    "size": 2,
+    "phrases": [
+      {
+        "phrase": "người phụ_nữ xuất_hiện",
+        "frequency": 38,
+        "words": 3
+      },
+      {
+        "phrase": "người đàn_ông xuất_hiện",
+        "frequency": 36,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_84": {
+    "cluster_id": 84,
+    "size": 2,
+    "phrases": [
+      {
+        "phrase": "rau củ",
+        "frequency": 38,
+        "words": 2
+      },
+      {
+        "phrase": "bó rau",
+        "frequency": 24,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_85": {
+    "cluster_id": 85,
+    "size": 2,
+    "phrases": [
+      {
+        "phrase": "của nhiều loại",
+        "frequency": 38,
+        "words": 3
+      },
+      {
+        "phrase": "của nhiều mặt_hàng",
+        "frequency": 31,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_86": {
+    "cluster_id": 86,
+    "size": 2,
+    "phrases": [
+      {
+        "phrase": "ảnh tập_thể",
+        "frequency": 37,
+        "words": 2
+      },
+      {
+        "phrase": "ảnh trước",
+        "frequency": 29,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_87": {
+    "cluster_id": 87,
+    "size": 2,
+    "phrases": [
+      {
+        "phrase": "bó hoa",
+        "frequency": 36,
+        "words": 2
+      },
+      {
+        "phrase": "vườn hoa",
+        "frequency": 23,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_88": {
+    "cluster_id": 88,
+    "size": 2,
+    "phrases": [
+      {
+        "phrase": "ghế nhựa màu",
+        "frequency": 35,
+        "words": 3
+      },
+      {
+        "phrase": "giỏ hàng màu",
+        "frequency": 25,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_89": {
+    "cluster_id": 89,
+    "size": 2,
+    "phrases": [
+      {
+        "phrase": "toà nhà cao_tầng",
+        "frequency": 34,
+        "words": 3
+      },
+      {
+        "phrase": "toà tháp",
+        "frequency": 27,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_90": {
+    "cluster_id": 90,
+    "size": 2,
+    "phrases": [
+      {
+        "phrase": "hàng_hoá xuất_hiện",
+        "frequency": 34,
+        "words": 2
+      },
+      {
+        "phrase": "đèn_lồng xuất_hiện",
+        "frequency": 22,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_91": {
+    "cluster_id": 91,
+    "size": 2,
+    "phrases": [
+      {
+        "phrase": "tấm bảng thông_báo",
+        "frequency": 32,
+        "words": 3
+      },
+      {
+        "phrase": "tấm bảng_hiệu",
+        "frequency": 21,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_92": {
+    "cluster_id": 92,
+    "size": 2,
+    "phrases": [
+      {
+        "phrase": "quyển sách",
+        "frequency": 31,
+        "words": 2
+      },
+      {
+        "phrase": "nắm tay",
+        "frequency": 23,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_93": {
+    "cluster_id": 93,
+    "size": 2,
+    "phrases": [
+      {
+        "phrase": "nói_chuyện",
+        "frequency": 30,
+        "words": 1
+      },
+      {
+        "phrase": "vẽ",
+        "frequency": 25,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_94": {
+    "cluster_id": 94,
+    "size": 2,
+    "phrases": [
+      {
+        "phrase": "áo_dài trắng",
+        "frequency": 27,
+        "words": 2
+      },
+      {
+        "phrase": "áo_dài đỏ",
+        "frequency": 27,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_95": {
+    "cluster_id": 95,
+    "size": 2,
+    "phrases": [
+      {
+        "phrase": "cờ xuất_hiện",
+        "frequency": 27,
+        "words": 2
+      },
+      {
+        "phrase": "lá cờ xuất_hiện",
+        "frequency": 22,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_96": {
+    "cluster_id": 96,
+    "size": 2,
+    "phrases": [
+      {
+        "phrase": "quần_áo xuất_hiện",
+        "frequency": 26,
+        "words": 2
+      },
+      {
+        "phrase": "thức_ăn xuất_hiện",
+        "frequency": 21,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_97": {
+    "cluster_id": 97,
+    "size": 2,
+    "phrases": [
+      {
+        "phrase": "trang_trí xuất_hiện",
+        "frequency": 26,
+        "words": 2
+      },
+      {
+        "phrase": "đồ trang_trí xuất_hiện",
+        "frequency": 23,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_98": {
+    "cluster_id": 98,
+    "size": 2,
+    "phrases": [
+      {
+        "phrase": "bảng_hiệu",
+        "frequency": 25,
+        "words": 1
+      },
+      {
+        "phrase": "biển_hiệu",
+        "frequency": 20,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_99": {
+    "cluster_id": 99,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "đứng",
+        "frequency": 1144,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_100": {
+    "cluster_id": 100,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "nhiều người",
+        "frequency": 1135,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_101": {
+    "cluster_id": 101,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "đường",
+        "frequency": 1102,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_102": {
+    "cluster_id": 102,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "di_chuyển",
+        "frequency": 735,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_103": {
+    "cluster_id": 103,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "ngồi",
+        "frequency": 555,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_104": {
+    "cluster_id": 104,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "xuất_hiện của nhiều",
+        "frequency": 464,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_105": {
+    "cluster_id": 105,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "cầm",
+        "frequency": 414,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_106": {
+    "cluster_id": 106,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "cửa_hàng",
+        "frequency": 413,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_107": {
+    "cluster_id": 107,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "siêu_thị",
+        "frequency": 402,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_108": {
+    "cluster_id": 108,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "bày_bán",
+        "frequency": 382,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_109": {
+    "cluster_id": 109,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "tay",
+        "frequency": 362,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_110": {
+    "cluster_id": 110,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "trước",
+        "frequency": 347,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_111": {
+    "cluster_id": 111,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "nhau",
+        "frequency": 299,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_112": {
+    "cluster_id": 112,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "vỉa_hè",
+        "frequency": 299,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_113": {
+    "cluster_id": 113,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "toà nhà",
+        "frequency": 292,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_114": {
+    "cluster_id": 114,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "đặt",
+        "frequency": 271,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_115": {
+    "cluster_id": 115,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "bàn",
+        "frequency": 252,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_116": {
+    "cluster_id": 116,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "treo",
+        "frequency": 228,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_117": {
+    "cluster_id": 117,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "nhiều",
+        "frequency": 210,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_118": {
+    "cluster_id": 118,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "của",
+        "frequency": 180,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_119": {
+    "cluster_id": 119,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "đi bộ",
+        "frequency": 179,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_120": {
+    "cluster_id": 120,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "nam thanh_niên",
+        "frequency": 178,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_121": {
+    "cluster_id": 121,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "trước của",
+        "frequency": 172,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_122": {
+    "cluster_id": 122,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "căn phòng",
+        "frequency": 166,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_123": {
+    "cluster_id": 123,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "mặt_nước",
+        "frequency": 158,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_124": {
+    "cluster_id": 124,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "lề_đường",
+        "frequency": 152,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_125": {
+    "cluster_id": 125,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "con thuyền",
+        "frequency": 142,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_126": {
+    "cluster_id": 126,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "màu xanh lá",
+        "frequency": 139,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_127": {
+    "cluster_id": 127,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "tường",
+        "frequency": 137,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_128": {
+    "cluster_id": 128,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "nhìn",
+        "frequency": 135,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_129": {
+    "cluster_id": 129,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "trước cửa_hàng",
+        "frequency": 133,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_130": {
+    "cluster_id": 130,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "lối đi",
+        "frequency": 131,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_131": {
+    "cluster_id": 131,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "thuyền",
+        "frequency": 127,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_132": {
+    "cluster_id": 132,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "dựng",
+        "frequency": 124,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_133": {
+    "cluster_id": 133,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "lá cây",
+        "frequency": 124,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_134": {
+    "cluster_id": 134,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "đi",
+        "frequency": 122,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_135": {
+    "cluster_id": 135,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "sông",
+        "frequency": 122,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_136": {
+    "cluster_id": 136,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "xuất_hiện của một_vài",
+        "frequency": 120,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_137": {
+    "cluster_id": 137,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "biển",
+        "frequency": 113,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_138": {
+    "cluster_id": 138,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "bày",
+        "frequency": 92,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_139": {
+    "cluster_id": 139,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "tạo_dáng chụp ảnh",
+        "frequency": 91,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_140": {
+    "cluster_id": 140,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "đứng trước",
+        "frequency": 90,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_141": {
+    "cluster_id": 141,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "bạn nữ",
+        "frequency": 90,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_142": {
+    "cluster_id": 142,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "sau lưng của",
+        "frequency": 90,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_143": {
+    "cluster_id": 143,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "trang_trí giáng_sinh",
+        "frequency": 89,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_144": {
+    "cluster_id": 144,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "giữa",
+        "frequency": 87,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_145": {
+    "cluster_id": 145,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "đỗ",
+        "frequency": 87,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_146": {
+    "cluster_id": 146,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "gian_hàng",
+        "frequency": 86,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_147": {
+    "cluster_id": 147,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "nhà cao_tầng",
+        "frequency": 85,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_148": {
+    "cluster_id": 148,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "phụ_nữ đội nón",
+        "frequency": 83,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_149": {
+    "cluster_id": 149,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "trước ngôi nhà",
+        "frequency": 82,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_150": {
+    "cluster_id": 150,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "trước mặt người",
+        "frequency": 79,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_151": {
+    "cluster_id": 151,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "quầy hàng bán",
+        "frequency": 79,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_152": {
+    "cluster_id": 152,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "tạo_dáng",
+        "frequency": 77,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_153": {
+    "cluster_id": 153,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "trang_trí",
+        "frequency": 77,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_154": {
+    "cluster_id": 154,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "bạn trẻ",
+        "frequency": 77,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_155": {
+    "cluster_id": 155,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "của ngôi nhà",
+        "frequency": 76,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_156": {
+    "cluster_id": 156,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "mỉm cười",
+        "frequency": 74,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_157": {
+    "cluster_id": 157,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "khu_vực",
+        "frequency": 72,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_158": {
+    "cluster_id": 158,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "nhiều phương_tiện giao_thông",
+        "frequency": 71,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_159": {
+    "cluster_id": 159,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "nhìn về",
+        "frequency": 70,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_160": {
+    "cluster_id": 160,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "di_tích lịch_sử",
+        "frequency": 70,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_161": {
+    "cluster_id": 161,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "gần",
+        "frequency": 70,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_162": {
+    "cluster_id": 162,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "đẩy",
+        "frequency": 69,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_163": {
+    "cluster_id": 163,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "khu_phố",
+        "frequency": 67,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_164": {
+    "cluster_id": 164,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "trước quầy hàng",
+        "frequency": 67,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_165": {
+    "cluster_id": 165,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "sân",
+        "frequency": 67,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_166": {
+    "cluster_id": 166,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "nắm tay nhau",
+        "frequency": 66,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_167": {
+    "cluster_id": 167,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "dòng chữ màu",
+        "frequency": 65,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_168": {
+    "cluster_id": 168,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "tay nhau",
+        "frequency": 63,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_169": {
+    "cluster_id": 169,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "con tàu",
+        "frequency": 61,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_170": {
+    "cluster_id": 170,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "đông người",
+        "frequency": 59,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_171": {
+    "cluster_id": 171,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "kệ",
+        "frequency": 58,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_172": {
+    "cluster_id": 172,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "ảnh chụp",
+        "frequency": 58,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_173": {
+    "cluster_id": 173,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "xe đẩy",
+        "frequency": 57,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_174": {
+    "cluster_id": 174,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "hàng xuất_hiện",
+        "frequency": 57,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_175": {
+    "cluster_id": 175,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "trạng_thái đóng_cửa",
+        "frequency": 56,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_176": {
+    "cluster_id": 176,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "trước mặt",
+        "frequency": 53,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_177": {
+    "cluster_id": 177,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "quả xuất_hiện",
+        "frequency": 53,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_178": {
+    "cluster_id": 178,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "cả",
+        "frequency": 52,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_179": {
+    "cluster_id": 179,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "bậc thang",
+        "frequency": 52,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_180": {
+    "cluster_id": 180,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "màu nâu",
+        "frequency": 51,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_181": {
+    "cluster_id": 181,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "đậu",
+        "frequency": 50,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_182": {
+    "cluster_id": 182,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "sau",
+        "frequency": 50,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_183": {
+    "cluster_id": 183,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "tham_quan",
+        "frequency": 50,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_184": {
+    "cluster_id": 184,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "trước của toà",
+        "frequency": 50,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_185": {
+    "cluster_id": 185,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "của con đường",
+        "frequency": 50,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_186": {
+    "cluster_id": 186,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "nhóm bạn trẻ",
+        "frequency": 49,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_187": {
+    "cluster_id": 187,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "toà thành cổ",
+        "frequency": 48,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_188": {
+    "cluster_id": 188,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "chụp ảnh tập_thể",
+        "frequency": 47,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_189": {
+    "cluster_id": 189,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "bộ bàn_ghế",
+        "frequency": 47,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_190": {
+    "cluster_id": 190,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "nhiều bộ bàn_ghế",
+        "frequency": 45,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_191": {
+    "cluster_id": 191,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "nhiều xe_cộ",
+        "frequency": 45,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_192": {
+    "cluster_id": 192,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "buổi",
+        "frequency": 44,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_193": {
+    "cluster_id": 193,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "phát_biểu",
+        "frequency": 44,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_194": {
+    "cluster_id": 194,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "xích_lô",
+        "frequency": 43,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_195": {
+    "cluster_id": 195,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "bán rau củ",
+        "frequency": 43,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_196": {
+    "cluster_id": 196,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "bờ sông",
+        "frequency": 42,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_197": {
+    "cluster_id": 197,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "màu đỏ xuất_hiện",
+        "frequency": 42,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_198": {
+    "cluster_id": 198,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "túi",
+        "frequency": 41,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_199": {
+    "cluster_id": 199,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "áo màu trắng",
+        "frequency": 41,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_200": {
+    "cluster_id": 200,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "trần nhà",
+        "frequency": 41,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_201": {
+    "cluster_id": 201,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "lối",
+        "frequency": 41,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_202": {
+    "cluster_id": 202,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "chụp ảnh trước",
+        "frequency": 40,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_203": {
+    "cluster_id": 203,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "gần nhau",
+        "frequency": 39,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_204": {
+    "cluster_id": 204,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "xanh lá",
+        "frequency": 39,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_205": {
+    "cluster_id": 205,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "các em học_sinh",
+        "frequency": 39,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_206": {
+    "cluster_id": 206,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "loại hàng_hoá",
+        "frequency": 39,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_207": {
+    "cluster_id": 207,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "khu_phố cổ",
+        "frequency": 39,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_208": {
+    "cluster_id": 208,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "người đàn_bà",
+        "frequency": 38,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_209": {
+    "cluster_id": 209,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "ghế",
+        "frequency": 38,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_210": {
+    "cluster_id": 210,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "mọi người",
+        "frequency": 37,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_211": {
+    "cluster_id": 211,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "nằm",
+        "frequency": 36,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_212": {
+    "cluster_id": 212,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "ghế nhựa",
+        "frequency": 36,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_213": {
+    "cluster_id": 213,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "bán quần_áo",
+        "frequency": 36,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_214": {
+    "cluster_id": 214,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "bông hoa",
+        "frequency": 35,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_215": {
+    "cluster_id": 215,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "sản_phẩm",
+        "frequency": 35,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_216": {
+    "cluster_id": 216,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "bảo_tàng",
+        "frequency": 35,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_217": {
+    "cluster_id": 217,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "thành cổ",
+        "frequency": 35,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_218": {
+    "cluster_id": 218,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "đạp xe",
+        "frequency": 34,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_219": {
+    "cluster_id": 219,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "cây_cổ_thụ",
+        "frequency": 34,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_220": {
+    "cluster_id": 220,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "cầu",
+        "frequency": 34,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_221": {
+    "cluster_id": 221,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "chậu cây",
+        "frequency": 34,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_222": {
+    "cluster_id": 222,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "chạy xe_máy",
+        "frequency": 34,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_223": {
+    "cluster_id": 223,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "trước cửa của",
+        "frequency": 33,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_224": {
+    "cluster_id": 224,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "tầng",
+        "frequency": 32,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_225": {
+    "cluster_id": 225,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "xếp_hàng",
+        "frequency": 32,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_226": {
+    "cluster_id": 226,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "dắt",
+        "frequency": 32,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_227": {
+    "cluster_id": 227,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "lan_can",
+        "frequency": 32,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_228": {
+    "cluster_id": 228,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "tay của",
+        "frequency": 32,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_229": {
+    "cluster_id": 229,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "sản_phẩm xuất_hiện",
+        "frequency": 31,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_230": {
+    "cluster_id": 230,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "nhà cao_tầng xuất_hiện",
+        "frequency": 31,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_231": {
+    "cluster_id": 231,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "cao của",
+        "frequency": 30,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_232": {
+    "cluster_id": 232,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "bạn nam",
+        "frequency": 30,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_233": {
+    "cluster_id": 233,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "gái đội nón",
+        "frequency": 29,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_234": {
+    "cluster_id": 234,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "trước khu chợ",
+        "frequency": 29,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_235": {
+    "cluster_id": 235,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "quán",
+        "frequency": 29,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_236": {
+    "cluster_id": 236,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "quầy",
+        "frequency": 29,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_237": {
+    "cluster_id": 237,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "bát phở",
+        "frequency": 29,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_238": {
+    "cluster_id": 238,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "tranh xuất_hiện",
+        "frequency": 29,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_239": {
+    "cluster_id": 239,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "trước của cửa_hàng",
+        "frequency": 29,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_240": {
+    "cluster_id": 240,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "cửa",
+        "frequency": 28,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_241": {
+    "cluster_id": 241,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "sau lưng người",
+        "frequency": 28,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_242": {
+    "cluster_id": 242,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "bãi cỏ xanh",
+        "frequency": 28,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_243": {
+    "cluster_id": 243,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "sau lưng cô",
+        "frequency": 28,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_244": {
+    "cluster_id": 244,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "lưng cô gái",
+        "frequency": 28,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_245": {
+    "cluster_id": 245,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "cổng",
+        "frequency": 28,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_246": {
+    "cluster_id": 246,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "con ngõ",
+        "frequency": 28,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_247": {
+    "cluster_id": 247,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "xuất_hiện trước mặt",
+        "frequency": 28,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_248": {
+    "cluster_id": 248,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "trước cổng của",
+        "frequency": 28,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_249": {
+    "cluster_id": 249,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "cây thông",
+        "frequency": 27,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_250": {
+    "cluster_id": 250,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "tham_gia giao_thông",
+        "frequency": 27,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_251": {
+    "cluster_id": 251,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "nhà_hàng",
+        "frequency": 27,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_252": {
+    "cluster_id": 252,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "quầy thanh_toán",
+        "frequency": 27,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_253": {
+    "cluster_id": 253,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "của nhiều",
+        "frequency": 27,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_254": {
+    "cluster_id": 254,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "trước bức tường",
+        "frequency": 26,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_255": {
+    "cluster_id": 255,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "ông_già noel",
+        "frequency": 26,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_256": {
+    "cluster_id": 256,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "bộ xương",
+        "frequency": 26,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_257": {
+    "cluster_id": 257,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "của khu di_tích",
+        "frequency": 26,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_258": {
+    "cluster_id": 258,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "trước của ngôi",
+        "frequency": 26,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_259": {
+    "cluster_id": 259,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "khu rừng",
+        "frequency": 26,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_260": {
+    "cluster_id": 260,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "bục",
+        "frequency": 26,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_261": {
+    "cluster_id": 261,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "tính tiền",
+        "frequency": 26,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_262": {
+    "cluster_id": 262,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "trao_đổi",
+        "frequency": 26,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_263": {
+    "cluster_id": 263,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "quanh",
+        "frequency": 26,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_264": {
+    "cluster_id": 264,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "bờ hồ",
+        "frequency": 26,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_265": {
+    "cluster_id": 265,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "đeo kính_râm",
+        "frequency": 26,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_266": {
+    "cluster_id": 266,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "cánh đồng",
+        "frequency": 26,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_267": {
+    "cluster_id": 267,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "ghe",
+        "frequency": 26,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_268": {
+    "cluster_id": 268,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "rất nhiều người",
+        "frequency": 25,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_269": {
+    "cluster_id": 269,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "bờ biển",
+        "frequency": 25,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_270": {
+    "cluster_id": 270,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "màu chủ_đạo",
+        "frequency": 25,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_271": {
+    "cluster_id": 271,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "đeo túi_xách",
+        "frequency": 25,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_272": {
+    "cluster_id": 272,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "dòng chữ",
+        "frequency": 25,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_273": {
+    "cluster_id": 273,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "đồ bảo_hộ",
+        "frequency": 25,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_274": {
+    "cluster_id": 274,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "hộp quà",
+        "frequency": 25,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_275": {
+    "cluster_id": 275,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "của con phố",
+        "frequency": 25,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_276": {
+    "cluster_id": 276,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "trước của căn",
+        "frequency": 24,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_277": {
+    "cluster_id": 277,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "bắc ngang",
+        "frequency": 24,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_278": {
+    "cluster_id": 278,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "nhân_viên",
+        "frequency": 24,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_279": {
+    "cluster_id": 279,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "rộng vành",
+        "frequency": 24,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_280": {
+    "cluster_id": 280,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "nước xuất_hiện",
+        "frequency": 24,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_281": {
+    "cluster_id": 281,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "ban_công của",
+        "frequency": 24,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_282": {
+    "cluster_id": 282,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "tấm biển tên",
+        "frequency": 24,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_283": {
+    "cluster_id": 283,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "phòng",
+        "frequency": 23,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_284": {
+    "cluster_id": 284,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "xe xích_lô",
+        "frequency": 23,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_285": {
+    "cluster_id": 285,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "dãy phố",
+        "frequency": 23,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_286": {
+    "cluster_id": 286,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "mũ rộng vành",
+        "frequency": 23,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_287": {
+    "cluster_id": 287,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "trời",
+        "frequency": 23,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_288": {
+    "cluster_id": 288,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "trung_tâm thương_mại",
+        "frequency": 23,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_289": {
+    "cluster_id": 289,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "hàng rong",
+        "frequency": 23,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_290": {
+    "cluster_id": 290,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "hộp",
+        "frequency": 23,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_291": {
+    "cluster_id": 291,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "dắt xe_đạp",
+        "frequency": 23,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_292": {
+    "cluster_id": 292,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "của nhiều món",
+        "frequency": 23,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_293": {
+    "cluster_id": 293,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "tay người đàn_ông",
+        "frequency": 22,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_294": {
+    "cluster_id": 294,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "ngồi ăn",
+        "frequency": 22,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_295": {
+    "cluster_id": 295,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "hiện_vật",
+        "frequency": 22,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_296": {
+    "cluster_id": 296,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "ngồi ăn_ở",
+        "frequency": 22,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_297": {
+    "cluster_id": 297,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "nhau chụp ảnh",
+        "frequency": 22,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_298": {
+    "cluster_id": 298,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "bộ bàn_ghế xuất_hiện",
+        "frequency": 22,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_299": {
+    "cluster_id": 299,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "tranh vẽ về",
+        "frequency": 21,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_300": {
+    "cluster_id": 300,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "gỗ xuất_hiện",
+        "frequency": 21,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_301": {
+    "cluster_id": 301,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "chở người",
+        "frequency": 21,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_302": {
+    "cluster_id": 302,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "xe_buýt",
+        "frequency": 21,
+        "words": 1
+      }
+    ]
+  },
+  "cluster_303": {
+    "cluster_id": 303,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "tranh vẽ",
+        "frequency": 21,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_304": {
+    "cluster_id": 304,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "nhiều em học_sinh",
+        "frequency": 21,
+        "words": 3
+      }
+    ]
+  },
+  "cluster_305": {
+    "cluster_id": 305,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "đồng_chí công_an",
+        "frequency": 21,
+        "words": 2
+      }
+    ]
+  },
+  "cluster_306": {
+    "cluster_id": 306,
+    "size": 1,
+    "phrases": [
+      {
+        "phrase": "khu hội_chợ",
+        "frequency": 21,
+        "words": 2
+      }
+    ]
+  }
+}

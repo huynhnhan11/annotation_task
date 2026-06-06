@@ -1,0 +1,862 @@
+{
+  "vocab_file": "task/output/task0/V_cultural_train_only.json",
+  "prediction_files": {
+    "vig_raw_epoch10": "task/data/predictions/vig_raw_epoch10_details.json"
+  },
+  "models": [
+    "vig_raw_epoch10"
+  ],
+  "concepts": {
+    "khu_di_tích": {
+      "facet": "kiến_trúc-cảnh_quan",
+      "forms": [
+        "khu di tích lịch sử",
+        "khu di_tích lịch_sử",
+        "trước khu di_tích",
+        "trước khu di tích",
+        "của khu di tích",
+        "của khu di_tích",
+        "khu_di_tích",
+        "khu di tích",
+        "khu di_tích"
+      ],
+      "total_occurrences": 8,
+      "images": [
+        509,
+        653,
+        939,
+        1167,
+        1219,
+        1682,
+        4576,
+        10498
+      ],
+      "models": {
+        "vig_raw_epoch10": {
+          "matched": 4,
+          "total": 8,
+          "recall": 0.5,
+          "matched_images": [
+            509,
+            939,
+            1219,
+            1682
+          ],
+          "missed_images": [
+            653,
+            1167,
+            4576,
+            10498
+          ]
+        }
+      }
+    },
+    "di_tích_lịch_sử": {
+      "facet": "kiến_trúc-cảnh_quan",
+      "forms": [
+        "di_tích_lịch_sử",
+        "di tích lịch sử",
+        "di_tích lịch_sử"
+      ],
+      "total_occurrences": 1,
+      "images": [
+        4576
+      ],
+      "models": {
+        "vig_raw_epoch10": {
+          "matched": 0,
+          "total": 1,
+          "recall": 0.0,
+          "matched_images": [],
+          "missed_images": [
+            4576
+          ]
+        }
+      }
+    },
+    "nhà_cổ": {
+      "facet": "kiến_trúc-cảnh_quan",
+      "forms": [
+        "ngôi nhà cổ",
+        "nhà cổ",
+        "nhà_cổ"
+      ],
+      "total_occurrences": 2,
+      "images": [
+        3051,
+        4576
+      ],
+      "models": {
+        "vig_raw_epoch10": {
+          "matched": 1,
+          "total": 2,
+          "recall": 0.5,
+          "matched_images": [
+            3051
+          ],
+          "missed_images": [
+            4576
+          ]
+        }
+      }
+    },
+    "kiến_trúc_cổ": {
+      "facet": "kiến_trúc-cảnh_quan",
+      "forms": [
+        "kiến_trúc_cổ",
+        "kiến trúc cổ",
+        "kiến_trúc cổ"
+      ],
+      "total_occurrences": 2,
+      "images": [
+        6370,
+        10498
+      ],
+      "models": {
+        "vig_raw_epoch10": {
+          "matched": 0,
+          "total": 2,
+          "recall": 0.0,
+          "matched_images": [],
+          "missed_images": [
+            6370,
+            10498
+          ]
+        }
+      }
+    },
+    "đền_thờ": {
+      "facet": "kiến_trúc-cảnh_quan",
+      "forms": [
+        "đền_thờ",
+        "đền thờ"
+      ],
+      "total_occurrences": 0,
+      "images": [],
+      "models": {
+        "vig_raw_epoch10": {
+          "matched": 0,
+          "total": 0,
+          "recall": 0.0,
+          "matched_images": [],
+          "missed_images": []
+        }
+      }
+    },
+    "xuồng": {
+      "facet": "phương_tiện",
+      "forms": [
+        "xuồng"
+      ],
+      "total_occurrences": 18,
+      "images": [
+        93,
+        1384,
+        1847,
+        1888,
+        1996,
+        2547,
+        2613,
+        2808,
+        2921,
+        3738,
+        4137,
+        4929,
+        4990,
+        5509,
+        6045,
+        6125,
+        10362,
+        11653
+      ],
+      "models": {
+        "vig_raw_epoch10": {
+          "matched": 3,
+          "total": 18,
+          "recall": 0.16666666666666666,
+          "matched_images": [
+            93,
+            1847,
+            4137
+          ],
+          "missed_images": [
+            1384,
+            1888,
+            1996,
+            2547,
+            2613,
+            2808,
+            2921,
+            3738,
+            4929,
+            4990,
+            5509,
+            6045,
+            6125,
+            10362,
+            11653
+          ]
+        }
+      }
+    },
+    "đèn_lồng": {
+      "facet": "trang_trí",
+      "forms": [
+        "đèn lồng xuất hiện",
+        "đèn_lồng xuất_hiện",
+        "đèn_lồng",
+        "đèn lồng"
+      ],
+      "total_occurrences": 22,
+      "images": [
+        228,
+        415,
+        630,
+        933,
+        1106,
+        1898,
+        2851,
+        2980,
+        3051,
+        3732,
+        3789,
+        4232,
+        4593,
+        4809,
+        6217,
+        7232,
+        7362,
+        8660,
+        9770,
+        10362,
+        10418,
+        10800
+      ],
+      "models": {
+        "vig_raw_epoch10": {
+          "matched": 12,
+          "total": 22,
+          "recall": 0.5454545454545454,
+          "matched_images": [
+            933,
+            1106,
+            2980,
+            3732,
+            3789,
+            4232,
+            4593,
+            4809,
+            7362,
+            8660,
+            9770,
+            10800
+          ],
+          "missed_images": [
+            228,
+            415,
+            630,
+            1898,
+            2851,
+            3051,
+            6217,
+            7232,
+            10362,
+            10418
+          ]
+        }
+      }
+    },
+    "áo_dài": {
+      "facet": "trang_phục",
+      "forms": [
+        "áo dài trắng",
+        "áo_dài trắng",
+        "áo_dài đỏ",
+        "áo dài đỏ",
+        "áo_dài",
+        "áo dài"
+      ],
+      "total_occurrences": 16,
+      "images": [
+        78,
+        363,
+        563,
+        2474,
+        3029,
+        3755,
+        4593,
+        4657,
+        5137,
+        5509,
+        5969,
+        6058,
+        6065,
+        6239,
+        10524,
+        11027
+      ],
+      "models": {
+        "vig_raw_epoch10": {
+          "matched": 4,
+          "total": 16,
+          "recall": 0.25,
+          "matched_images": [
+            363,
+            5137,
+            6239,
+            11027
+          ],
+          "missed_images": [
+            78,
+            563,
+            2474,
+            3029,
+            3755,
+            4593,
+            4657,
+            5509,
+            5969,
+            6058,
+            6065,
+            10524
+          ]
+        }
+      }
+    },
+    "chợ": {
+      "facet": "sinh_hoạt",
+      "forms": [
+        "trước khu chợ",
+        "của khu chợ",
+        "phiên chợ",
+        "khu chợ",
+        "chợ"
+      ],
+      "total_occurrences": 42,
+      "images": [
+        64,
+        211,
+        381,
+        534,
+        560,
+        578,
+        920,
+        926,
+        1191,
+        1373,
+        1697,
+        1867,
+        1898,
+        2277,
+        2439,
+        2484,
+        2761,
+        2929,
+        3019,
+        3036,
+        3089,
+        3108,
+        3231,
+        3241,
+        3789,
+        4145,
+        4271,
+        4385,
+        4437,
+        4454,
+        4503,
+        4586,
+        4598,
+        5193,
+        6134,
+        6391,
+        7215,
+        7223,
+        7239,
+        7377,
+        9582,
+        10361
+      ],
+      "models": {
+        "vig_raw_epoch10": {
+          "matched": 25,
+          "total": 42,
+          "recall": 0.5952380952380952,
+          "matched_images": [
+            64,
+            211,
+            381,
+            560,
+            920,
+            926,
+            1373,
+            1697,
+            1867,
+            1898,
+            2439,
+            2484,
+            2929,
+            3231,
+            3241,
+            4145,
+            4271,
+            4385,
+            4437,
+            4503,
+            4586,
+            4598,
+            6391,
+            7377,
+            10361
+          ],
+          "missed_images": [
+            534,
+            578,
+            1191,
+            2277,
+            2761,
+            3019,
+            3036,
+            3089,
+            3108,
+            3789,
+            4454,
+            5193,
+            6134,
+            7215,
+            7223,
+            7239,
+            9582
+          ]
+        }
+      }
+    },
+    "chợ_đêm": {
+      "facet": "sinh_hoạt",
+      "forms": [
+        "khu chợ đêm",
+        "chợ đêm",
+        "chợ_đêm"
+      ],
+      "total_occurrences": 3,
+      "images": [
+        534,
+        3789,
+        4271
+      ],
+      "models": {
+        "vig_raw_epoch10": {
+          "matched": 0,
+          "total": 3,
+          "recall": 0.0,
+          "matched_images": [],
+          "missed_images": [
+            534,
+            3789,
+            4271
+          ]
+        }
+      }
+    },
+    "hàng_rong": {
+      "facet": "sinh_hoạt",
+      "forms": [
+        "gánh hàng rong",
+        "hàng rong",
+        "hàng_rong"
+      ],
+      "total_occurrences": 4,
+      "images": [
+        428,
+        2803,
+        4847,
+        6269
+      ],
+      "models": {
+        "vig_raw_epoch10": {
+          "matched": 0,
+          "total": 4,
+          "recall": 0.0,
+          "matched_images": [],
+          "missed_images": [
+            428,
+            2803,
+            4847,
+            6269
+          ]
+        }
+      }
+    },
+    "nón_lá": {
+      "facet": "trang_phục",
+      "forms": [
+        "phụ_nữ đội nón",
+        "phụ nữ đội nón",
+        "người đội nón",
+        "chiếc nón lá",
+        "gái đội nón",
+        "đội nón lá",
+        "nón_lá",
+        "nón lá"
+      ],
+      "total_occurrences": 36,
+      "images": [
+        93,
+        111,
+        211,
+        371,
+        403,
+        893,
+        1096,
+        1185,
+        1302,
+        1674,
+        1686,
+        1847,
+        1856,
+        1888,
+        1891,
+        1998,
+        2474,
+        2547,
+        2794,
+        3417,
+        3755,
+        3870,
+        4074,
+        4145,
+        4454,
+        4560,
+        4724,
+        4847,
+        4873,
+        5377,
+        5395,
+        7227,
+        7232,
+        9770,
+        10394,
+        10566
+      ],
+      "models": {
+        "vig_raw_epoch10": {
+          "matched": 10,
+          "total": 36,
+          "recall": 0.2777777777777778,
+          "matched_images": [
+            403,
+            1096,
+            1185,
+            1891,
+            1998,
+            2474,
+            4724,
+            4847,
+            5395,
+            7227
+          ],
+          "missed_images": [
+            93,
+            111,
+            211,
+            371,
+            893,
+            1302,
+            1674,
+            1686,
+            1847,
+            1856,
+            1888,
+            2547,
+            2794,
+            3417,
+            3755,
+            3870,
+            4074,
+            4145,
+            4454,
+            4560,
+            4873,
+            5377,
+            7232,
+            9770,
+            10394,
+            10566
+          ]
+        }
+      }
+    },
+    "cờ": {
+      "facet": "biểu_tượng",
+      "forms": [
+        "lá cờ xuất_hiện",
+        "lá cờ xuất hiện",
+        "cờ xuất hiện",
+        "cờ xuất_hiện",
+        "lá cờ",
+        "cờ"
+      ],
+      "total_occurrences": 9,
+      "images": [
+        560,
+        579,
+        1291,
+        1339,
+        3602,
+        4792,
+        5072,
+        10518,
+        11627
+      ],
+      "models": {
+        "vig_raw_epoch10": {
+          "matched": 0,
+          "total": 9,
+          "recall": 0.0,
+          "matched_images": [],
+          "missed_images": [
+            560,
+            579,
+            1291,
+            1339,
+            3602,
+            4792,
+            5072,
+            10518,
+            11627
+          ]
+        }
+      }
+    },
+    "thúng": {
+      "facet": "sinh_hoạt",
+      "forms": [
+        "thúng"
+      ],
+      "total_occurrences": 0,
+      "images": [],
+      "models": {
+        "vig_raw_epoch10": {
+          "matched": 0,
+          "total": 0,
+          "recall": 0.0,
+          "matched_images": [],
+          "missed_images": []
+        }
+      }
+    },
+    "nhà_thờ": {
+      "facet": "kiến_trúc-cảnh_quan",
+      "forms": [
+        "nhà_thờ",
+        "nhà thờ"
+      ],
+      "total_occurrences": 1,
+      "images": [
+        4828
+      ],
+      "models": {
+        "vig_raw_epoch10": {
+          "matched": 1,
+          "total": 1,
+          "recall": 1.0,
+          "matched_images": [
+            4828
+          ],
+          "missed_images": []
+        }
+      }
+    },
+    "ngôi_đền": {
+      "facet": "kiến_trúc-cảnh_quan",
+      "forms": [
+        "ngôi_đền",
+        "ngôi đền"
+      ],
+      "total_occurrences": 0,
+      "images": [],
+      "models": {
+        "vig_raw_epoch10": {
+          "matched": 0,
+          "total": 0,
+          "recall": 0.0,
+          "matched_images": [],
+          "missed_images": []
+        }
+      }
+    },
+    "ngôi_chùa": {
+      "facet": "kiến_trúc-cảnh_quan",
+      "forms": [
+        "ngôi chùa",
+        "ngôi_chùa"
+      ],
+      "total_occurrences": 1,
+      "images": [
+        509
+      ],
+      "models": {
+        "vig_raw_epoch10": {
+          "matched": 0,
+          "total": 1,
+          "recall": 0.0,
+          "matched_images": [],
+          "missed_images": [
+            509
+          ]
+        }
+      }
+    },
+    "toà_thành_cổ": {
+      "facet": "kiến_trúc-cảnh_quan",
+      "forms": [
+        "toà_thành_cổ",
+        "toà thành cổ"
+      ],
+      "total_occurrences": 1,
+      "images": [
+        1899
+      ],
+      "models": {
+        "vig_raw_epoch10": {
+          "matched": 1,
+          "total": 1,
+          "recall": 1.0,
+          "matched_images": [
+            1899
+          ],
+          "missed_images": []
+        }
+      }
+    },
+    "xích_lô": {
+      "facet": "phương_tiện",
+      "forms": [
+        "xe xích lô",
+        "xe xích_lô",
+        "xích lô",
+        "xích_lô"
+      ],
+      "total_occurrences": 6,
+      "images": [
+        331,
+        1335,
+        4688,
+        5033,
+        9652,
+        10651
+      ],
+      "models": {
+        "vig_raw_epoch10": {
+          "matched": 3,
+          "total": 6,
+          "recall": 0.5,
+          "matched_images": [
+            331,
+            1335,
+            4688
+          ],
+          "missed_images": [
+            5033,
+            9652,
+            10651
+          ]
+        }
+      }
+    },
+    "khu_phố_cổ": {
+      "facet": "kiến_trúc-cảnh_quan",
+      "forms": [
+        "khu_phố cổ",
+        "khu phố cổ",
+        "khu_phố_cổ"
+      ],
+      "total_occurrences": 3,
+      "images": [
+        123,
+        843,
+        4809
+      ],
+      "models": {
+        "vig_raw_epoch10": {
+          "matched": 0,
+          "total": 3,
+          "recall": 0.0,
+          "matched_images": [],
+          "missed_images": [
+            123,
+            843,
+            4809
+          ]
+        }
+      }
+    },
+    "thành_cổ": {
+      "facet": "kiến_trúc-cảnh_quan",
+      "forms": [
+        "thành cổ",
+        "thành_cổ"
+      ],
+      "total_occurrences": 1,
+      "images": [
+        1899
+      ],
+      "models": {
+        "vig_raw_epoch10": {
+          "matched": 1,
+          "total": 1,
+          "recall": 1.0,
+          "matched_images": [
+            1899
+          ],
+          "missed_images": []
+        }
+      }
+    },
+    "phở": {
+      "facet": "ẩm_thực",
+      "forms": [
+        "bát phở",
+        "phở"
+      ],
+      "total_occurrences": 0,
+      "images": [],
+      "models": {
+        "vig_raw_epoch10": {
+          "matched": 0,
+          "total": 0,
+          "recall": 0.0,
+          "matched_images": [],
+          "missed_images": []
+        }
+      }
+    },
+    "ghe": {
+      "facet": "phương_tiện",
+      "forms": [
+        "ghe"
+      ],
+      "total_occurrences": 4,
+      "images": [
+        93,
+        630,
+        1384,
+        1434
+      ],
+      "models": {
+        "vig_raw_epoch10": {
+          "matched": 0,
+          "total": 4,
+          "recall": 0.0,
+          "matched_images": [],
+          "missed_images": [
+            93,
+            630,
+            1384,
+            1434
+          ]
+        }
+      }
+    }
+  }
+}

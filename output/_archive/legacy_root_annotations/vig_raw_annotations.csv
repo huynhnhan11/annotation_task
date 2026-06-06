@@ -1,0 +1,1 @@
+image_id,image_filename,reviewed,needs_review,caption_quality,specificity,cultural_entity_missed,missing_objects,template_bias,object_hallucination,wrong_object_or_action,language_issue,expected_cultural_terms,predicted_cultural_terms,explanation,updated_at

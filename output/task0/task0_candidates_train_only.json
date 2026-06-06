@@ -1,0 +1,2202 @@
+{
+  "người phụ_nữ": {
+    "frequency": 1806,
+    "words": 2
+  },
+  "sự xuất_hiện của": {
+    "frequency": 1776,
+    "words": 3
+  },
+  "cô gái": {
+    "frequency": 1502,
+    "words": 2
+  },
+  "người đàn_ông": {
+    "frequency": 1280,
+    "words": 2
+  },
+  "đứng": {
+    "frequency": 1144,
+    "words": 1
+  },
+  "nhiều người": {
+    "frequency": 1135,
+    "words": 2
+  },
+  "xuất_hiện của": {
+    "frequency": 1121,
+    "words": 2
+  },
+  "đường": {
+    "frequency": 1102,
+    "words": 1
+  },
+  "người": {
+    "frequency": 1048,
+    "words": 1
+  },
+  "xuất_hiện": {
+    "frequency": 836,
+    "words": 1
+  },
+  "di_chuyển": {
+    "frequency": 735,
+    "words": 1
+  },
+  "ngồi": {
+    "frequency": 555,
+    "words": 1
+  },
+  "bức ảnh": {
+    "frequency": 547,
+    "words": 2
+  },
+  "một_vài người": {
+    "frequency": 528,
+    "words": 2
+  },
+  "khu chợ": {
+    "frequency": 496,
+    "words": 2
+  },
+  "quầy hàng": {
+    "frequency": 470,
+    "words": 2
+  },
+  "xe_máy": {
+    "frequency": 465,
+    "words": 1
+  },
+  "xuất_hiện của nhiều": {
+    "frequency": 464,
+    "words": 3
+  },
+  "nhóm người": {
+    "frequency": 434,
+    "words": 2
+  },
+  "kệ hàng": {
+    "frequency": 431,
+    "words": 2
+  },
+  "cầm": {
+    "frequency": 414,
+    "words": 1
+  },
+  "cửa_hàng": {
+    "frequency": 413,
+    "words": 1
+  },
+  "ngôi nhà": {
+    "frequency": 411,
+    "words": 2
+  },
+  "siêu_thị": {
+    "frequency": 402,
+    "words": 1
+  },
+  "bày_bán": {
+    "frequency": 382,
+    "words": 1
+  },
+  "tay": {
+    "frequency": 362,
+    "words": 1
+  },
+  "trước": {
+    "frequency": 347,
+    "words": 1
+  },
+  "trưng_bày": {
+    "frequency": 336,
+    "words": 1
+  },
+  "màu trắng": {
+    "frequency": 329,
+    "words": 2
+  },
+  "màu đỏ": {
+    "frequency": 321,
+    "words": 2
+  },
+  "rau củ quả": {
+    "frequency": 303,
+    "words": 3
+  },
+  "nhau": {
+    "frequency": 299,
+    "words": 1
+  },
+  "vỉa_hè": {
+    "frequency": 299,
+    "words": 1
+  },
+  "toà nhà": {
+    "frequency": 292,
+    "words": 2
+  },
+  "đặt": {
+    "frequency": 271,
+    "words": 1
+  },
+  "củ quả": {
+    "frequency": 259,
+    "words": 2
+  },
+  "màu vàng": {
+    "frequency": 253,
+    "words": 2
+  },
+  "bàn": {
+    "frequency": 252,
+    "words": 1
+  },
+  "căn nhà": {
+    "frequency": 245,
+    "words": 2
+  },
+  "người xuất_hiện": {
+    "frequency": 233,
+    "words": 2
+  },
+  "treo": {
+    "frequency": 228,
+    "words": 1
+  },
+  "chàng trai": {
+    "frequency": 228,
+    "words": 2
+  },
+  "con phố": {
+    "frequency": 223,
+    "words": 2
+  },
+  "con đường": {
+    "frequency": 219,
+    "words": 2
+  },
+  "cặp đôi": {
+    "frequency": 212,
+    "words": 2
+  },
+  "nhiều": {
+    "frequency": 210,
+    "words": 1
+  },
+  "chụp ảnh": {
+    "frequency": 209,
+    "words": 2
+  },
+  "xe đẩy siêu_thị": {
+    "frequency": 205,
+    "words": 3
+  },
+  "áo trắng": {
+    "frequency": 196,
+    "words": 2
+  },
+  "màu đen": {
+    "frequency": 196,
+    "words": 2
+  },
+  "nón lá": {
+    "frequency": 195,
+    "words": 2
+  },
+  "một_vài": {
+    "frequency": 186,
+    "words": 1
+  },
+  "áo đen": {
+    "frequency": 184,
+    "words": 2
+  },
+  "bức tranh": {
+    "frequency": 182,
+    "words": 2
+  },
+  "của": {
+    "frequency": 180,
+    "words": 1
+  },
+  "đi bộ": {
+    "frequency": 179,
+    "words": 2
+  },
+  "nam thanh_niên": {
+    "frequency": 178,
+    "words": 2
+  },
+  "trái": {
+    "frequency": 177,
+    "words": 1
+  },
+  "trước của": {
+    "frequency": 172,
+    "words": 2
+  },
+  "phải": {
+    "frequency": 170,
+    "words": 1
+  },
+  "đẩy siêu_thị": {
+    "frequency": 169,
+    "words": 2
+  },
+  "căn phòng": {
+    "frequency": 166,
+    "words": 2
+  },
+  "quán ăn": {
+    "frequency": 163,
+    "words": 2
+  },
+  "đội nón lá": {
+    "frequency": 162,
+    "words": 3
+  },
+  "mặt_nước": {
+    "frequency": 158,
+    "words": 1
+  },
+  "của cô gái": {
+    "frequency": 154,
+    "words": 3
+  },
+  "lề_đường": {
+    "frequency": 152,
+    "words": 1
+  },
+  "áo đỏ": {
+    "frequency": 147,
+    "words": 2
+  },
+  "màu xanh": {
+    "frequency": 143,
+    "words": 2
+  },
+  "xanh lá cây": {
+    "frequency": 143,
+    "words": 3
+  },
+  "con thuyền": {
+    "frequency": 142,
+    "words": 2
+  },
+  "màu xanh lá": {
+    "frequency": 139,
+    "words": 3
+  },
+  "của nhiều người": {
+    "frequency": 138,
+    "words": 3
+  },
+  "tường": {
+    "frequency": 137,
+    "words": 1
+  },
+  "nhìn": {
+    "frequency": 135,
+    "words": 1
+  },
+  "trước cửa_hàng": {
+    "frequency": 133,
+    "words": 2
+  },
+  "lối đi": {
+    "frequency": 131,
+    "words": 2
+  },
+  "xanh dương": {
+    "frequency": 130,
+    "words": 2
+  },
+  "con sông": {
+    "frequency": 129,
+    "words": 2
+  },
+  "đèn_lồng": {
+    "frequency": 129,
+    "words": 1
+  },
+  "nhiều mặt_hàng": {
+    "frequency": 129,
+    "words": 2
+  },
+  "thuyền": {
+    "frequency": 127,
+    "words": 1
+  },
+  "khu di_tích": {
+    "frequency": 127,
+    "words": 2
+  },
+  "mua hàng": {
+    "frequency": 127,
+    "words": 2
+  },
+  "dựng": {
+    "frequency": 124,
+    "words": 1
+  },
+  "lá cây": {
+    "frequency": 124,
+    "words": 2
+  },
+  "đi": {
+    "frequency": 122,
+    "words": 1
+  },
+  "sông": {
+    "frequency": 122,
+    "words": 1
+  },
+  "xuất_hiện của một_vài": {
+    "frequency": 120,
+    "words": 3
+  },
+  "của người phụ_nữ": {
+    "frequency": 117,
+    "words": 3
+  },
+  "bức tường": {
+    "frequency": 116,
+    "words": 2
+  },
+  "biển": {
+    "frequency": 113,
+    "words": 1
+  },
+  "nhiều người xuất_hiện": {
+    "frequency": 113,
+    "words": 3
+  },
+  "phương_tiện giao_thông": {
+    "frequency": 111,
+    "words": 2
+  },
+  "người phụ_nữ đội": {
+    "frequency": 111,
+    "words": 3
+  },
+  "hàng rau củ": {
+    "frequency": 106,
+    "words": 3
+  },
+  "xe_đạp": {
+    "frequency": 106,
+    "words": 1
+  },
+  "phố": {
+    "frequency": 102,
+    "words": 1
+  },
+  "quầy hàng rau": {
+    "frequency": 98,
+    "words": 3
+  },
+  "đám đông": {
+    "frequency": 96,
+    "words": 2
+  },
+  "áo_dài": {
+    "frequency": 95,
+    "words": 1
+  },
+  "cây cầu": {
+    "frequency": 94,
+    "words": 2
+  },
+  "bày": {
+    "frequency": 92,
+    "words": 1
+  },
+  "màu xanh dương": {
+    "frequency": 92,
+    "words": 3
+  },
+  "tạo_dáng chụp ảnh": {
+    "frequency": 91,
+    "words": 3
+  },
+  "đứng trước": {
+    "frequency": 90,
+    "words": 2
+  },
+  "áo xanh": {
+    "frequency": 90,
+    "words": 2
+  },
+  "bạn nữ": {
+    "frequency": 90,
+    "words": 2
+  },
+  "sau lưng của": {
+    "frequency": 90,
+    "words": 3
+  },
+  "đứa trẻ": {
+    "frequency": 89,
+    "words": 2
+  },
+  "trang_trí giáng_sinh": {
+    "frequency": 89,
+    "words": 2
+  },
+  "giữa": {
+    "frequency": 87,
+    "words": 1
+  },
+  "của toà nhà": {
+    "frequency": 87,
+    "words": 3
+  },
+  "đỗ": {
+    "frequency": 87,
+    "words": 1
+  },
+  "trước toà nhà": {
+    "frequency": 86,
+    "words": 3
+  },
+  "gian_hàng": {
+    "frequency": 86,
+    "words": 1
+  },
+  "đeo kính": {
+    "frequency": 86,
+    "words": 2
+  },
+  "nhà cao_tầng": {
+    "frequency": 85,
+    "words": 2
+  },
+  "bức tượng": {
+    "frequency": 85,
+    "words": 2
+  },
+  "đồ trang_trí giáng_sinh": {
+    "frequency": 85,
+    "words": 3
+  },
+  "áo vàng": {
+    "frequency": 84,
+    "words": 2
+  },
+  "phụ_nữ đội nón": {
+    "frequency": 83,
+    "words": 3
+  },
+  "trước ngôi nhà": {
+    "frequency": 82,
+    "words": 3
+  },
+  "người phụ_nữ đeo": {
+    "frequency": 82,
+    "words": 3
+  },
+  "tủ kính": {
+    "frequency": 81,
+    "words": 2
+  },
+  "của siêu_thị": {
+    "frequency": 81,
+    "words": 2
+  },
+  "con hẻm": {
+    "frequency": 81,
+    "words": 2
+  },
+  "trước mặt người": {
+    "frequency": 79,
+    "words": 3
+  },
+  "màu cam": {
+    "frequency": 79,
+    "words": 2
+  },
+  "cô gái đeo": {
+    "frequency": 79,
+    "words": 3
+  },
+  "ô_tô": {
+    "frequency": 79,
+    "words": 1
+  },
+  "quầy hàng bán": {
+    "frequency": 79,
+    "words": 3
+  },
+  "đồ trang_trí": {
+    "frequency": 79,
+    "words": 2
+  },
+  "tạo_dáng": {
+    "frequency": 77,
+    "words": 1
+  },
+  "món ăn": {
+    "frequency": 77,
+    "words": 2
+  },
+  "trang_trí": {
+    "frequency": 77,
+    "words": 1
+  },
+  "bạn trẻ": {
+    "frequency": 77,
+    "words": 2
+  },
+  "các kệ hàng": {
+    "frequency": 77,
+    "words": 3
+  },
+  "của cửa_hàng": {
+    "frequency": 76,
+    "words": 2
+  },
+  "của ngôi nhà": {
+    "frequency": 76,
+    "words": 3
+  },
+  "em học_sinh": {
+    "frequency": 76,
+    "words": 2
+  },
+  "sạp hàng": {
+    "frequency": 75,
+    "words": 2
+  },
+  "bức ảnh chụp": {
+    "frequency": 75,
+    "words": 3
+  },
+  "phòng trưng_bày": {
+    "frequency": 74,
+    "words": 2
+  },
+  "mỉm cười": {
+    "frequency": 74,
+    "words": 2
+  },
+  "khu_vực": {
+    "frequency": 72,
+    "words": 1
+  },
+  "xe_máy xuất_hiện": {
+    "frequency": 72,
+    "words": 2
+  },
+  "nhiều phương_tiện giao_thông": {
+    "frequency": 71,
+    "words": 3
+  },
+  "nhìn về": {
+    "frequency": 70,
+    "words": 2
+  },
+  "di_tích lịch_sử": {
+    "frequency": 70,
+    "words": 2
+  },
+  "gần": {
+    "frequency": 70,
+    "words": 1
+  },
+  "đẩy": {
+    "frequency": 69,
+    "words": 1
+  },
+  "cửa tiệm": {
+    "frequency": 69,
+    "words": 2
+  },
+  "khu di_tích lịch_sử": {
+    "frequency": 68,
+    "words": 3
+  },
+  "cây thông noel": {
+    "frequency": 68,
+    "words": 3
+  },
+  "trước mặt của": {
+    "frequency": 68,
+    "words": 3
+  },
+  "bãi biển": {
+    "frequency": 67,
+    "words": 2
+  },
+  "khu_phố": {
+    "frequency": 67,
+    "words": 1
+  },
+  "trước quầy hàng": {
+    "frequency": 67,
+    "words": 3
+  },
+  "tay của người": {
+    "frequency": 67,
+    "words": 3
+  },
+  "sân": {
+    "frequency": 67,
+    "words": 1
+  },
+  "của căn nhà": {
+    "frequency": 66,
+    "words": 3
+  },
+  "món đồ trang_trí": {
+    "frequency": 66,
+    "words": 3
+  },
+  "nắm tay nhau": {
+    "frequency": 66,
+    "words": 3
+  },
+  "dòng chữ màu": {
+    "frequency": 65,
+    "words": 3
+  },
+  "trước căn nhà": {
+    "frequency": 64,
+    "words": 3
+  },
+  "quán cà_phê": {
+    "frequency": 64,
+    "words": 2
+  },
+  "nhà cổ": {
+    "frequency": 63,
+    "words": 2
+  },
+  "chợ": {
+    "frequency": 63,
+    "words": 1
+  },
+  "tay nhau": {
+    "frequency": 63,
+    "words": 2
+  },
+  "cậu bé": {
+    "frequency": 62,
+    "words": 2
+  },
+  "đứa bé": {
+    "frequency": 61,
+    "words": 2
+  },
+  "con tàu": {
+    "frequency": 61,
+    "words": 2
+  },
+  "ngôi nhà cao_tầng": {
+    "frequency": 60,
+    "words": 3
+  },
+  "màu hồng": {
+    "frequency": 60,
+    "words": 2
+  },
+  "căn phòng trưng_bày": {
+    "frequency": 60,
+    "words": 3
+  },
+  "vàng xuất_hiện": {
+    "frequency": 60,
+    "words": 2
+  },
+  "đông người": {
+    "frequency": 59,
+    "words": 2
+  },
+  "mặt trước của": {
+    "frequency": 59,
+    "words": 3
+  },
+  "người đàn_ông đeo": {
+    "frequency": 59,
+    "words": 3
+  },
+  "đỏ xuất_hiện": {
+    "frequency": 59,
+    "words": 2
+  },
+  "ngôi đền": {
+    "frequency": 58,
+    "words": 2
+  },
+  "xe": {
+    "frequency": 58,
+    "words": 1
+  },
+  "kệ": {
+    "frequency": 58,
+    "words": 1
+  },
+  "các quầy hàng": {
+    "frequency": 58,
+    "words": 3
+  },
+  "nhiều món đồ": {
+    "frequency": 58,
+    "words": 3
+  },
+  "ảnh chụp": {
+    "frequency": 58,
+    "words": 2
+  },
+  "của khu chợ": {
+    "frequency": 57,
+    "words": 3
+  },
+  "xe đẩy": {
+    "frequency": 57,
+    "words": 2
+  },
+  "hàng xuất_hiện": {
+    "frequency": 57,
+    "words": 2
+  },
+  "xe ô_tô": {
+    "frequency": 57,
+    "words": 2
+  },
+  "trạng_thái đóng_cửa": {
+    "frequency": 56,
+    "words": 2
+  },
+  "cửa_hàng quần_áo": {
+    "frequency": 56,
+    "words": 2
+  },
+  "của người đàn_ông": {
+    "frequency": 56,
+    "words": 3
+  },
+  "áo hồng": {
+    "frequency": 56,
+    "words": 2
+  },
+  "áo màu xanh": {
+    "frequency": 55,
+    "words": 3
+  },
+  "đeo khẩu_trang màu": {
+    "frequency": 55,
+    "words": 3
+  },
+  "bức tường tranh": {
+    "frequency": 55,
+    "words": 3
+  },
+  "bé gái": {
+    "frequency": 54,
+    "words": 2
+  },
+  "nhiều mặt_hàng rau": {
+    "frequency": 54,
+    "words": 3
+  },
+  "trước mặt": {
+    "frequency": 53,
+    "words": 2
+  },
+  "quả xuất_hiện": {
+    "frequency": 53,
+    "words": 2
+  },
+  "lá cờ": {
+    "frequency": 53,
+    "words": 2
+  },
+  "mặt_hàng rau củ": {
+    "frequency": 53,
+    "words": 3
+  },
+  "thông noel": {
+    "frequency": 53,
+    "words": 2
+  },
+  "loại rau củ": {
+    "frequency": 53,
+    "words": 3
+  },
+  "nhiều mặt_hàng đồ": {
+    "frequency": 53,
+    "words": 3
+  },
+  "cả": {
+    "frequency": 52,
+    "words": 1
+  },
+  "nhiều con thuyền": {
+    "frequency": 52,
+    "words": 3
+  },
+  "áo sơ_mi trắng": {
+    "frequency": 52,
+    "words": 3
+  },
+  "của một_vài người": {
+    "frequency": 52,
+    "words": 3
+  },
+  "bậc thang": {
+    "frequency": 52,
+    "words": 2
+  },
+  "màu nâu": {
+    "frequency": 51,
+    "words": 2
+  },
+  "hoa xuất_hiện": {
+    "frequency": 51,
+    "words": 2
+  },
+  "một_số người": {
+    "frequency": 51,
+    "words": 2
+  },
+  "gian": {
+    "frequency": 51,
+    "words": 1
+  },
+  "đậu": {
+    "frequency": 50,
+    "words": 1
+  },
+  "sau": {
+    "frequency": 50,
+    "words": 1
+  },
+  "tham_quan": {
+    "frequency": 50,
+    "words": 1
+  },
+  "trước của toà": {
+    "frequency": 50,
+    "words": 3
+  },
+  "của con đường": {
+    "frequency": 50,
+    "words": 3
+  },
+  "người phụ_nữ áo": {
+    "frequency": 50,
+    "words": 3
+  },
+  "ngôi nhà cổ": {
+    "frequency": 50,
+    "words": 3
+  },
+  "trắng xuất_hiện": {
+    "frequency": 50,
+    "words": 2
+  },
+  "cửa_hàng tạp_hoá": {
+    "frequency": 49,
+    "words": 2
+  },
+  "nhóm bạn trẻ": {
+    "frequency": 49,
+    "words": 3
+  },
+  "cô gái đội": {
+    "frequency": 48,
+    "words": 3
+  },
+  "nhiều loại rau": {
+    "frequency": 48,
+    "words": 3
+  },
+  "toà thành cổ": {
+    "frequency": 48,
+    "words": 3
+  },
+  "mặt người phụ_nữ": {
+    "frequency": 47,
+    "words": 3
+  },
+  "bức tranh vẽ": {
+    "frequency": 47,
+    "words": 3
+  },
+  "điện_thoại": {
+    "frequency": 47,
+    "words": 1
+  },
+  "áo cam": {
+    "frequency": 47,
+    "words": 2
+  },
+  "chụp ảnh tập_thể": {
+    "frequency": 47,
+    "words": 3
+  },
+  "bộ bàn_ghế": {
+    "frequency": 47,
+    "words": 2
+  },
+  "nhiều mặt_hàng quần_áo": {
+    "frequency": 46,
+    "words": 3
+  },
+  "sơ_mi trắng": {
+    "frequency": 46,
+    "words": 2
+  },
+  "gian trại": {
+    "frequency": 46,
+    "words": 2
+  },
+  "một_vài người xuất_hiện": {
+    "frequency": 46,
+    "words": 3
+  },
+  "bán hàng": {
+    "frequency": 45,
+    "words": 2
+  },
+  "nhiều bộ bàn_ghế": {
+    "frequency": 45,
+    "words": 3
+  },
+  "tay người phụ_nữ": {
+    "frequency": 45,
+    "words": 3
+  },
+  "nhiều xe_cộ": {
+    "frequency": 45,
+    "words": 2
+  },
+  "tường màu vàng": {
+    "frequency": 44,
+    "words": 3
+  },
+  "buổi": {
+    "frequency": 44,
+    "words": 1
+  },
+  "mặt_hàng quần_áo": {
+    "frequency": 44,
+    "words": 2
+  },
+  "bán đồ trang_trí": {
+    "frequency": 44,
+    "words": 3
+  },
+  "lưu_thông": {
+    "frequency": 44,
+    "words": 1
+  },
+  "phát_biểu": {
+    "frequency": 44,
+    "words": 1
+  },
+  "lưng của cô": {
+    "frequency": 44,
+    "words": 3
+  },
+  "ngôi chùa": {
+    "frequency": 44,
+    "words": 2
+  },
+  "nhiều loại hàng_hoá": {
+    "frequency": 44,
+    "words": 3
+  },
+  "xích_lô": {
+    "frequency": 43,
+    "words": 1
+  },
+  "đeo": {
+    "frequency": 43,
+    "words": 1
+  },
+  "bán rau củ": {
+    "frequency": 43,
+    "words": 3
+  },
+  "nhà cũ": {
+    "frequency": 43,
+    "words": 2
+  },
+  "cây xuất_hiện": {
+    "frequency": 43,
+    "words": 2
+  },
+  "tay của cô": {
+    "frequency": 43,
+    "words": 3
+  },
+  "gái xuất_hiện": {
+    "frequency": 43,
+    "words": 2
+  },
+  "tụ_tập": {
+    "frequency": 43,
+    "words": 1
+  },
+  "của quán ăn": {
+    "frequency": 42,
+    "words": 3
+  },
+  "bờ sông": {
+    "frequency": 42,
+    "words": 2
+  },
+  "nhiều xe_máy": {
+    "frequency": 42,
+    "words": 2
+  },
+  "nhiều ngôi nhà": {
+    "frequency": 42,
+    "words": 3
+  },
+  "màu xám": {
+    "frequency": 42,
+    "words": 2
+  },
+  "quầy rau củ": {
+    "frequency": 42,
+    "words": 3
+  },
+  "đứng gần": {
+    "frequency": 42,
+    "words": 2
+  },
+  "màu đỏ xuất_hiện": {
+    "frequency": 42,
+    "words": 3
+  },
+  "tấm biển quảng_cáo": {
+    "frequency": 42,
+    "words": 3
+  },
+  "túi": {
+    "frequency": 41,
+    "words": 1
+  },
+  "nhiều bức ảnh": {
+    "frequency": 41,
+    "words": 3
+  },
+  "áo màu trắng": {
+    "frequency": 41,
+    "words": 3
+  },
+  "trần nhà": {
+    "frequency": 41,
+    "words": 2
+  },
+  "ngôi nhà cũ": {
+    "frequency": 41,
+    "words": 3
+  },
+  "lối": {
+    "frequency": 41,
+    "words": 1
+  },
+  "cô gái xuất_hiện": {
+    "frequency": 41,
+    "words": 3
+  },
+  "chụp ảnh trước": {
+    "frequency": 40,
+    "words": 3
+  },
+  "uống nước": {
+    "frequency": 40,
+    "words": 2
+  },
+  "hồ nước": {
+    "frequency": 40,
+    "words": 2
+  },
+  "sân_khấu": {
+    "frequency": 40,
+    "words": 1
+  },
+  "đường_ray tàu_hoả": {
+    "frequency": 40,
+    "words": 2
+  },
+  "tường tranh": {
+    "frequency": 40,
+    "words": 2
+  },
+  "biển quảng_cáo": {
+    "frequency": 40,
+    "words": 2
+  },
+  "gần nhau": {
+    "frequency": 39,
+    "words": 2
+  },
+  "xanh lá": {
+    "frequency": 39,
+    "words": 2
+  },
+  "buổi đêm": {
+    "frequency": 39,
+    "words": 2
+  },
+  "các em học_sinh": {
+    "frequency": 39,
+    "words": 3
+  },
+  "cây": {
+    "frequency": 39,
+    "words": 1
+  },
+  "loại hàng_hoá": {
+    "frequency": 39,
+    "words": 2
+  },
+  "khu_phố cổ": {
+    "frequency": 39,
+    "words": 2
+  },
+  "màu vàng xuất_hiện": {
+    "frequency": 39,
+    "words": 3
+  },
+  "người phụ_nữ xuất_hiện": {
+    "frequency": 38,
+    "words": 3
+  },
+  "rau củ": {
+    "frequency": 38,
+    "words": 2
+  },
+  "đứng trước quầy": {
+    "frequency": 38,
+    "words": 3
+  },
+  "người đàn_bà": {
+    "frequency": 38,
+    "words": 2
+  },
+  "cô bé": {
+    "frequency": 38,
+    "words": 2
+  },
+  "đeo khẩu_trang": {
+    "frequency": 38,
+    "words": 2
+  },
+  "bãi cỏ": {
+    "frequency": 38,
+    "words": 2
+  },
+  "ghế": {
+    "frequency": 38,
+    "words": 1
+  },
+  "bảng thông_báo": {
+    "frequency": 38,
+    "words": 2
+  },
+  "của nhiều loại": {
+    "frequency": 38,
+    "words": 3
+  },
+  "nhiều món ăn": {
+    "frequency": 38,
+    "words": 3
+  },
+  "phụ_nữ xuất_hiện": {
+    "frequency": 37,
+    "words": 2
+  },
+  "hàng": {
+    "frequency": 37,
+    "words": 1
+  },
+  "áo xanh lá": {
+    "frequency": 37,
+    "words": 3
+  },
+  "mọi người": {
+    "frequency": 37,
+    "words": 2
+  },
+  "ảnh tập_thể": {
+    "frequency": 37,
+    "words": 2
+  },
+  "nhiều sạp hàng": {
+    "frequency": 37,
+    "words": 3
+  },
+  "bó hoa": {
+    "frequency": 36,
+    "words": 2
+  },
+  "nằm": {
+    "frequency": 36,
+    "words": 1
+  },
+  "ghế nhựa": {
+    "frequency": 36,
+    "words": 2
+  },
+  "bán quần_áo": {
+    "frequency": 36,
+    "words": 2
+  },
+  "ảnh": {
+    "frequency": 36,
+    "words": 1
+  },
+  "người đàn_ông xuất_hiện": {
+    "frequency": 36,
+    "words": 3
+  },
+  "màu trắng xuất_hiện": {
+    "frequency": 36,
+    "words": 3
+  },
+  "ghế nhựa màu": {
+    "frequency": 35,
+    "words": 3
+  },
+  "đóng_cửa": {
+    "frequency": 35,
+    "words": 1
+  },
+  "cuốn sách": {
+    "frequency": 35,
+    "words": 2
+  },
+  "khẩu_trang màu trắng": {
+    "frequency": 35,
+    "words": 3
+  },
+  "củ quả xuất_hiện": {
+    "frequency": 35,
+    "words": 3
+  },
+  "chạy": {
+    "frequency": 35,
+    "words": 1
+  },
+  "cây_xanh xuất_hiện": {
+    "frequency": 35,
+    "words": 2
+  },
+  "áo xanh dương": {
+    "frequency": 35,
+    "words": 3
+  },
+  "bông hoa": {
+    "frequency": 35,
+    "words": 2
+  },
+  "sản_phẩm": {
+    "frequency": 35,
+    "words": 1
+  },
+  "bảo_tàng": {
+    "frequency": 35,
+    "words": 1
+  },
+  "micro": {
+    "frequency": 35,
+    "words": 1
+  },
+  "nhiều bức tranh": {
+    "frequency": 35,
+    "words": 3
+  },
+  "thành cổ": {
+    "frequency": 35,
+    "words": 2
+  },
+  "đạp xe": {
+    "frequency": 34,
+    "words": 2
+  },
+  "cây_cổ_thụ": {
+    "frequency": 34,
+    "words": 1
+  },
+  "toà nhà cao_tầng": {
+    "frequency": 34,
+    "words": 3
+  },
+  "hàng_hoá xuất_hiện": {
+    "frequency": 34,
+    "words": 2
+  },
+  "người đội nón": {
+    "frequency": 34,
+    "words": 3
+  },
+  "cầu": {
+    "frequency": 34,
+    "words": 1
+  },
+  "các gian_hàng": {
+    "frequency": 34,
+    "words": 2
+  },
+  "mặt_hàng đồ trang_trí": {
+    "frequency": 34,
+    "words": 3
+  },
+  "đàn_ông xuất_hiện": {
+    "frequency": 34,
+    "words": 2
+  },
+  "toà nhà_lớn": {
+    "frequency": 34,
+    "words": 2
+  },
+  "nhiều hiện_vật": {
+    "frequency": 34,
+    "words": 2
+  },
+  "chậu cây": {
+    "frequency": 34,
+    "words": 2
+  },
+  "chạy xe_máy": {
+    "frequency": 34,
+    "words": 2
+  },
+  "sơn màu vàng": {
+    "frequency": 33,
+    "words": 3
+  },
+  "trước cửa của": {
+    "frequency": 33,
+    "words": 3
+  },
+  "nhiều sản_phẩm": {
+    "frequency": 32,
+    "words": 2
+  },
+  "xuồng": {
+    "frequency": 32,
+    "words": 1
+  },
+  "tầng": {
+    "frequency": 32,
+    "words": 1
+  },
+  "xếp_hàng": {
+    "frequency": 32,
+    "words": 1
+  },
+  "cao_tầng xuất_hiện": {
+    "frequency": 32,
+    "words": 2
+  },
+  "tấm bảng thông_báo": {
+    "frequency": 32,
+    "words": 3
+  },
+  "dắt": {
+    "frequency": 32,
+    "words": 1
+  },
+  "lan_can": {
+    "frequency": 32,
+    "words": 1
+  },
+  "xung_quanh": {
+    "frequency": 32,
+    "words": 1
+  },
+  "của một_vài": {
+    "frequency": 32,
+    "words": 2
+  },
+  "tay của": {
+    "frequency": 32,
+    "words": 2
+  },
+  "nhiều quầy hàng": {
+    "frequency": 32,
+    "words": 3
+  },
+  "sản_phẩm xuất_hiện": {
+    "frequency": 31,
+    "words": 2
+  },
+  "nhiều loại sản_phẩm": {
+    "frequency": 31,
+    "words": 3
+  },
+  "nhà cao_tầng xuất_hiện": {
+    "frequency": 31,
+    "words": 3
+  },
+  "chụp": {
+    "frequency": 31,
+    "words": 1
+  },
+  "quyển sách": {
+    "frequency": 31,
+    "words": 2
+  },
+  "cổ xuất_hiện": {
+    "frequency": 31,
+    "words": 2
+  },
+  "của nhiều mặt_hàng": {
+    "frequency": 31,
+    "words": 3
+  },
+  "cao của": {
+    "frequency": 30,
+    "words": 2
+  },
+  "màu tím": {
+    "frequency": 30,
+    "words": 2
+  },
+  "người phụ_nữ đứng": {
+    "frequency": 30,
+    "words": 3
+  },
+  "cỏ xanh": {
+    "frequency": 30,
+    "words": 2
+  },
+  "áo màu đen": {
+    "frequency": 30,
+    "words": 3
+  },
+  "bạn nam": {
+    "frequency": 30,
+    "words": 2
+  },
+  "nói_chuyện": {
+    "frequency": 30,
+    "words": 1
+  },
+  "đen xuất_hiện": {
+    "frequency": 30,
+    "words": 2
+  },
+  "hàng quần_áo": {
+    "frequency": 29,
+    "words": 2
+  },
+  "gái đội nón": {
+    "frequency": 29,
+    "words": 3
+  },
+  "trước khu chợ": {
+    "frequency": 29,
+    "words": 3
+  },
+  "quán": {
+    "frequency": 29,
+    "words": 1
+  },
+  "quầy": {
+    "frequency": 29,
+    "words": 1
+  },
+  "bát phở": {
+    "frequency": 29,
+    "words": 2
+  },
+  "tranh xuất_hiện": {
+    "frequency": 29,
+    "words": 2
+  },
+  "cửa_hàng bán đồ": {
+    "frequency": 29,
+    "words": 3
+  },
+  "trước của cửa_hàng": {
+    "frequency": 29,
+    "words": 3
+  },
+  "ảnh trước": {
+    "frequency": 29,
+    "words": 2
+  },
+  "thùng hàng": {
+    "frequency": 29,
+    "words": 2
+  },
+  "hàng trái_cây": {
+    "frequency": 29,
+    "words": 2
+  },
+  "của quầy hàng": {
+    "frequency": 28,
+    "words": 3
+  },
+  "tiệm tạp_hoá": {
+    "frequency": 28,
+    "words": 2
+  },
+  "cửa": {
+    "frequency": 28,
+    "words": 1
+  },
+  "sau lưng người": {
+    "frequency": 28,
+    "words": 3
+  },
+  "bãi cỏ xanh": {
+    "frequency": 28,
+    "words": 3
+  },
+  "nhà gỗ": {
+    "frequency": 28,
+    "words": 2
+  },
+  "sau lưng cô": {
+    "frequency": 28,
+    "words": 3
+  },
+  "lưng cô gái": {
+    "frequency": 28,
+    "words": 3
+  },
+  "nhà xuất_hiện": {
+    "frequency": 28,
+    "words": 2
+  },
+  "cổng": {
+    "frequency": 28,
+    "words": 1
+  },
+  "xe_hơi": {
+    "frequency": 28,
+    "words": 1
+  },
+  "mặt của người": {
+    "frequency": 28,
+    "words": 3
+  },
+  "con ngõ": {
+    "frequency": 28,
+    "words": 2
+  },
+  "xuất_hiện trước mặt": {
+    "frequency": 28,
+    "words": 3
+  },
+  "trước cổng của": {
+    "frequency": 28,
+    "words": 3
+  },
+  "ngồi uống nước": {
+    "frequency": 28,
+    "words": 3
+  },
+  "chợ đêm": {
+    "frequency": 27,
+    "words": 2
+  },
+  "cây thông": {
+    "frequency": 27,
+    "words": 2
+  },
+  "tham_gia giao_thông": {
+    "frequency": 27,
+    "words": 2
+  },
+  "toà tháp": {
+    "frequency": 27,
+    "words": 2
+  },
+  "nhà_thờ": {
+    "frequency": 27,
+    "words": 1
+  },
+  "áo_dài trắng": {
+    "frequency": 27,
+    "words": 2
+  },
+  "người ngồi": {
+    "frequency": 27,
+    "words": 2
+  },
+  "áo_dài đỏ": {
+    "frequency": 27,
+    "words": 2
+  },
+  "áo xám": {
+    "frequency": 27,
+    "words": 2
+  },
+  "nhà_hàng": {
+    "frequency": 27,
+    "words": 1
+  },
+  "quầy thanh_toán": {
+    "frequency": 27,
+    "words": 2
+  },
+  "mặt người đàn_ông": {
+    "frequency": 27,
+    "words": 3
+  },
+  "quầy hàng trái_cây": {
+    "frequency": 27,
+    "words": 3
+  },
+  "của nhiều": {
+    "frequency": 27,
+    "words": 2
+  },
+  "cờ xuất_hiện": {
+    "frequency": 27,
+    "words": 2
+  },
+  "trước bức tường": {
+    "frequency": 26,
+    "words": 3
+  },
+  "ông_già noel": {
+    "frequency": 26,
+    "words": 2
+  },
+  "bộ xương": {
+    "frequency": 26,
+    "words": 2
+  },
+  "xung_quanh quầy hàng": {
+    "frequency": 26,
+    "words": 3
+  },
+  "em bé": {
+    "frequency": 26,
+    "words": 2
+  },
+  "của khu di_tích": {
+    "frequency": 26,
+    "words": 3
+  },
+  "trước của ngôi": {
+    "frequency": 26,
+    "words": 3
+  },
+  "khu rừng": {
+    "frequency": 26,
+    "words": 2
+  },
+  "chạm tay": {
+    "frequency": 26,
+    "words": 2
+  },
+  "bục": {
+    "frequency": 26,
+    "words": 1
+  },
+  "của quán": {
+    "frequency": 26,
+    "words": 2
+  },
+  "quần_áo xuất_hiện": {
+    "frequency": 26,
+    "words": 2
+  },
+  "nhiều cây_xanh": {
+    "frequency": 26,
+    "words": 2
+  },
+  "bức tường màu": {
+    "frequency": 26,
+    "words": 3
+  },
+  "áo tím": {
+    "frequency": 26,
+    "words": 2
+  },
+  "váy trắng": {
+    "frequency": 26,
+    "words": 2
+  },
+  "tính tiền": {
+    "frequency": 26,
+    "words": 2
+  },
+  "trao_đổi": {
+    "frequency": 26,
+    "words": 1
+  },
+  "quanh": {
+    "frequency": 26,
+    "words": 1
+  },
+  "bờ hồ": {
+    "frequency": 26,
+    "words": 2
+  },
+  "đeo kính_râm": {
+    "frequency": 26,
+    "words": 2
+  },
+  "thuyền xuất_hiện": {
+    "frequency": 26,
+    "words": 2
+  },
+  "cánh đồng": {
+    "frequency": 26,
+    "words": 2
+  },
+  "trang_trí xuất_hiện": {
+    "frequency": 26,
+    "words": 2
+  },
+  "của nhóm người": {
+    "frequency": 26,
+    "words": 3
+  },
+  "hàng hoa_quả": {
+    "frequency": 26,
+    "words": 2
+  },
+  "kiến_trúc cổ": {
+    "frequency": 26,
+    "words": 2
+  },
+  "ghe": {
+    "frequency": 26,
+    "words": 1
+  },
+  "rất nhiều người": {
+    "frequency": 25,
+    "words": 3
+  },
+  "bờ biển": {
+    "frequency": 25,
+    "words": 2
+  },
+  "vẽ": {
+    "frequency": 25,
+    "words": 1
+  },
+  "nhiều cuốn sách": {
+    "frequency": 25,
+    "words": 3
+  },
+  "bảng_hiệu": {
+    "frequency": 25,
+    "words": 1
+  },
+  "màu chủ_đạo": {
+    "frequency": 25,
+    "words": 2
+  },
+  "đeo túi_xách": {
+    "frequency": 25,
+    "words": 2
+  },
+  "người phụ_nữ cầm": {
+    "frequency": 25,
+    "words": 3
+  },
+  "dòng chữ": {
+    "frequency": 25,
+    "words": 2
+  },
+  "giỏ hàng màu": {
+    "frequency": 25,
+    "words": 3
+  },
+  "đồ bảo_hộ": {
+    "frequency": 25,
+    "words": 2
+  },
+  "hộp quà": {
+    "frequency": 25,
+    "words": 2
+  },
+  "của con phố": {
+    "frequency": 25,
+    "words": 3
+  },
+  "quầy hàng hoa_quả": {
+    "frequency": 25,
+    "words": 3
+  },
+  "màu đen xuất_hiện": {
+    "frequency": 25,
+    "words": 3
+  },
+  "quầy hàng quần_áo": {
+    "frequency": 24,
+    "words": 3
+  },
+  "trước của căn": {
+    "frequency": 24,
+    "words": 3
+  },
+  "bắc ngang": {
+    "frequency": 24,
+    "words": 2
+  },
+  "một_vài người phụ_nữ": {
+    "frequency": 24,
+    "words": 3
+  },
+  "đầu": {
+    "frequency": 24,
+    "words": 1
+  },
+  "ô_tô xuất_hiện": {
+    "frequency": 24,
+    "words": 2
+  },
+  "vệ đường": {
+    "frequency": 24,
+    "words": 2
+  },
+  "nhân_viên": {
+    "frequency": 24,
+    "words": 1
+  },
+  "rộng vành": {
+    "frequency": 24,
+    "words": 2
+  },
+  "của nam thanh_niên": {
+    "frequency": 24,
+    "words": 3
+  },
+  "chữ màu vàng": {
+    "frequency": 24,
+    "words": 3
+  },
+  "của bức ảnh": {
+    "frequency": 24,
+    "words": 3
+  },
+  "nước xuất_hiện": {
+    "frequency": 24,
+    "words": 2
+  },
+  "bó rau": {
+    "frequency": 24,
+    "words": 2
+  },
+  "ban_công của": {
+    "frequency": 24,
+    "words": 2
+  },
+  "các sạp hàng": {
+    "frequency": 24,
+    "words": 3
+  },
+  "tấm biển tên": {
+    "frequency": 24,
+    "words": 3
+  },
+  "nắm tay": {
+    "frequency": 23,
+    "words": 2
+  },
+  "khu chợ đêm": {
+    "frequency": 23,
+    "words": 3
+  },
+  "phòng": {
+    "frequency": 23,
+    "words": 1
+  },
+  "xe xích_lô": {
+    "frequency": 23,
+    "words": 2
+  },
+  "dãy phố": {
+    "frequency": 23,
+    "words": 2
+  },
+  "mũ rộng vành": {
+    "frequency": 23,
+    "words": 3
+  },
+  "trời": {
+    "frequency": 23,
+    "words": 1
+  },
+  "các cửa_hàng": {
+    "frequency": 23,
+    "words": 2
+  },
+  "tấm biển màu": {
+    "frequency": 23,
+    "words": 3
+  },
+  "người đàn_ông đứng": {
+    "frequency": 23,
+    "words": 3
+  },
+  "căn nhà gỗ": {
+    "frequency": 23,
+    "words": 3
+  },
+  "trung_tâm thương_mại": {
+    "frequency": 23,
+    "words": 2
+  },
+  "hàng rong": {
+    "frequency": 23,
+    "words": 2
+  },
+  "hồ": {
+    "frequency": 23,
+    "words": 1
+  },
+  "đàn_ông đeo kính": {
+    "frequency": 23,
+    "words": 3
+  },
+  "vườn hoa": {
+    "frequency": 23,
+    "words": 2
+  },
+  "gánh hàng rong": {
+    "frequency": 23,
+    "words": 3
+  },
+  "đồ trang_trí xuất_hiện": {
+    "frequency": 23,
+    "words": 3
+  },
+  "nhiều hàng_hoá": {
+    "frequency": 23,
+    "words": 2
+  },
+  "nhiều thùng hàng": {
+    "frequency": 23,
+    "words": 3
+  },
+  "hộp": {
+    "frequency": 23,
+    "words": 1
+  },
+  "dắt xe_đạp": {
+    "frequency": 23,
+    "words": 2
+  },
+  "của nhiều món": {
+    "frequency": 23,
+    "words": 3
+  },
+  "bán rau": {
+    "frequency": 22,
+    "words": 2
+  },
+  "người đàn_ông_đội mũ": {
+    "frequency": 22,
+    "words": 3
+  },
+  "đồ đen": {
+    "frequency": 22,
+    "words": 2
+  },
+  "tay người đàn_ông": {
+    "frequency": 22,
+    "words": 3
+  },
+  "trạng_thái di_chuyển": {
+    "frequency": 22,
+    "words": 2
+  },
+  "quầy thu_ngân": {
+    "frequency": 22,
+    "words": 2
+  },
+  "ngồi ăn": {
+    "frequency": 22,
+    "words": 2
+  },
+  "chỉ": {
+    "frequency": 22,
+    "words": 1
+  },
+  "đội": {
+    "frequency": 22,
+    "words": 1
+  },
+  "công_viên": {
+    "frequency": 22,
+    "words": 1
+  },
+  "giỏ hàng": {
+    "frequency": 22,
+    "words": 2
+  },
+  "chèo thuyền": {
+    "frequency": 22,
+    "words": 2
+  },
+  "đền thờ": {
+    "frequency": 22,
+    "words": 2
+  },
+  "hội_chợ": {
+    "frequency": 22,
+    "words": 1
+  },
+  "quầy tính tiền": {
+    "frequency": 22,
+    "words": 3
+  },
+  "chữ màu trắng": {
+    "frequency": 22,
+    "words": 3
+  },
+  "hiện_vật": {
+    "frequency": 22,
+    "words": 1
+  },
+  "ngồi ăn_ở": {
+    "frequency": 22,
+    "words": 2
+  },
+  "khu xưởng": {
+    "frequency": 22,
+    "words": 2
+  },
+  "đèn_lồng xuất_hiện": {
+    "frequency": 22,
+    "words": 2
+  },
+  "nhau chụp ảnh": {
+    "frequency": 22,
+    "words": 3
+  },
+  "bộ bàn_ghế xuất_hiện": {
+    "frequency": 22,
+    "words": 3
+  },
+  "bàn_ghế xuất_hiện": {
+    "frequency": 22,
+    "words": 2
+  },
+  "lá cờ xuất_hiện": {
+    "frequency": 22,
+    "words": 3
+  },
+  "loại sản_phẩm": {
+    "frequency": 21,
+    "words": 2
+  },
+  "dãy nhà": {
+    "frequency": 21,
+    "words": 2
+  },
+  "cây_cổ_thụ xuất_hiện": {
+    "frequency": 21,
+    "words": 2
+  },
+  "cây cầu bắc": {
+    "frequency": 21,
+    "words": 3
+  },
+  "tranh vẽ về": {
+    "frequency": 21,
+    "words": 3
+  },
+  "xanh da_trời": {
+    "frequency": 21,
+    "words": 2
+  },
+  "thúng": {
+    "frequency": 21,
+    "words": 1
+  },
+  "cô gái đứng": {
+    "frequency": 21,
+    "words": 3
+  },
+  "tấm bảng_hiệu": {
+    "frequency": 21,
+    "words": 2
+  },
+  "gỗ xuất_hiện": {
+    "frequency": 21,
+    "words": 2
+  },
+  "nhiều cây_xanh xuất_hiện": {
+    "frequency": 21,
+    "words": 3
+  },
+  "cửa_hàng đồ trang_trí": {
+    "frequency": 21,
+    "words": 3
+  },
+  "chở người": {
+    "frequency": 21,
+    "words": 2
+  },
+  "xe_buýt": {
+    "frequency": 21,
+    "words": 1
+  },
+  "đèn": {
+    "frequency": 21,
+    "words": 1
+  },
+  "xa_xa": {
+    "frequency": 21,
+    "words": 1
+  },
+  "tranh vẽ": {
+    "frequency": 21,
+    "words": 2
+  },
+  "tấm biển": {
+    "frequency": 21,
+    "words": 2
+  },
+  "hàng bán rau": {
+    "frequency": 21,
+    "words": 3
+  },
+  "quầy bán hàng": {
+    "frequency": 21,
+    "words": 3
+  },
+  "nhiều em học_sinh": {
+    "frequency": 21,
+    "words": 3
+  },
+  "đồng_chí công_an": {
+    "frequency": 21,
+    "words": 2
+  },
+  "túi đồ": {
+    "frequency": 21,
+    "words": 2
+  },
+  "của căn phòng": {
+    "frequency": 21,
+    "words": 3
+  },
+  "khu hội_chợ": {
+    "frequency": 21,
+    "words": 2
+  },
+  "thức_ăn xuất_hiện": {
+    "frequency": 21,
+    "words": 2
+  },
+  "nhựa màu xanh": {
+    "frequency": 20,
+    "words": 3
+  },
+  "biển_hiệu": {
+    "frequency": 20,
+    "words": 1
+  },
+  "hiệu sách": {
+    "frequency": 20,
+    "words": 2
+  }
+}

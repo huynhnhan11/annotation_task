@@ -1,0 +1,148 @@
+{
+  "khu_di_tích": {
+    "facet": "kiến_trúc-cảnh_quan",
+    "variants": [
+      "khu di_tích",
+      "khu di_tích lịch_sử",
+      "của khu di_tích",
+      "trước khu di_tích"
+    ]
+  },
+  "di_tích_lịch_sử": {
+    "facet": "kiến_trúc-cảnh_quan",
+    "variants": [
+      "di_tích lịch_sử"
+    ]
+  },
+  "nhà_cổ": {
+    "facet": "kiến_trúc-cảnh_quan",
+    "variants": [
+      "nhà cổ",
+      "ngôi nhà cổ"
+    ]
+  },
+  "kiến_trúc_cổ": {
+    "facet": "kiến_trúc-cảnh_quan",
+    "variants": [
+      "kiến_trúc cổ"
+    ]
+  },
+  "đền_thờ": {
+    "facet": "kiến_trúc-cảnh_quan",
+    "variants": [
+      "đền thờ"
+    ]
+  },
+  "xuồng": {
+    "facet": "phương_tiện",
+    "variants": []
+  },
+  "đèn_lồng": {
+    "facet": "trang_trí",
+    "variants": [
+      "đèn_lồng xuất_hiện"
+    ]
+  },
+  "áo_dài": {
+    "facet": "trang_phục",
+    "variants": [
+      "áo_dài trắng",
+      "áo_dài đỏ"
+    ]
+  },
+  "chợ": {
+    "facet": "sinh_hoạt",
+    "variants": [
+      "khu chợ",
+      "của khu chợ",
+      "trước khu chợ",
+      "phiên chợ"
+    ]
+  },
+  "chợ_đêm": {
+    "facet": "sinh_hoạt",
+    "variants": [
+      "chợ đêm",
+      "khu chợ đêm"
+    ]
+  },
+  "hàng_rong": {
+    "facet": "sinh_hoạt",
+    "variants": [
+      "gánh hàng rong"
+    ]
+  },
+  "nón_lá": {
+    "facet": "trang_phục",
+    "variants": [
+      "nón lá",
+      "đội nón lá",
+      "người đội nón",
+      "phụ_nữ đội nón",
+      "gái đội nón",
+      "chiếc nón lá"
+    ]
+  },
+  "cờ": {
+    "facet": "biểu_tượng",
+    "variants": [
+      "lá cờ",
+      "cờ xuất_hiện",
+      "lá cờ xuất_hiện"
+    ]
+  },
+  "thúng": {
+    "facet": "sinh_hoạt",
+    "variants": []
+  },
+  "nhà_thờ": {
+    "facet": "kiến_trúc-cảnh_quan",
+    "variants": []
+  },
+  "ngôi_đền": {
+    "facet": "kiến_trúc-cảnh_quan",
+    "variants": [
+      "ngôi đền"
+    ]
+  },
+  "ngôi_chùa": {
+    "facet": "kiến_trúc-cảnh_quan",
+    "variants": [
+      "ngôi chùa"
+    ]
+  },
+  "toà_thành_cổ": {
+    "facet": "kiến_trúc-cảnh_quan",
+    "variants": [
+      "toà thành cổ"
+    ]
+  },
+  "xích_lô": {
+    "facet": "phương_tiện",
+    "variants": [
+      "xe xích_lô"
+    ]
+  },
+  "khu_phố_cổ": {
+    "facet": "kiến_trúc-cảnh_quan",
+    "variants": [
+      "khu_phố cổ"
+    ]
+  },
+  "thành_cổ": {
+    "facet": "kiến_trúc-cảnh_quan",
+    "variants": [
+      "thành cổ"
+    ]
+  },
+  "phở": {
+    "facet": "ẩm_thực",
+    "variants": [
+      "bát phở"
+    ]
+  },
+  "ghe": {
+    "facet": "phương_tiện",
+    "variants": []
+  }
+}

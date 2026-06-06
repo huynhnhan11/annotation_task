@@ -1,0 +1,3318 @@
+================================================================================
+CLUSTERED VOCABULARY CANDIDATES (TRAIN DATA ONLY)
+For annotation: mark each as cultural (Y/N) and assign facet
+================================================================================
+
+
+[CLUSTER 0] (20 phrases)
+  Representative: nhiều mặt_hàng
+  Members:
+    - nhiều mặt_hàng                      (freq: 129)
+    - nhiều món đồ                        (freq: 58)
+    - nhiều mặt_hàng rau                  (freq: 54)
+    - nhiều mặt_hàng đồ                   (freq: 53)
+    - nhiều con thuyền                    (freq: 52)
+    - nhiều loại rau                      (freq: 48)
+    - nhiều mặt_hàng quần_áo              (freq: 46)
+    - nhiều loại hàng_hoá                 (freq: 44)
+    - nhiều ngôi nhà                      (freq: 42)
+    - nhiều bức ảnh                       (freq: 41)
+    - nhiều món ăn                        (freq: 38)
+    - nhiều sạp hàng                      (freq: 37)
+    - nhiều bức tranh                     (freq: 35)
+    - nhiều hiện_vật                      (freq: 34)
+    - nhiều sản_phẩm                      (freq: 32)
+    - nhiều quầy hàng                     (freq: 32)
+    - nhiều loại sản_phẩm                 (freq: 31)
+    - nhiều cuốn sách                     (freq: 25)
+    - nhiều hàng_hoá                      (freq: 23)
+    - nhiều thùng hàng                    (freq: 23)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 1] (13 phrases)
+  Representative: bức tranh
+  Members:
+    - bức tranh                           (freq: 182)
+    - khu di_tích                         (freq: 127)
+    - bức tượng                           (freq: 85)
+    - khu di_tích lịch_sử                 (freq: 68)
+    - bức tường tranh                     (freq: 55)
+    - ngôi nhà cổ                         (freq: 50)
+    - bức tranh vẽ                        (freq: 47)
+    - buổi đêm                            (freq: 39)
+    - cỏ xanh                             (freq: 30)
+    - kiến_trúc cổ                        (freq: 26)
+    - quầy hàng quần_áo                   (freq: 24)
+    - chèo thuyền                         (freq: 22)
+    - đền thờ                             (freq: 22)
+
+  ☐ Cultural (Y/N): Y
+  ☐ Facet: kiến_trúc- cảnh_quan
+  ☐ Notes: giữ "khu di_tích", "khu di_tích lịch_sử ", ngôi nhà cổ, kiến_trúc cổ, đền thờ; bức tượng chỉ giữ nếu là tượng lịch sử/tôn giáo.
+--------------------------------------------------------------------------------
+
+[CLUSTER 2] (11 phrases)
+  Representative: áo đen
+  Members:
+    - áo đen                              (freq: 184)
+    - áo xanh                             (freq: 90)
+    - áo vàng                             (freq: 84)
+    - áo hồng                             (freq: 56)
+    - áo màu xanh                         (freq: 55)
+    - áo sơ_mi trắng                      (freq: 52)
+    - áo cam                              (freq: 47)
+    - áo xanh lá                          (freq: 37)
+    - áo màu đen                          (freq: 30)
+    - áo tím                              (freq: 26)
+    - váy trắng                           (freq: 26)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt;
+--------------------------------------------------------------------------------
+
+[CLUSTER 3] (9 phrases)
+  Representative: cô gái
+  Members:
+    - cô gái                              (freq: 1502)
+    - của cô gái                          (freq: 154)
+    - xanh lá cây                         (freq: 143)
+    - của toà nhà                         (freq: 87)
+    - người phụ_nữ đeo                    (freq: 82)
+    - cô gái đeo                          (freq: 79)
+    - của căn nhà                         (freq: 66)
+    - người đàn_ông đeo                   (freq: 59)
+    - người phụ_nữ áo                     (freq: 50)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 4] (9 phrases)
+  Representative: xe đẩy siêu_thị
+  Members:
+    - xe đẩy siêu_thị                     (freq: 205)
+    - tay của người                       (freq: 67)
+    - đường_ray tàu_hoả                   (freq: 40)
+    - bảng thông_báo                      (freq: 38)
+    - mặt của người                       (freq: 28)
+    - người đàn_ông_đội mũ                (freq: 22)
+    - quầy thu_ngân                       (freq: 22)
+    - quầy tính tiền                      (freq: 22)
+    - dãy nhà                             (freq: 21)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt;
+--------------------------------------------------------------------------------
+
+[CLUSTER 5] (8 phrases)
+  Representative: xuất_hiện
+  Members:
+    - xuất_hiện                           (freq: 836)
+    - điện_thoại                          (freq: 47)
+    - ảnh                                 (freq: 36)
+    - đóng_cửa                            (freq: 35)
+    - micro                               (freq: 35)
+    - xuồng                               (freq: 32)
+    - xung_quanh                          (freq: 32)
+    - chụp                                (freq: 31)
+
+  ☐ Cultural (Y/N): Y
+  ☐ Facet: phương_tiện
+  ☐ Notes: giữ "xuồng" như phương tiện đường thủy địa phương; loại các từ danh từ chung như "điện_thoại", "ảnh", "micro" và các từ chỉ hành động như "xuất_hiện", "đóng_cửa", "chụp".
+--------------------------------------------------------------------------------
+
+[CLUSTER 6] (7 phrases)
+  Representative: quầy hàng
+  Members:
+    - quầy hàng                           (freq: 470)
+    - mua hàng                            (freq: 127)
+    - sạp hàng                            (freq: 75)
+    - bán hàng                            (freq: 45)
+    - thùng hàng                          (freq: 29)
+    - bán rau                             (freq: 22)
+    - quầy bán hàng                       (freq: 21)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 7] (7 phrases)
+  Representative: đẩy siêu_thị
+  Members:
+    - đẩy siêu_thị                        (freq: 169)
+    - các kệ hàng                         (freq: 77)
+    - các quầy hàng                       (freq: 58)
+    - các gian_hàng                       (freq: 34)
+    - toà nhà_lớn                         (freq: 34)
+    - các sạp hàng                        (freq: 24)
+    - các cửa_hàng                        (freq: 23)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 8] (7 phrases)
+  Representative: đèn_lồng
+  Members:
+    - đèn_lồng                            (freq: 129)
+    - xe_đạp                              (freq: 106)
+    - áo_dài                              (freq: 95)
+    - chợ                                 (freq: 63)
+    - hồ                                  (freq: 23)
+    - công_viên                           (freq: 22)
+    - đèn                                 (freq: 21)
+
+  ☐ Cultural (Y/N): Y
+  ☐ Facet: trang_trí; trang_phục; sinh_hoạt
+  ☐ Notes: giữ "đèn_lồng" như vật trang trí đặc trưng, "áo_dài" cho trang phục truyền thống, "chợ" cho địa điểm sinh hoat/mua bán thương mại truyền thống.
+--------------------------------------------------------------------------------
+
+[CLUSTER 9] (6 phrases)
+  Representative: người phụ_nữ
+  Members:
+    - người phụ_nữ                        (freq: 1806)
+    - mặt người phụ_nữ                    (freq: 47)
+    - tay người phụ_nữ                    (freq: 45)
+    - cô gái xuất_hiện                    (freq: 41)
+    - mặt người đàn_ông                   (freq: 27)
+    - người phụ_nữ cầm                    (freq: 25)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 10] (6 phrases)
+  Representative: trưng_bày
+  Members:
+    - trưng_bày                           (freq: 336)
+    - phố                                 (freq: 102)
+    - xe                                  (freq: 58)
+    - sân_khấu                            (freq: 40)
+    - xe_hơi                              (freq: 28)
+    - hội_chợ                             (freq: 22)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm trưng_bày/phố/xe/sân_khấu chung; hội_chợ quá rộng nếu không có ngữ cảnh lễ hội địa phương.
+--------------------------------------------------------------------------------
+
+[CLUSTER 11] (6 phrases)
+  Representative: chàng trai
+  Members:
+    - chàng trai                          (freq: 228)
+    - đứa trẻ                             (freq: 89)
+    - bãi biển                            (freq: 67)
+    - đứa bé                              (freq: 61)
+    - cô bé                               (freq: 38)
+    - em bé                               (freq: 26)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 12] (6 phrases)
+  Representative: con phố
+  Members:
+    - con phố                             (freq: 223)
+    - con sông                            (freq: 129)
+    - cửa_hàng tạp_hoá                    (freq: 49)
+    - biển quảng_cáo                      (freq: 40)
+    - tiệm tạp_hoá                        (freq: 28)
+    - hàng hoa_quả                        (freq: 26)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 13] (6 phrases)
+  Representative: đám đông
+  Members:
+    - đám đông                            (freq: 96)
+    - đồ trang_trí                        (freq: 79)
+    - quầy hàng trái_cây                  (freq: 27)
+    - quầy hàng hoa_quả                   (freq: 25)
+    - khu chợ đêm                         (freq: 23)
+    - gánh hàng rong                      (freq: 23)
+
+  ☐ Cultural (Y/N): Y
+  ☐ Facet: sinh_hoạt
+  ☐ Notes: giữ "khu chợ đêm, gánh hàng rong"; loại "đám đông", quầy hàng".
+--------------------------------------------------------------------------------
+
+[CLUSTER 14] (6 phrases)
+  Representative: xe_máy xuất_hiện
+  Members:
+    - xe_máy xuất_hiện                    (freq: 72)
+    - vàng xuất_hiện                      (freq: 60)
+    - cao_tầng xuất_hiện                  (freq: 32)
+    - thuyền xuất_hiện                    (freq: 26)
+    - ô_tô xuất_hiện                      (freq: 24)
+    - bàn_ghế xuất_hiện                   (freq: 22)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 15] (5 phrases)
+  Representative: một_vài người
+  Members:
+    - một_vài người                       (freq: 528)
+    - nhóm người                          (freq: 434)
+    - của nhiều người                     (freq: 138)
+    - của một_vài người                   (freq: 52)
+    - một_số người                        (freq: 51)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 16] (5 phrases)
+  Representative: xe_máy
+  Members:
+    - xe_máy                              (freq: 465)
+    - trái                                (freq: 177)
+    - ô_tô                                (freq: 79)
+    - chạy                                (freq: 35)
+    - đội                                 (freq: 22)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 17] (4 phrases)
+  Representative: người
+  Members:
+    - người                               (freq: 1048)
+    - phải                                (freq: 170)
+    - đầu                                 (freq: 24)
+    - chỉ                                 (freq: 22)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 18] (4 phrases)
+  Representative: bức ảnh
+  Members:
+    - bức ảnh                             (freq: 547)
+    - phòng trưng_bày                     (freq: 74)
+    - cuốn sách                           (freq: 35)
+    - hiệu sách                           (freq: 20)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 19] (4 phrases)
+  Representative: khu chợ
+  Members:
+    - khu chợ                             (freq: 496)
+    - của khu chợ                         (freq: 57)
+    - xung_quanh quầy hàng                (freq: 26)
+    - của căn phòng                       (freq: 21)
+
+  ☐ Cultural (Y/N): Y
+  ☐ Facet: sinh_hoạt
+  ☐ Notes: Giữ khu chợ/của khu chợ như bối cảnh chợ địa phương; loại các cụm "xung quanh".
+--------------------------------------------------------------------------------
+
+[CLUSTER 20] (4 phrases)
+  Representative: nón lá
+  Members:
+    - nón lá                              (freq: 195)
+    - đội nón lá                          (freq: 162)
+    - lá cờ                               (freq: 53)
+    - người đội nón                       (freq: 34)
+
+  ☐ Cultural (Y/N): Y
+  ☐ Facet: trang_phục; biểu_tượng
+  ☐ Notes: Giữ nón lá, đội nón lá, người đội nón; lá cờ chỉ giữ khi là cờ Việt Nam/quốc kỳ.
+--------------------------------------------------------------------------------
+
+[CLUSTER 21] (4 phrases)
+  Representative: của người phụ_nữ
+  Members:
+    - của người phụ_nữ                    (freq: 117)
+    - của người đàn_ông                   (freq: 56)
+    - của nam thanh_niên                  (freq: 24)
+    - chữ màu vàng                        (freq: 24)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 22] (4 phrases)
+  Representative: cây cầu
+  Members:
+    - cây cầu                             (freq: 94)
+    - hàng                                (freq: 37)
+    - vệ đường                            (freq: 24)
+    - cây cầu bắc                         (freq: 21)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 23] (4 phrases)
+  Representative: xe ô_tô
+  Members:
+    - xe ô_tô                             (freq: 57)
+    - gian trại                           (freq: 46)
+    - hàng quần_áo                        (freq: 29)
+    - khu xưởng                           (freq: 22)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 24] (4 phrases)
+  Representative: cây
+  Members:
+    - cây                                 (freq: 39)
+    - tấm biển màu                        (freq: 23)
+    - loại sản_phẩm                       (freq: 21)
+    - tấm biển                            (freq: 21)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 25] (3 phrases)
+  Representative: người đàn_ông
+  Members:
+    - người đàn_ông                       (freq: 1280)
+    - người phụ_nữ đội                    (freq: 111)
+    - cô gái đội                          (freq: 48)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 26] (3 phrases)
+  Representative: kệ hàng
+  Members:
+    - kệ hàng                             (freq: 431)
+    - gian                                (freq: 51)
+    - xa_xa                               (freq: 21)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 27] (3 phrases)
+  Representative: màu trắng
+  Members:
+    - màu trắng                           (freq: 329)
+    - áo trắng                            (freq: 196)
+    - màu cam                             (freq: 79)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 28] (3 phrases)
+  Representative: màu đỏ
+  Members:
+    - màu đỏ                              (freq: 321)
+    - áo đỏ                               (freq: 147)
+    - đồ đen                              (freq: 22)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 29] (3 phrases)
+  Representative: màu vàng
+  Members:
+    - màu vàng                            (freq: 253)
+    - căn nhà                             (freq: 245)
+    - nhà gỗ                              (freq: 28)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 30] (3 phrases)
+  Representative: màu đen
+  Members:
+    - màu đen                             (freq: 196)
+    - khẩu_trang màu trắng                (freq: 35)
+    - chữ màu trắng                       (freq: 22)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 31] (3 phrases)
+  Representative: quán ăn
+  Members:
+    - quán ăn                             (freq: 163)
+    - món ăn                              (freq: 77)
+    - của quán ăn                         (freq: 42)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Quán ăn/món ăn là cụm ẩm thực chung, chưa phải món Việt cụ thể.
+--------------------------------------------------------------------------------
+
+[CLUSTER 32] (3 phrases)
+  Representative: màu xanh
+  Members:
+    - màu xanh                            (freq: 143)
+    - màu xanh dương                      (freq: 92)
+    - màu tím                             (freq: 30)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 33] (3 phrases)
+  Representative: xanh dương
+  Members:
+    - xanh dương                          (freq: 130)
+    - màu xám                             (freq: 42)
+    - xanh da_trời                        (freq: 21)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 34] (3 phrases)
+  Representative: bức tường
+  Members:
+    - bức tường                           (freq: 116)
+    - tường tranh                         (freq: 40)
+    - bức tường màu                       (freq: 26)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 35] (3 phrases)
+  Representative: đồ trang_trí giáng_sinh
+  Members:
+    - đồ trang_trí giáng_sinh             (freq: 85)
+    - bãi cỏ                              (freq: 38)
+    - chợ đêm                             (freq: 27)
+
+  ☐ Cultural (Y/N): Y
+  ☐ Facet: sinh_hoạt
+  ☐ Notes: giữ "chợ đêm" cho địa điểm sinh hoạt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 36] (3 phrases)
+  Representative: tủ kính
+  Members:
+    - tủ kính                             (freq: 81)
+    - giỏ hàng                            (freq: 22)
+    - túi đồ                              (freq: 21)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 37] (3 phrases)
+  Representative: của siêu_thị
+  Members:
+    - của siêu_thị                        (freq: 81)
+    - của cửa_hàng                        (freq: 76)
+    - của quán                            (freq: 26)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 38] (3 phrases)
+  Representative: em học_sinh
+  Members:
+    - em học_sinh                         (freq: 76)
+    - đeo khẩu_trang màu                  (freq: 55)
+    - đeo khẩu_trang                      (freq: 38)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 39] (3 phrases)
+  Representative: cửa tiệm
+  Members:
+    - cửa tiệm                            (freq: 69)
+    - trạng_thái di_chuyển                (freq: 22)
+    - thúng                               (freq: 21)
+
+  ☐ Cultural (Y/N): Y
+  ☐ Facet: sinh_hoạt
+  ☐ Notes: giữ "thúng" như vật dụng truyền thống trong đời sống; loại "cửa tiệm", "trạng_thái di_chuyển".
+--------------------------------------------------------------------------------
+
+[CLUSTER 40] (3 phrases)
+  Representative: đỏ xuất_hiện
+  Members:
+    - đỏ xuất_hiện                        (freq: 59)
+    - trắng xuất_hiện                     (freq: 50)
+    - đen xuất_hiện                       (freq: 30)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 41] (3 phrases)
+  Representative: mặt_hàng rau củ
+  Members:
+    - mặt_hàng rau củ                     (freq: 53)
+    - loại rau củ                         (freq: 53)
+    - quầy rau củ                         (freq: 42)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 42] (3 phrases)
+  Representative: sơ_mi trắng
+  Members:
+    - sơ_mi trắng                         (freq: 46)
+    - áo xanh dương                       (freq: 35)
+    - áo xám                              (freq: 27)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 43] (3 phrases)
+  Representative: tường màu vàng
+  Members:
+    - tường màu vàng                      (freq: 44)
+    - sơn màu vàng                        (freq: 33)
+    - nhựa màu xanh                       (freq: 20)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 44] (3 phrases)
+  Representative: bán đồ trang_trí
+  Members:
+    - bán đồ trang_trí                    (freq: 44)
+    - cửa_hàng bán đồ                     (freq: 29)
+    - cửa_hàng đồ trang_trí               (freq: 21)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 45] (3 phrases)
+  Representative: cây xuất_hiện
+  Members:
+    - cây xuất_hiện                       (freq: 43)
+    - cây_xanh xuất_hiện                  (freq: 35)
+    - cây_cổ_thụ xuất_hiện                (freq: 21)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 46] (3 phrases)
+  Representative: gái xuất_hiện
+  Members:
+    - gái xuất_hiện                       (freq: 43)
+    - phụ_nữ xuất_hiện                    (freq: 37)
+    - đàn_ông xuất_hiện                   (freq: 34)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 47] (3 phrases)
+  Representative: màu vàng xuất_hiện
+  Members:
+    - màu vàng xuất_hiện                  (freq: 39)
+    - màu trắng xuất_hiện                 (freq: 36)
+    - màu đen xuất_hiện                   (freq: 25)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 48] (3 phrases)
+  Representative: người phụ_nữ đứng
+  Members:
+    - người phụ_nữ đứng                   (freq: 30)
+    - người đàn_ông đứng                  (freq: 23)
+    - cô gái đứng                         (freq: 21)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 49] (3 phrases)
+  Representative: của quầy hàng
+  Members:
+    - của quầy hàng                       (freq: 28)
+    - của nhóm người                      (freq: 26)
+    - của bức ảnh                         (freq: 24)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 50] (2 phrases)
+  Representative: sự xuất_hiện của
+  Members:
+    - sự xuất_hiện của                    (freq: 1776)
+    - xuất_hiện của                       (freq: 1121)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 51] (2 phrases)
+  Representative: ngôi nhà
+  Members:
+    - ngôi nhà                            (freq: 411)
+    - người ngồi                          (freq: 27)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 52] (2 phrases)
+  Representative: rau củ quả
+  Members:
+    - rau củ quả                          (freq: 303)
+    - củ quả                              (freq: 259)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 53] (2 phrases)
+  Representative: người xuất_hiện
+  Members:
+    - người xuất_hiện                     (freq: 233)
+    - nhà xuất_hiện                       (freq: 28)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 54] (2 phrases)
+  Representative: con đường
+  Members:
+    - con đường                           (freq: 219)
+    - con hẻm                             (freq: 81)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 55] (2 phrases)
+  Representative: cặp đôi
+  Members:
+    - cặp đôi                             (freq: 212)
+    - đeo                                 (freq: 43)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 56] (2 phrases)
+  Representative: chụp ảnh
+  Members:
+    - chụp ảnh                            (freq: 209)
+    - bức ảnh chụp                        (freq: 75)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 57] (2 phrases)
+  Representative: một_vài
+  Members:
+    - một_vài                             (freq: 186)
+    - của một_vài                         (freq: 32)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 58] (2 phrases)
+  Representative: nhiều người xuất_hiện
+  Members:
+    - nhiều người xuất_hiện               (freq: 113)
+    - nhiều cây_xanh xuất_hiện            (freq: 21)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 59] (2 phrases)
+  Representative: phương_tiện giao_thông
+  Members:
+    - phương_tiện giao_thông              (freq: 111)
+    - nhà_thờ                             (freq: 27)
+
+  ☐ Cultural (Y/N): Y
+  ☐ Facet: kiến_trúc-cảnh_quan
+  ☐ Notes: giữ "nhà_thờ"; loại "phương_tiện giao_thông."
+--------------------------------------------------------------------------------
+
+[CLUSTER 60] (2 phrases)
+  Representative: hàng rau củ
+  Members:
+    - hàng rau củ                         (freq: 106)
+    - củ quả xuất_hiện                    (freq: 35)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 61] (2 phrases)
+  Representative: quầy hàng rau
+  Members:
+    - quầy hàng rau                       (freq: 98)
+    - hàng bán rau                        (freq: 21)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 62] (2 phrases)
+  Representative: trước toà nhà
+  Members:
+    - trước toà nhà                       (freq: 86)
+    - trước căn nhà                       (freq: 64)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 63] (2 phrases)
+  Representative: đeo kính
+  Members:
+    - đeo kính                            (freq: 86)
+    - đàn_ông đeo kính                    (freq: 23)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 64] (2 phrases)
+  Representative: cây thông noel
+  Members:
+    - cây thông noel                      (freq: 68)
+    - thông noel                          (freq: 53)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Noel/Giáng sinh là văn hóa nhưng không đặc thù Việt trong scope local-Vietnam.
+--------------------------------------------------------------------------------
+
+[CLUSTER 65] (2 phrases)
+  Representative: trước mặt của
+  Members:
+    - trước mặt của                       (freq: 68)
+    - mặt trước của                       (freq: 59)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 66] (2 phrases)
+  Representative: món đồ trang_trí
+  Members:
+    - món đồ trang_trí                    (freq: 66)
+    - mặt_hàng đồ trang_trí               (freq: 34)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 67] (2 phrases)
+  Representative: quán cà_phê
+  Members:
+    - quán cà_phê                         (freq: 64)
+    - hồ nước                             (freq: 40)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Borderline đời sống; quán cà_phê quá chung trừ khi scope muốn bao gồm văn hóa cà phê Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 68] (2 phrases)
+  Representative: nhà cổ
+  Members:
+    - nhà cổ                              (freq: 63)
+    - ngôi nhà cao_tầng                   (freq: 60)
+
+  ☐ Cultural (Y/N): Y
+  ☐ Facet: kiến_trúc-cảnh_quan
+  ☐ Notes: giữ "nhà cổ"; loại "ngôi nhà cao_tầng."
+--------------------------------------------------------------------------------
+
+[CLUSTER 69] (2 phrases)
+  Representative: cậu bé
+  Members:
+    - cậu bé                              (freq: 62)
+    - bé gái                              (freq: 54)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 70] (2 phrases)
+  Representative: màu hồng
+  Members:
+    - màu hồng                            (freq: 60)
+    - hàng trái_cây                       (freq: 29)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 71] (2 phrases)
+  Representative: căn phòng trưng_bày
+  Members:
+    - căn phòng trưng_bày                 (freq: 60)
+    - căn nhà gỗ                          (freq: 23)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 72] (2 phrases)
+  Representative: ngôi đền
+  Members:
+    - ngôi đền                            (freq: 58)
+    - ngôi chùa                           (freq: 44)
+
+  ☐ Cultural (Y/N): Y
+  ☐ Facet: kiến_trúc-cảnh_quan
+  ☐ Notes: Giữ ngôi đền, ngôi chùa.
+--------------------------------------------------------------------------------
+
+[CLUSTER 73] (2 phrases)
+  Representative: cửa_hàng quần_áo
+  Members:
+    - cửa_hàng quần_áo                    (freq: 56)
+    - mặt_hàng quần_áo                    (freq: 44)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 74] (2 phrases)
+  Representative: hoa xuất_hiện
+  Members:
+    - hoa xuất_hiện                       (freq: 51)
+    - cổ xuất_hiện                        (freq: 31)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 75] (2 phrases)
+  Representative: một_vài người xuất_hiện
+  Members:
+    - một_vài người xuất_hiện             (freq: 46)
+    - một_vài người phụ_nữ                (freq: 24)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 76] (2 phrases)
+  Representative: lưu_thông
+  Members:
+    - lưu_thông                           (freq: 44)
+    - tụ_tập                              (freq: 43)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 77] (2 phrases)
+  Representative: lưng của cô
+  Members:
+    - lưng của cô                         (freq: 44)
+    - tay của cô                          (freq: 43)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 78] (2 phrases)
+  Representative: nhà cũ
+  Members:
+    - nhà cũ                              (freq: 43)
+    - ngôi nhà cũ                         (freq: 41)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 79] (2 phrases)
+  Representative: nhiều xe_máy
+  Members:
+    - nhiều xe_máy                        (freq: 42)
+    - nhiều cây_xanh                      (freq: 26)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 80] (2 phrases)
+  Representative: đứng gần
+  Members:
+    - đứng gần                            (freq: 42)
+    - đứng trước quầy                     (freq: 38)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 81] (2 phrases)
+  Representative: tấm biển quảng_cáo
+  Members:
+    - tấm biển quảng_cáo                  (freq: 42)
+    - chạm tay                            (freq: 26)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 82] (2 phrases)
+  Representative: uống nước
+  Members:
+    - uống nước                           (freq: 40)
+    - ngồi uống nước                      (freq: 28)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 83] (2 phrases)
+  Representative: người phụ_nữ xuất_hiện
+  Members:
+    - người phụ_nữ xuất_hiện              (freq: 38)
+    - người đàn_ông xuất_hiện             (freq: 36)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 84] (2 phrases)
+  Representative: rau củ
+  Members:
+    - rau củ                              (freq: 38)
+    - bó rau                              (freq: 24)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 85] (2 phrases)
+  Representative: của nhiều loại
+  Members:
+    - của nhiều loại                      (freq: 38)
+    - của nhiều mặt_hàng                  (freq: 31)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 86] (2 phrases)
+  Representative: ảnh tập_thể
+  Members:
+    - ảnh tập_thể                         (freq: 37)
+    - ảnh trước                           (freq: 29)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 87] (2 phrases)
+  Representative: bó hoa
+  Members:
+    - bó hoa                              (freq: 36)
+    - vườn hoa                            (freq: 23)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 88] (2 phrases)
+  Representative: ghế nhựa màu
+  Members:
+    - ghế nhựa màu                        (freq: 35)
+    - giỏ hàng màu                        (freq: 25)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 89] (2 phrases)
+  Representative: toà nhà cao_tầng
+  Members:
+    - toà nhà cao_tầng                    (freq: 34)
+    - toà tháp                            (freq: 27)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 90] (2 phrases)
+  Representative: hàng_hoá xuất_hiện
+  Members:
+    - hàng_hoá xuất_hiện                  (freq: 34)
+    - đèn_lồng xuất_hiện                  (freq: 22)
+
+  ☐ Cultural (Y/N): Y
+  ☐ Facet: trang_trí
+  ☐ Notes: giữ đèn_lồng xuất_hiện; loại hàng_hoá xuất_hiện.
+--------------------------------------------------------------------------------
+
+[CLUSTER 91] (2 phrases)
+  Representative: tấm bảng thông_báo
+  Members:
+    - tấm bảng thông_báo                  (freq: 32)
+    - tấm bảng_hiệu                       (freq: 21)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 92] (2 phrases)
+  Representative: quyển sách
+  Members:
+    - quyển sách                          (freq: 31)
+    - nắm tay                             (freq: 23)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 93] (2 phrases)
+  Representative: nói_chuyện
+  Members:
+    - nói_chuyện                          (freq: 30)
+    - vẽ                                  (freq: 25)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 94] (2 phrases)
+  Representative: áo_dài trắng
+  Members:
+    - áo_dài trắng                        (freq: 27)
+    - áo_dài đỏ                           (freq: 27)
+
+  ☐ Cultural (Y/N): Y
+  ☐ Facet: trang_phục
+  ☐ Notes: Giữ áo_dài trắng, áo_dài đỏ như biến thể của áo_dài.
+--------------------------------------------------------------------------------
+
+[CLUSTER 95] (2 phrases)
+  Representative: cờ xuất_hiện
+  Members:
+    - cờ xuất_hiện                        (freq: 27)
+    - lá cờ xuất_hiện                     (freq: 22)
+
+  ☐ Cultural (Y/N): Y
+  ☐ Facet: biểu_tượng
+  ☐ Notes: Giữ cờ/lá cờ chỉ khi ảnh/reference cho thấy cờ Việt Nam/quốc kỳ; nếu là cờ chung thì loại.
+--------------------------------------------------------------------------------
+
+[CLUSTER 96] (2 phrases)
+  Representative: quần_áo xuất_hiện
+  Members:
+    - quần_áo xuất_hiện                   (freq: 26)
+    - thức_ăn xuất_hiện                   (freq: 21)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm quần_áo/thức_ăn xuất_hiện quá chung; không có marker Việt cụ thể.
+--------------------------------------------------------------------------------
+
+[CLUSTER 97] (2 phrases)
+  Representative: trang_trí xuất_hiện
+  Members:
+    - trang_trí xuất_hiện                 (freq: 26)
+    - đồ trang_trí xuất_hiện              (freq: 23)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 98] (2 phrases)
+  Representative: bảng_hiệu
+  Members:
+    - bảng_hiệu                           (freq: 25)
+    - biển_hiệu                           (freq: 20)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 99] (1 phrases)
+  Representative: đứng
+  Members:
+    - đứng                                (freq: 1144)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 100] (1 phrases)
+  Representative: nhiều người
+  Members:
+    - nhiều người                         (freq: 1135)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 101] (1 phrases)
+  Representative: đường
+  Members:
+    - đường                               (freq: 1102)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 102] (1 phrases)
+  Representative: di_chuyển
+  Members:
+    - di_chuyển                           (freq: 735)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 103] (1 phrases)
+  Representative: ngồi
+  Members:
+    - ngồi                                (freq: 555)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 104] (1 phrases)
+  Representative: xuất_hiện của nhiều
+  Members:
+    - xuất_hiện của nhiều                 (freq: 464)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 105] (1 phrases)
+  Representative: cầm
+  Members:
+    - cầm                                 (freq: 414)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 106] (1 phrases)
+  Representative: cửa_hàng
+  Members:
+    - cửa_hàng                            (freq: 413)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 107] (1 phrases)
+  Representative: siêu_thị
+  Members:
+    - siêu_thị                            (freq: 402)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 108] (1 phrases)
+  Representative: bày_bán
+  Members:
+    - bày_bán                             (freq: 382)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 109] (1 phrases)
+  Representative: tay
+  Members:
+    - tay                                 (freq: 362)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 110] (1 phrases)
+  Representative: trước
+  Members:
+    - trước                               (freq: 347)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 111] (1 phrases)
+  Representative: nhau
+  Members:
+    - nhau                                (freq: 299)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 112] (1 phrases)
+  Representative: vỉa_hè
+  Members:
+    - vỉa_hè                              (freq: 299)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Vỉa_hè là yếu tố đô thị quen thuộc nhưng quá chung nếu đứng một mình.
+--------------------------------------------------------------------------------
+
+[CLUSTER 113] (1 phrases)
+  Representative: toà nhà
+  Members:
+    - toà nhà                             (freq: 292)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 114] (1 phrases)
+  Representative: đặt
+  Members:
+    - đặt                                 (freq: 271)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 115] (1 phrases)
+  Representative: bàn
+  Members:
+    - bàn                                 (freq: 252)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 116] (1 phrases)
+  Representative: treo
+  Members:
+    - treo                                (freq: 228)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 117] (1 phrases)
+  Representative: nhiều
+  Members:
+    - nhiều                               (freq: 210)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 118] (1 phrases)
+  Representative: của
+  Members:
+    - của                                 (freq: 180)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 119] (1 phrases)
+  Representative: đi bộ
+  Members:
+    - đi bộ                               (freq: 179)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 120] (1 phrases)
+  Representative: nam thanh_niên
+  Members:
+    - nam thanh_niên                      (freq: 178)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 121] (1 phrases)
+  Representative: trước của
+  Members:
+    - trước của                           (freq: 172)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 122] (1 phrases)
+  Representative: căn phòng
+  Members:
+    - căn phòng                           (freq: 166)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 123] (1 phrases)
+  Representative: mặt_nước
+  Members:
+    - mặt_nước                            (freq: 158)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 124] (1 phrases)
+  Representative: lề_đường
+  Members:
+    - lề_đường                            (freq: 152)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 125] (1 phrases)
+  Representative: con thuyền
+  Members:
+    - con thuyền                          (freq: 142)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Con thuyền quá chung; ưu tiên ghe/xuồng/xích_lô là phương_tiện cụ thể hơn.
+--------------------------------------------------------------------------------
+
+[CLUSTER 126] (1 phrases)
+  Representative: màu xanh lá
+  Members:
+    - màu xanh lá                         (freq: 139)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 127] (1 phrases)
+  Representative: tường
+  Members:
+    - tường                               (freq: 137)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 128] (1 phrases)
+  Representative: nhìn
+  Members:
+    - nhìn                                (freq: 135)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 129] (1 phrases)
+  Representative: trước cửa_hàng
+  Members:
+    - trước cửa_hàng                      (freq: 133)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 130] (1 phrases)
+  Representative: lối đi
+  Members:
+    - lối đi                              (freq: 131)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 131] (1 phrases)
+  Representative: thuyền
+  Members:
+    - thuyền                              (freq: 127)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Thuyền quá chung; không phải marker văn hóa/local cụ thể nếu đứng một mình.
+--------------------------------------------------------------------------------
+
+[CLUSTER 132] (1 phrases)
+  Representative: dựng
+  Members:
+    - dựng                                (freq: 124)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 133] (1 phrases)
+  Representative: lá cây
+  Members:
+    - lá cây                              (freq: 124)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 134] (1 phrases)
+  Representative: đi
+  Members:
+    - đi                                  (freq: 122)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 135] (1 phrases)
+  Representative: sông
+  Members:
+    - sông                                (freq: 122)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 136] (1 phrases)
+  Representative: xuất_hiện của một_vài
+  Members:
+    - xuất_hiện của một_vài               (freq: 120)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 137] (1 phrases)
+  Representative: biển
+  Members:
+    - biển                                (freq: 113)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 138] (1 phrases)
+  Representative: bày
+  Members:
+    - bày                                 (freq: 92)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 139] (1 phrases)
+  Representative: tạo_dáng chụp ảnh
+  Members:
+    - tạo_dáng chụp ảnh                   (freq: 91)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 140] (1 phrases)
+  Representative: đứng trước
+  Members:
+    - đứng trước                          (freq: 90)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 141] (1 phrases)
+  Representative: bạn nữ
+  Members:
+    - bạn nữ                              (freq: 90)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 142] (1 phrases)
+  Representative: sau lưng của
+  Members:
+    - sau lưng của                        (freq: 90)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 143] (1 phrases)
+  Representative: trang_trí giáng_sinh
+  Members:
+    - trang_trí giáng_sinh                (freq: 89)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: 
+--------------------------------------------------------------------------------
+
+[CLUSTER 144] (1 phrases)
+  Representative: giữa
+  Members:
+    - giữa                                (freq: 87)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 145] (1 phrases)
+  Representative: đỗ
+  Members:
+    - đỗ                                  (freq: 87)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 146] (1 phrases)
+  Representative: gian_hàng
+  Members:
+    - gian_hàng                           (freq: 86)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 147] (1 phrases)
+  Representative: nhà cao_tầng
+  Members:
+    - nhà cao_tầng                        (freq: 85)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 148] (1 phrases)
+  Representative: phụ_nữ đội nón
+  Members:
+    - phụ_nữ đội nón                      (freq: 83)
+
+  ☐ Cultural (Y/N): Y
+  ☐ Facet: trang_phục
+  ☐ Notes: Giữ như biến thể nón/nón lá; cụm thiếu chữ "lá" nên cần kiểm tra ngữ cảnh.
+--------------------------------------------------------------------------------
+
+[CLUSTER 149] (1 phrases)
+  Representative: trước ngôi nhà
+  Members:
+    - trước ngôi nhà                      (freq: 82)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 150] (1 phrases)
+  Representative: trước mặt người
+  Members:
+    - trước mặt người                     (freq: 79)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 151] (1 phrases)
+  Representative: quầy hàng bán
+  Members:
+    - quầy hàng bán                       (freq: 79)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 152] (1 phrases)
+  Representative: tạo_dáng
+  Members:
+    - tạo_dáng                            (freq: 77)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 153] (1 phrases)
+  Representative: trang_trí
+  Members:
+    - trang_trí                           (freq: 77)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 154] (1 phrases)
+  Representative: bạn trẻ
+  Members:
+    - bạn trẻ                             (freq: 77)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 155] (1 phrases)
+  Representative: của ngôi nhà
+  Members:
+    - của ngôi nhà                        (freq: 76)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 156] (1 phrases)
+  Representative: mỉm cười
+  Members:
+    - mỉm cười                            (freq: 74)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 157] (1 phrases)
+  Representative: khu_vực
+  Members:
+    - khu_vực                             (freq: 72)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 158] (1 phrases)
+  Representative: nhiều phương_tiện giao_thông
+  Members:
+    - nhiều phương_tiện giao_thông        (freq: 71)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 159] (1 phrases)
+  Representative: nhìn về
+  Members:
+    - nhìn về                             (freq: 70)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 160] (1 phrases)
+  Representative: di_tích lịch_sử
+  Members:
+    - di_tích lịch_sử                     (freq: 70)
+
+  ☐ Cultural (Y/N): Y
+  ☐ Facet: kiến_trúc-cảnh_quan
+  ☐ Notes: Giữ di_tích lịch_sử.
+--------------------------------------------------------------------------------
+
+[CLUSTER 161] (1 phrases)
+  Representative: gần
+  Members:
+    - gần                                 (freq: 70)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 162] (1 phrases)
+  Representative: đẩy
+  Members:
+    - đẩy                                 (freq: 69)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 163] (1 phrases)
+  Representative: khu_phố
+  Members:
+    - khu_phố                             (freq: 67)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 164] (1 phrases)
+  Representative: trước quầy hàng
+  Members:
+    - trước quầy hàng                     (freq: 67)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 165] (1 phrases)
+  Representative: sân
+  Members:
+    - sân                                 (freq: 67)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 166] (1 phrases)
+  Representative: nắm tay nhau
+  Members:
+    - nắm tay nhau                        (freq: 66)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 167] (1 phrases)
+  Representative: dòng chữ màu
+  Members:
+    - dòng chữ màu                        (freq: 65)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 168] (1 phrases)
+  Representative: tay nhau
+  Members:
+    - tay nhau                            (freq: 63)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 169] (1 phrases)
+  Representative: con tàu
+  Members:
+    - con tàu                             (freq: 61)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 170] (1 phrases)
+  Representative: đông người
+  Members:
+    - đông người                          (freq: 59)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 171] (1 phrases)
+  Representative: kệ
+  Members:
+    - kệ                                  (freq: 58)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 172] (1 phrases)
+  Representative: ảnh chụp
+  Members:
+    - ảnh chụp                            (freq: 58)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 173] (1 phrases)
+  Representative: xe đẩy
+  Members:
+    - xe đẩy                              (freq: 57)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 174] (1 phrases)
+  Representative: hàng xuất_hiện
+  Members:
+    - hàng xuất_hiện                      (freq: 57)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 175] (1 phrases)
+  Representative: trạng_thái đóng_cửa
+  Members:
+    - trạng_thái đóng_cửa                 (freq: 56)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 176] (1 phrases)
+  Representative: trước mặt
+  Members:
+    - trước mặt                           (freq: 53)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 177] (1 phrases)
+  Representative: quả xuất_hiện
+  Members:
+    - quả xuất_hiện                       (freq: 53)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 178] (1 phrases)
+  Representative: cả
+  Members:
+    - cả                                  (freq: 52)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 179] (1 phrases)
+  Representative: bậc thang
+  Members:
+    - bậc thang                           (freq: 52)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 180] (1 phrases)
+  Representative: màu nâu
+  Members:
+    - màu nâu                             (freq: 51)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 181] (1 phrases)
+  Representative: đậu
+  Members:
+    - đậu                                 (freq: 50)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 182] (1 phrases)
+  Representative: sau
+  Members:
+    - sau                                 (freq: 50)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 183] (1 phrases)
+  Representative: tham_quan
+  Members:
+    - tham_quan                           (freq: 50)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 184] (1 phrases)
+  Representative: trước của toà
+  Members:
+    - trước của toà                       (freq: 50)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 185] (1 phrases)
+  Representative: của con đường
+  Members:
+    - của con đường                       (freq: 50)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 186] (1 phrases)
+  Representative: nhóm bạn trẻ
+  Members:
+    - nhóm bạn trẻ                        (freq: 49)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 187] (1 phrases)
+  Representative: toà thành cổ
+  Members:
+    - toà thành cổ                        (freq: 48)
+
+  ☐ Cultural (Y/N): Y
+  ☐ Facet: kiến_trúc-cảnh_quan
+  ☐ Notes: Giữ toà thành cổ.
+--------------------------------------------------------------------------------
+
+[CLUSTER 188] (1 phrases)
+  Representative: chụp ảnh tập_thể
+  Members:
+    - chụp ảnh tập_thể                    (freq: 47)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 189] (1 phrases)
+  Representative: bộ bàn_ghế
+  Members:
+    - bộ bàn_ghế                          (freq: 47)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 190] (1 phrases)
+  Representative: nhiều bộ bàn_ghế
+  Members:
+    - nhiều bộ bàn_ghế                    (freq: 45)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 191] (1 phrases)
+  Representative: nhiều xe_cộ
+  Members:
+    - nhiều xe_cộ                         (freq: 45)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 192] (1 phrases)
+  Representative: buổi
+  Members:
+    - buổi                                (freq: 44)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 193] (1 phrases)
+  Representative: phát_biểu
+  Members:
+    - phát_biểu                           (freq: 44)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 194] (1 phrases)
+  Representative: xích_lô
+  Members:
+    - xích_lô                             (freq: 43)
+
+  ☐ Cultural (Y/N): Y
+  ☐ Facet: phương_tiện
+  ☐ Notes: Giữ xích_lô.
+--------------------------------------------------------------------------------
+
+[CLUSTER 195] (1 phrases)
+  Representative: bán rau củ
+  Members:
+    - bán rau củ                          (freq: 43)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 196] (1 phrases)
+  Representative: bờ sông
+  Members:
+    - bờ sông                             (freq: 42)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 197] (1 phrases)
+  Representative: màu đỏ xuất_hiện
+  Members:
+    - màu đỏ xuất_hiện                    (freq: 42)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 198] (1 phrases)
+  Representative: túi
+  Members:
+    - túi                                 (freq: 41)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 199] (1 phrases)
+  Representative: áo màu trắng
+  Members:
+    - áo màu trắng                        (freq: 41)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 200] (1 phrases)
+  Representative: trần nhà
+  Members:
+    - trần nhà                            (freq: 41)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 201] (1 phrases)
+  Representative: lối
+  Members:
+    - lối                                 (freq: 41)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 202] (1 phrases)
+  Representative: chụp ảnh trước
+  Members:
+    - chụp ảnh trước                      (freq: 40)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 203] (1 phrases)
+  Representative: gần nhau
+  Members:
+    - gần nhau                            (freq: 39)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 204] (1 phrases)
+  Representative: xanh lá
+  Members:
+    - xanh lá                             (freq: 39)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 205] (1 phrases)
+  Representative: các em học_sinh
+  Members:
+    - các em học_sinh                     (freq: 39)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 206] (1 phrases)
+  Representative: loại hàng_hoá
+  Members:
+    - loại hàng_hoá                       (freq: 39)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 207] (1 phrases)
+  Representative: khu_phố cổ
+  Members:
+    - khu_phố cổ                          (freq: 39)
+
+  ☐ Cultural (Y/N): Y
+  ☐ Facet: kiến_trúc-cảnh_quan
+  ☐ Notes: Giữ khu_phố cổ.
+--------------------------------------------------------------------------------
+
+[CLUSTER 208] (1 phrases)
+  Representative: người đàn_bà
+  Members:
+    - người đàn_bà                        (freq: 38)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 209] (1 phrases)
+  Representative: ghế
+  Members:
+    - ghế                                 (freq: 38)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 210] (1 phrases)
+  Representative: mọi người
+  Members:
+    - mọi người                           (freq: 37)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 211] (1 phrases)
+  Representative: nằm
+  Members:
+    - nằm                                 (freq: 36)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 212] (1 phrases)
+  Representative: ghế nhựa
+  Members:
+    - ghế nhựa                            (freq: 36)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 213] (1 phrases)
+  Representative: bán quần_áo
+  Members:
+    - bán quần_áo                         (freq: 36)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 214] (1 phrases)
+  Representative: bông hoa
+  Members:
+    - bông hoa                            (freq: 35)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 215] (1 phrases)
+  Representative: sản_phẩm
+  Members:
+    - sản_phẩm                            (freq: 35)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 216] (1 phrases)
+  Representative: bảo_tàng
+  Members:
+    - bảo_tàng                            (freq: 35)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Bảo_tàng là bối cảnh văn hóa nhưng không phải marker thị giác Việt cụ thể nếu đứng một mình.
+--------------------------------------------------------------------------------
+
+[CLUSTER 217] (1 phrases)
+  Representative: thành cổ
+  Members:
+    - thành cổ                            (freq: 35)
+
+  ☐ Cultural (Y/N): Y
+  ☐ Facet: kiến_trúc-cảnh_quan
+  ☐ Notes: Giữ thành cổ.
+--------------------------------------------------------------------------------
+
+[CLUSTER 218] (1 phrases)
+  Representative: đạp xe
+  Members:
+    - đạp xe                              (freq: 34)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 219] (1 phrases)
+  Representative: cây_cổ_thụ
+  Members:
+    - cây_cổ_thụ                          (freq: 34)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 220] (1 phrases)
+  Representative: cầu
+  Members:
+    - cầu                                 (freq: 34)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 221] (1 phrases)
+  Representative: chậu cây
+  Members:
+    - chậu cây                            (freq: 34)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 222] (1 phrases)
+  Representative: chạy xe_máy
+  Members:
+    - chạy xe_máy                         (freq: 34)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 223] (1 phrases)
+  Representative: trước cửa của
+  Members:
+    - trước cửa của                       (freq: 33)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 224] (1 phrases)
+  Representative: tầng
+  Members:
+    - tầng                                (freq: 32)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 225] (1 phrases)
+  Representative: xếp_hàng
+  Members:
+    - xếp_hàng                            (freq: 32)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 226] (1 phrases)
+  Representative: dắt
+  Members:
+    - dắt                                 (freq: 32)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 227] (1 phrases)
+  Representative: lan_can
+  Members:
+    - lan_can                             (freq: 32)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 228] (1 phrases)
+  Representative: tay của
+  Members:
+    - tay của                             (freq: 32)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 229] (1 phrases)
+  Representative: sản_phẩm xuất_hiện
+  Members:
+    - sản_phẩm xuất_hiện                  (freq: 31)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 230] (1 phrases)
+  Representative: nhà cao_tầng xuất_hiện
+  Members:
+    - nhà cao_tầng xuất_hiện              (freq: 31)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 231] (1 phrases)
+  Representative: cao của
+  Members:
+    - cao của                             (freq: 30)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 232] (1 phrases)
+  Representative: bạn nam
+  Members:
+    - bạn nam                             (freq: 30)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 233] (1 phrases)
+  Representative: gái đội nón
+  Members:
+    - gái đội nón                         (freq: 29)
+
+  ☐ Cultural (Y/N): Y
+  ☐ Facet: trang_phục
+  ☐ Notes: Giữ như biến thể nón/nón lá; cụm thiếu chữ lá nên cần kiểm tra ngữ cảnh.
+--------------------------------------------------------------------------------
+
+[CLUSTER 234] (1 phrases)
+  Representative: trước khu chợ
+  Members:
+    - trước khu chợ                       (freq: 29)
+
+  ☐ Cultural (Y/N): Y
+  ☐ Facet: sinh_hoạt
+  ☐ Notes: Giữ như biến thể vị trí của khu chợ.
+--------------------------------------------------------------------------------
+
+[CLUSTER 235] (1 phrases)
+  Representative: quán
+  Members:
+    - quán                                (freq: 29)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 236] (1 phrases)
+  Representative: quầy
+  Members:
+    - quầy                                (freq: 29)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 237] (1 phrases)
+  Representative: bát phở
+  Members:
+    - bát phở                             (freq: 29)
+
+  ☐ Cultural (Y/N): Y
+  ☐ Facet: ẩm_thực
+  ☐ Notes: Giữ bát phở.
+--------------------------------------------------------------------------------
+
+[CLUSTER 238] (1 phrases)
+  Representative: tranh xuất_hiện
+  Members:
+    - tranh xuất_hiện                     (freq: 29)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 239] (1 phrases)
+  Representative: trước của cửa_hàng
+  Members:
+    - trước của cửa_hàng                  (freq: 29)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 240] (1 phrases)
+  Representative: cửa
+  Members:
+    - cửa                                 (freq: 28)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 241] (1 phrases)
+  Representative: sau lưng người
+  Members:
+    - sau lưng người                      (freq: 28)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 242] (1 phrases)
+  Representative: bãi cỏ xanh
+  Members:
+    - bãi cỏ xanh                         (freq: 28)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 243] (1 phrases)
+  Representative: sau lưng cô
+  Members:
+    - sau lưng cô                         (freq: 28)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 244] (1 phrases)
+  Representative: lưng cô gái
+  Members:
+    - lưng cô gái                         (freq: 28)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 245] (1 phrases)
+  Representative: cổng
+  Members:
+    - cổng                                (freq: 28)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 246] (1 phrases)
+  Representative: con ngõ
+  Members:
+    - con ngõ                             (freq: 28)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 247] (1 phrases)
+  Representative: xuất_hiện trước mặt
+  Members:
+    - xuất_hiện trước mặt                 (freq: 28)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 248] (1 phrases)
+  Representative: trước cổng của
+  Members:
+    - trước cổng của                      (freq: 28)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 249] (1 phrases)
+  Representative: cây thông
+  Members:
+    - cây thông                           (freq: 27)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 250] (1 phrases)
+  Representative: tham_gia giao_thông
+  Members:
+    - tham_gia giao_thông                 (freq: 27)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 251] (1 phrases)
+  Representative: nhà_hàng
+  Members:
+    - nhà_hàng                            (freq: 27)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 252] (1 phrases)
+  Representative: quầy thanh_toán
+  Members:
+    - quầy thanh_toán                     (freq: 27)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 253] (1 phrases)
+  Representative: của nhiều
+  Members:
+    - của nhiều                           (freq: 27)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 254] (1 phrases)
+  Representative: trước bức tường
+  Members:
+    - trước bức tường                     (freq: 26)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 255] (1 phrases)
+  Representative: ông_già noel
+  Members:
+    - ông_già noel                        (freq: 26)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 256] (1 phrases)
+  Representative: bộ xương
+  Members:
+    - bộ xương                            (freq: 26)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 257] (1 phrases)
+  Representative: của khu di_tích
+  Members:
+    - của khu di_tích                     (freq: 26)
+
+  ☐ Cultural (Y/N): Y
+  ☐ Facet: kiến_trúc-cảnh_quan
+  ☐ Notes: Giữ như biến thể vị trí của khu di_tích.
+--------------------------------------------------------------------------------
+
+[CLUSTER 258] (1 phrases)
+  Representative: trước của ngôi
+  Members:
+    - trước của ngôi                      (freq: 26)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 259] (1 phrases)
+  Representative: khu rừng
+  Members:
+    - khu rừng                            (freq: 26)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 260] (1 phrases)
+  Representative: bục
+  Members:
+    - bục                                 (freq: 26)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 261] (1 phrases)
+  Representative: tính tiền
+  Members:
+    - tính tiền                           (freq: 26)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 262] (1 phrases)
+  Representative: trao_đổi
+  Members:
+    - trao_đổi                            (freq: 26)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 263] (1 phrases)
+  Representative: quanh
+  Members:
+    - quanh                               (freq: 26)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 264] (1 phrases)
+  Representative: bờ hồ
+  Members:
+    - bờ hồ                               (freq: 26)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 265] (1 phrases)
+  Representative: đeo kính_râm
+  Members:
+    - đeo kính_râm                        (freq: 26)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 266] (1 phrases)
+  Representative: cánh đồng
+  Members:
+    - cánh đồng                           (freq: 26)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 267] (1 phrases)
+  Representative: ghe
+  Members:
+    - ghe                                 (freq: 26)
+
+  ☐ Cultural (Y/N): Y
+  ☐ Facet: phương_tiện
+  ☐ Notes: Giữ ghe như phương tiện đường nước địa phương.
+--------------------------------------------------------------------------------
+
+[CLUSTER 268] (1 phrases)
+  Representative: rất nhiều người
+  Members:
+    - rất nhiều người                     (freq: 25)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 269] (1 phrases)
+  Representative: bờ biển
+  Members:
+    - bờ biển                             (freq: 25)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 270] (1 phrases)
+  Representative: màu chủ_đạo
+  Members:
+    - màu chủ_đạo                         (freq: 25)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 271] (1 phrases)
+  Representative: đeo túi_xách
+  Members:
+    - đeo túi_xách                        (freq: 25)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 272] (1 phrases)
+  Representative: dòng chữ
+  Members:
+    - dòng chữ                            (freq: 25)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 273] (1 phrases)
+  Representative: đồ bảo_hộ
+  Members:
+    - đồ bảo_hộ                           (freq: 25)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 274] (1 phrases)
+  Representative: hộp quà
+  Members:
+    - hộp quà                             (freq: 25)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 275] (1 phrases)
+  Representative: của con phố
+  Members:
+    - của con phố                         (freq: 25)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 276] (1 phrases)
+  Representative: trước của căn
+  Members:
+    - trước của căn                       (freq: 24)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 277] (1 phrases)
+  Representative: bắc ngang
+  Members:
+    - bắc ngang                           (freq: 24)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 278] (1 phrases)
+  Representative: nhân_viên
+  Members:
+    - nhân_viên                           (freq: 24)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 279] (1 phrases)
+  Representative: rộng vành
+  Members:
+    - rộng vành                           (freq: 24)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 280] (1 phrases)
+  Representative: nước xuất_hiện
+  Members:
+    - nước xuất_hiện                      (freq: 24)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 281] (1 phrases)
+  Representative: ban_công của
+  Members:
+    - ban_công của                        (freq: 24)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 282] (1 phrases)
+  Representative: tấm biển tên
+  Members:
+    - tấm biển tên                        (freq: 24)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 283] (1 phrases)
+  Representative: phòng
+  Members:
+    - phòng                               (freq: 23)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 284] (1 phrases)
+  Representative: xe xích_lô
+  Members:
+    - xe xích_lô                          (freq: 23)
+
+  ☐ Cultural (Y/N): Y
+  ☐ Facet: phương_tiện
+  ☐ Notes: Giữ xe xích_lô như biến thể của xích_lô.
+--------------------------------------------------------------------------------
+
+[CLUSTER 285] (1 phrases)
+  Representative: dãy phố
+  Members:
+    - dãy phố                             (freq: 23)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 286] (1 phrases)
+  Representative: mũ rộng vành
+  Members:
+    - mũ rộng vành                        (freq: 23)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 287] (1 phrases)
+  Representative: trời
+  Members:
+    - trời                                (freq: 23)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 288] (1 phrases)
+  Representative: trung_tâm thương_mại
+  Members:
+    - trung_tâm thương_mại                (freq: 23)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 289] (1 phrases)
+  Representative: hàng rong
+  Members:
+    - hàng rong                           (freq: 23)
+
+  ☐ Cultural (Y/N): Y
+  ☐ Facet: sinh_hoạt
+  ☐ Notes: Giữ hàng rong.
+--------------------------------------------------------------------------------
+
+[CLUSTER 290] (1 phrases)
+  Representative: hộp
+  Members:
+    - hộp                                 (freq: 23)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 291] (1 phrases)
+  Representative: dắt xe_đạp
+  Members:
+    - dắt xe_đạp                          (freq: 23)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 292] (1 phrases)
+  Representative: của nhiều món
+  Members:
+    - của nhiều món                       (freq: 23)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 293] (1 phrases)
+  Representative: tay người đàn_ông
+  Members:
+    - tay người đàn_ông                   (freq: 22)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 294] (1 phrases)
+  Representative: ngồi ăn
+  Members:
+    - ngồi ăn                             (freq: 22)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 295] (1 phrases)
+  Representative: hiện_vật
+  Members:
+    - hiện_vật                            (freq: 22)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Hiện_vật quá chung; chỉ giữ nếu biết rõ là hiện vật di sản/văn hóa cụ thể.
+--------------------------------------------------------------------------------
+
+[CLUSTER 296] (1 phrases)
+  Representative: ngồi ăn_ở
+  Members:
+    - ngồi ăn_ở                           (freq: 22)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 297] (1 phrases)
+  Representative: nhau chụp ảnh
+  Members:
+    - nhau chụp ảnh                       (freq: 22)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 298] (1 phrases)
+  Representative: bộ bàn_ghế xuất_hiện
+  Members:
+    - bộ bàn_ghế xuất_hiện                (freq: 22)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 299] (1 phrases)
+  Representative: tranh vẽ về
+  Members:
+    - tranh vẽ về                         (freq: 21)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 300] (1 phrases)
+  Representative: gỗ xuất_hiện
+  Members:
+    - gỗ xuất_hiện                        (freq: 21)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 301] (1 phrases)
+  Representative: chở người
+  Members:
+    - chở người                           (freq: 21)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 302] (1 phrases)
+  Representative: xe_buýt
+  Members:
+    - xe_buýt                             (freq: 21)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 303] (1 phrases)
+  Representative: tranh vẽ
+  Members:
+    - tranh vẽ                            (freq: 21)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 304] (1 phrases)
+  Representative: nhiều em học_sinh
+  Members:
+    - nhiều em học_sinh                   (freq: 21)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Cụm từ chung, không thể hiện đặc thù văn hóa Việt.
+--------------------------------------------------------------------------------
+
+[CLUSTER 305] (1 phrases)
+  Representative: đồng_chí công_an
+  Members:
+    - đồng_chí công_an                    (freq: 21)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Đồng_chí công_an là cụm thể chế/xã hội, chưa phải object văn hóa thị giác cho vocab.
+--------------------------------------------------------------------------------
+
+[CLUSTER 306] (1 phrases)
+  Representative: khu hội_chợ
+  Members:
+    - khu hội_chợ                         (freq: 21)
+
+  ☐ Cultural (Y/N): N
+  ☐ Facet: n/a
+  ☐ Notes: Khu hội_chợ quá chung; chỉ giữ nếu sau này resolve là lễ hội/chợ phiên địa phương.
+--------------------------------------------------------------------------------
